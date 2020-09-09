@@ -86,7 +86,7 @@ zh-CN:
       updated: 已成功更改密码。 您已登录。
       updated_not_active: 已成功更改密码。
     registrations:
-      destroyed: 再见 ! 已成功取消您的帐户。 我们希望能很快再见到你
+      destroyed: 再见 ! 已成功取消您的帐户。 我们希望能很快再见到�
       signed_up: 欢迎 ! 您已成功注册。
       signed_up_but_inactive: 您已成功注册。 但是，由于您的帐户尚未激活，因此我们无法登录您。
       signed_up_but_locked: 您已成功注册。 但是，由于您的帐户已锁定，因此我们无法登录您。

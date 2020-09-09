@@ -86,7 +86,7 @@ zh-TW:
       updated: 已順利變更您的密碼。 您現在已登入。
       updated_not_active: 已順利變更您的密碼。
     registrations:
-      destroyed: 再見 您的帳戶已順利取消。 我們希望很快能再見到你
+      destroyed: 再見 您的帳戶已順利取消。 我們希望很快能再見到�
       signed_up: 歡迎光臨 您已順利簽署。
       signed_up_but_inactive: 您已順利簽署。 不過，我們無法在您登入，因為您的帳戶尚未啟動。
       signed_up_but_locked: 您已順利簽署。 不過，因為您的帳戶已鎖定，所以我們無法將您登入。

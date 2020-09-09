@@ -644,7 +644,7 @@ it:
   appearance:
     advanced_web_interface: Interfaccia web avanzata
     advanced_web_interface_hint: "Se si desidera utilizzare l'intera larghezza dello schermo, l'interfaccia web avanzata consente di configurare molte colonne diverse per visualizzare altrettante informazioni contemporaneamente all'utente desiderato: Home, notifiche, timeline federata, qualsiasi numero di elenchi e hashtag."
-    animations_and_accessibility: Animazioni e accessibilit√†
+    animations_and_accessibility: Animazioni e accessibilit√
     confirmation_dialogs: Dialoghi di conferma
     discovery: Rilevamento
     localization:
@@ -752,7 +752,7 @@ it:
       x_seconds: "%{count}s"
   deletes:
     challenge_not_passed: Le informazioni inserite non sono corrette
-    confirm_password: Inserire la password corrente per verificare la propria identit√†
+    confirm_password: Inserire la password corrente per verificare la propria identit√
     confirm_username: Inserisce il tuo username per confermare la procedura
     proceed: Elimina account
     success_msg: Il tuo account √® stato eliminato correttamente
@@ -858,7 +858,7 @@ it:
       wrong_user: Impossibile creare una prova per %{proving} secondi mentre si √® registrato come %{current}. Accedere come %{proving} e riprovare.
     explanation_html: Qui √® possibile collegare graficamente le altre identit√† da altre piattaforme, come Keybase. Questo permette ad altre persone di inviare messaggi crittografati su quelle piattaforme e permette loro di fidarsi che il contenuto che li invii proviene da te.
     i_am_html: Io sono %{username} su %{service}.
-    identity: Identit√†
+    identity: Identit√
     inactive: Inattivo
     publicize_checkbox: "E toot questo:"
     publicize_toot: "E'dimostrato! Io sono %{username} su %{service}: %{url}"
@@ -1068,7 +1068,7 @@ it:
     over_total_limit: Hai superato il limite di %{limit} toots programmata
     too_soon: La data prevista deve essere in futuro
   sessions:
-    activity: Ultima attivit√†
+    activity: Ultima attivit√
     browser: Browser
     browsers:
       alipay: Alipay
@@ -1120,7 +1120,7 @@ it:
     edit_profile: Modifica profilo
     export: Esportazione dei dati
     featured_tags: Hashtag figurati
-    identity_proofs: Prove di identit√†
+    identity_proofs: Prove di identit√
     import: Importa
     import_and_export: Importazione ed esportazione
     migrate: Migrazione account

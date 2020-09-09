@@ -36,7 +36,7 @@ zh-CN:
     unavailable_content: 需审核的服务器
     unavailable_content_description:
       domain: 服务器
-      reason: 原因
+      reason: 原�
       rejecting_media: "这些服务器中的媒体文件将不会被处理或存储，并且不会显示缩略图，需要手动单击原始文件:"
       rejecting_media_title: 过滤介质
       silenced: "来自这些服务器的帖子将隐藏在公共时间线和对话中，并且不会从其用户交互生成任何通知，除非您正在执行这些操作 :"
@@ -317,7 +317,7 @@ zh-CN:
       unlisted: 未列出
       update_failed_msg: 无法更新 emoji
       updated_msg: Emoji 成功更新!
-      upload: 上传
+      upload: 上�
     dashboard:
       authorized_fetch_mode: 安全方式
       backlog: 积压的作业
@@ -870,7 +870,7 @@ zh-CN:
       domain_blocking: 域阻塞列表
       following: 以下列表
       muting: 静音列表
-    upload: 上传
+    upload: 上�
   in_memoriam_html: 在回忆里
   invites:
     delete: 取消激活
@@ -951,7 +951,7 @@ zh-CN:
     favourite:
       body: "您的状态为 %{name}:"
       subject: "%{name} 支持您的状态"
-      title: 新宠
+      title: 新�
     follow:
       body: "%{name} 正在跟踪您 !"
       subject: "%{name} 正在关注您"
@@ -1020,7 +1020,7 @@ zh-CN:
       unrecognized_emoji: 不是公认的 emoji
   relationships:
     activity: 帐户活动
-    dormant: 休眠
+    dormant: 休�
     followers: 追随者
     following: 以下
     invited: 已邀请
@@ -1185,7 +1185,7 @@ zh-CN:
       <p><p> 从您收集的任何信息可通过以下方式使用</p></p>
 
       <ul>
-        
+
         <li>提供 Chattery 的核心功能。 您只能在登录时与他人的内容进行交互，并发布您自己的内容。 例如，您可以跟随其他人查看自己的个性化主页时间线中的组合帖子。</li>
         <li>要帮助审核社区，例如将您的 IP 地址与其他已知的地址进行比较，以确定禁止逃税或其他违例。</li>
         <li><li> 提供的电子邮件地址可用于发送信息，有关其他人与内容交互或发送消息的通知，以及响应查询和 /或其他请求或问题。</li></li>

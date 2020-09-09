@@ -171,9 +171,9 @@ zh-CN:
       notification_emails:
         digest: 发送摘要电子邮件
         favourite: 有人喜欢你的身份
-        follow: 有人跟踪你
+        follow: 有人跟踪�
         follow_request: 有人要求跟你走
-        mention: 有人提到你
+        mention: 有人提到�
         pending_account: 新帐户需要复审
         reblog: 有人提升了你的地位
         report: 已提交新报告

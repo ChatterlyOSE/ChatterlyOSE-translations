@@ -171,9 +171,9 @@ zh-TW:
       notification_emails:
         digest: 傳送摘要電子郵件
         favourite: 有人喜歡你的地位
-        follow: 有人跟著你
+        follow: 有人跟著�
         follow_request: 有人要跟你走
-        mention: 有人提到你
+        mention: 有人提到�
         pending_account: 新帳戶需求審查
         reblog: 有人提升了你的地位
         report: 已提交新報告

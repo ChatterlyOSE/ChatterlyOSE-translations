@@ -86,7 +86,7 @@ ko:
       admin_account_action:
         include_statuses: 전자 메일에 보고된 내용 포함
         send_email_notification: 전자 우편 당 사용자에게 알림
-        text: 사용자 정의 경고
+        text: 사용자 정의 경�
         type: 행동
         types:
           disable: 로그인 사용 안 함

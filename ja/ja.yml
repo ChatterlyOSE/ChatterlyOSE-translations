@@ -77,7 +77,7 @@ ja:
       admin: Roxxon 従業員
       bot: ボット
       group: グループ
-      moderator: チャタリー・セーフティー・チーム
+      moderator: チャタリー・セーフティー・チー�
     unavailable: プロファイル使用不可
     unfollow: フォロー
   admin:
@@ -306,7 +306,7 @@ ja:
       list: 一覧
       listed: 上場
       new:
-        title: 新しいカスタム・モジの追加
+        title: 新しいカスタム・モジの追�
       not_permitted: このアクションの実行は許可されていません
       overwrite: 上書き
       shortcode: ショートコード
@@ -327,7 +327,7 @@ ja:
       feature_profile_directory: プロファイル・ディレクトリー
       feature_registrations: 登録
       feature_relay: フェデレーションリレー
-      feature_spam_check: アンチスパム
+      feature_spam_check: アンチスパ�
       feature_timeline_preview: タイムライン・プレビュー
       features: 特徴
       hidden_service: 非表示サービスとの連携
@@ -352,7 +352,7 @@ ja:
       destroyed_msg: ドメインは連携から許可されていません
       undo: ドメインを使用した連携の禁止
     domain_blocks:
-      add_new: 新規ドメイン・ブロックの追加
+      add_new: 新規ドメイン・ブロックの追�
       created_msg: ドメイン・ブロックは現在処理中です
       destroyed_msg: ドメイン・ブロックの取り消しが完了しました
       domain: ドメイン
@@ -391,7 +391,7 @@ ja:
       undo: ドメイン・ブロックの取り消し
       view: ドメインの表示ブロック
     email_domain_blocks:
-      add_new: 新規追加
+      add_new: 新規追�
       created_msg: E メール・ドメインが正常に
       delete: 削除
       destroyed_msg: E メール・ドメインが正常に非
@@ -399,7 +399,7 @@ ja:
       empty: 現在ブロックされている E メール・ドメイン
       from_html: "%{domain}"
       new:
-        create: ドメインの追加
+        create: ドメインの追�
         title: 新規 E メール・ドメインを
       title: ブロックされた E メールドメイン
     instances:
@@ -432,7 +432,7 @@ ja:
     relationships:
       title: "%{acct}の関係"
     relays:
-      add_new: 新規リレーの追加
+      add_new: 新規リレーの追�
       delete: 削除
       description_html: <strong>フェデレーション・リレー</strong> は、サブスクライブしてそれにパブリッシュするサーバー間で多数のパブリック toots を交換する仲介サーバーです。 <strong>小規模および中規模のサーバーが、異なる</strong>のコンテンツをディスカバーするのに役立ちます。これにより、リモート・サーバー上の他のユーザーに手動での手動でローカル・ユーザーが必要となるようにします。
       disable: 無効化
@@ -467,7 +467,7 @@ ja:
       mark_as_resolved: 解決済みのマーク
       mark_as_unresolved: 未解決のマーク
       notes:
-        create: 注の追加
+        create: 注の追�
         create_and_resolve: 注による解決
         create_and_unresolve: 注釈付きで再オープン
         delete: 削除
@@ -611,7 +611,7 @@ ja:
       updated_msg: ハッシュタグの設定が正常に更新
     title: 行政
     warning_presets:
-      add_new: 新規追加
+      add_new: 新規追�
       delete: 削除
       edit_preset: 警告の事前設定の編集
       title: 警告の事前設定の管理
@@ -798,7 +798,7 @@ ja:
     mutes: ユー・ミュート
     storage: 媒体記憶域
   featured_tags:
-    add_new: 新規追加
+    add_new: 新規追�
     errors:
       limit: 最大数のハッシュ・タグが既に使用されています。
     hint_html: "<strong>フィーチャーされているハッシュタグは何ですか ?</strong> ユーザーのパブリック・プロファイルに対して、これらのハッシュ・タグの下に表示される公開投稿をユーザーが参照できるように、それらのユーザーが表示されます。 これらは創造的な作品や長期的なプロジェクトを追跡するための素晴らしいツールです。"
@@ -819,7 +819,7 @@ ja:
       empty: フィルターはありません。
       title: フィルター
     new:
-      title: 新規フィルターの追加
+      title: 新規フィルターの追�
   footer:
     developers: 開発者
     more: "-…"
@@ -860,7 +860,7 @@ ja:
   imports:
     modes:
       merge: マージ
-      merge_long: 既存レコードの保持および新規レコードの追加
+      merge_long: 既存レコードの保持および新規レコードの追�
       overwrite: 上書き
       overwrite_long: 現在のレコードを新しいレコードに置換
     preface: 別のサーバーからエクスポートしたデータ ( 以下のユーザーのリストなど ) をインポートすることができます。このデータは、以下のようにブロックすることもできます。
@@ -1061,7 +1061,7 @@ ja:
     browsers:
       alipay: アリペイ
       blackberry: ブラックベリー
-      chrome: クローム
+      chrome: クロー�
       edge: マイクロソフトエッジ
       electron: エレクトロン
       firefox: ファイアフォックス
@@ -1089,7 +1089,7 @@ ja:
       ios: iOS
       linux: リナックス
       mac: マック OS
-      other: 不明なプラットフォーム
+      other: 不明なプラットフォー�
       windows: Windows
       windows_mobile: Windows モバイル
       windows_phone: Windows Phone
@@ -1258,7 +1258,7 @@ ja:
       default: "%b %d, %Y, %H:%M"
       month: "%b %Y"
   two_factor_authentication:
-    add: 追加
+    add: 追�
     disable: 2FA を無効
     disabled_success: 2 要素認証が正常に無効になりました
     edit: 編集
@@ -1334,7 +1334,7 @@ ja:
     explanation_html: 'プロファイル・メタデータ</strong>のリンクの所有者として、ユーザーは <strong>を自分で確認することができます。 そのためには、リンクされた Web サイトに、ご使用のChatタリー・プロファイルへのリンクが含まれている リンク・バック <strong>には、</strong> が <code>rel="me"</code> 属性を持っていなければなりません。 リンクのテキスト・コンテンツは関係ありません。 以下に例を示します。'
     verification: 検証
   webauthn_credentials:
-    add: 新規セキュリティー・キーの追加
+    add: 新規セキュリティー・キーの追�
     create:
       error: セキュリティー・キーの追加中に問題が発生しました。 再試行してください。
       success: セキュリティー・キーが正常に追加されました。

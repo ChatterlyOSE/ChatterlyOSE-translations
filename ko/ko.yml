@@ -36,7 +36,7 @@ ko:
     unavailable_content: 현대화된 서버
     unavailable_content_description:
       domain: 서버
-      reason: 이유
+      reason: 이�
       rejecting_media: "이러한 서버의 미디어 파일은 처리되거나 저장되지 않으며, 원래 파일을 수동으로 클릭해야 하는 썸네일이 표시되지 않습니다."
       rejecting_media_title: 필터링된 미디어
       silenced: "이러한 서버의 게시물은 공용 타임라인 및 대화로 숨겨지며 다음을 수행하지 않는 한 사용자 상호작용에서 알림이 생성되지 않습니다."
@@ -69,8 +69,8 @@ ko:
     pin_errors:
       following: 추천하려는 사람을 이미 관심 대상으로 등록해야 합니다.
     posts:
-      other: 토츠
-    posts_tab_heading: 토츠
+      other: 토�
+    posts_tab_heading: 토�
     posts_with_replies: 투츠 및 답글
     reserved_username: 사용자 이름이 예약되어 있음
     roles:
@@ -146,7 +146,7 @@ ko:
       no_account_selected: 선택된 계정이 없으므로 계정이 변경되지 않음
       no_limits_imposed: 지정된 한계 없음
       not_subscribed: 등록 불가
-      pending: 보류 중 검토
+      pending: 보류 중 검�
       perform_full_suspension: 일시중단
       promote: 증진
       protocol: 프로토콜
@@ -189,7 +189,7 @@ ko:
       undo_suspension: 실행 취소
       unsubscribe: 등록 해제
       username: 사용자 이름
-      warn: 경고
+      warn: 경�
       web: 웹
       whitelisted: 연합에 대해 허용
     action_logs:
@@ -603,7 +603,7 @@ ko:
       most_recent: 가장 최근의
       name: 해시태그
       review: 검토 상태
-      reviewed: 검토
+      reviewed: 검�
       title: 해시태그
       trending_right_now: 지금 트렌딩
       unique_uses_today: "%{count} 오늘 게시"
@@ -1289,7 +1289,7 @@ ko:
         silence: 귀하의 계정은 한정되어 있지만, 이미 관심을 갖고 있는 사람들만이 이 서버에서 여러분의 토츠를 보게 될 것이며, 다양한 공공 목록에서 제외될 수도 있습니다. 그러나 다른 사용자도 수동으로 사용자를 관심 대상으로 등록할 수 있습니다.
         suspend: 계정이 일시중단되었으며 업로드된 모든 미디어 파일 및 업로드된 미디어 파일이 이 서버에서 비가역적으로 제거되었으며 팔로어가 있는 서버가 비가역적으로 제거되었습니다.
       get_in_touch: "%{instance}직원들과 연락하기 위해 이 이메일에 회신할 수 있습니다."
-      review_server_policies: 서버 정책 검토
+      review_server_policies: 서버 정책 검�
       statuses: "특히,"
       subject:
         disable: 사용자의 계정 %{acct} 가 동결되었습니다.
@@ -1298,7 +1298,7 @@ ko:
         suspend: 사용자의 계정 %{acct} 가 일시중단되었습니다.
       title:
         disable: 계정 동결
-        none: 경고
+        none: 경�
         silence: 계정 제한
         suspend: 계정 일시중단
     welcome:

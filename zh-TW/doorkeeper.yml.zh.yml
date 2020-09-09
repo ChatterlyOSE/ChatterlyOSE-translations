@@ -59,7 +59,7 @@ zh-TW:
       error:
         title: 發生錯誤
       new:
-        able_to: 它將能夠
+        able_to: 它將能�
         prompt: 應用程式 %{client_name} 要求存取您的帳戶
         title: 需要授權
       show:
