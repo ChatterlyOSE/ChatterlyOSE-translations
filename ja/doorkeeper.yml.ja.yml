@@ -24,7 +24,7 @@ ja:
         edit: 編集
         submit: 送信
       confirmations:
-        destroy: '- 確かか ?'
+        destroy: "- 確かか ?"
       edit:
         title: アプリケーションの編集
       form:
@@ -51,7 +51,7 @@ ja:
         callback_urls: コールバック URL
         scopes: スコープス
         secret: クライアント秘密鍵
-        title: 'アプリケーション: %{name}'
+        title: "アプリケーション: %{name}"
     authorizations:
       buttons:
         authorize: 許可
@@ -68,7 +68,7 @@ ja:
       buttons:
         revoke: 取り消し
       confirmations:
-        revoke: '- 確かか ?'
+        revoke: "- 確かか ?"
       index:
         application: アプリケーション
         created_at: 認定

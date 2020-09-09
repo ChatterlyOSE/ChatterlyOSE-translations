@@ -51,7 +51,7 @@ ko:
         callback_urls: 콜백 URL
         scopes: 범위
         secret: 클라이언트 시크릿
-        title: '애플리케이션: %{name}'
+        title: "애플리케이션: %{name}"
     authorizations:
       buttons:
         authorize: 권한 부여하다

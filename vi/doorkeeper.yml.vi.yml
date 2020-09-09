@@ -36,7 +36,7 @@ vi:
       index:
         application: Ứng dụng
         callback_url: URL gọi lại
-        delete: '& Xoá'
+        delete: "& Xoá"
         empty: Bạn không có ứng dụng.
         name: Tên
         new: Ứng dụng mới
@@ -51,7 +51,7 @@ vi:
         callback_urls: URL gọi lại
         scopes: Phạm vi
         secret: Bí mật khách
-        title: 'Ứng dụng: %{name}'
+        title: "Ứng dụng: %{name}"
     authorizations:
       buttons:
         authorize: Ủy quyền

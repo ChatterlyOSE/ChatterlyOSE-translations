@@ -2,7 +2,7 @@ el:
   activerecord:
     attributes:
       doorkeeper/application:
-        name: 'Όνομα εφαρμογής:'
+        name: "Όνομα εφαρμογής:"
         redirect_uri: Redirect URI
         scopes: Τα Scopes
         website: Ιστοσελίδα εφαρμογής
@@ -18,15 +18,15 @@ el:
   doorkeeper:
     applications:
       buttons:
-        authorize: ''' Εξουσιοδότηση'
+        authorize: "' Εξουσιοδότηση"
         cancel: Ακύρωση.
         destroy: Καταστροφή!
-        edit: 'Τροποποίηση:'
-        submit: 'Υποβολή:'
+        edit: "Τροποποίηση:"
+        submit: "Υποβολή:"
       confirmations:
-        destroy: '-Σίγουρα;'
+        destroy: "-Σίγουρα;"
       edit:
-        title: 'Τροποποίηση εφαρμογής:'
+        title: "Τροποποίηση εφαρμογής:"
       form:
         error: Ουπς! Ελέγξτε τη φόρμα για πιθανά σφάλματα.
       help:
@@ -34,28 +34,28 @@ el:
         redirect_uri: Χρήση μιας γραμμής ανά URI
         scopes: Ξεχωριστές εμβέλειες με κενά. Αφήστε το κενό για να χρησιμοποιήσετε τις προεπιλεγμένες εμβέλειες.
       index:
-        application: ''' Εφαρμογή'
+        application: "' Εφαρμογή"
         callback_url: Επανάκληση URL
-        delete: 'Διαγραφή:'
+        delete: "Διαγραφή:"
         empty: Δεν έχετε καμία εφαρμογή.
-        name: ''' Ονομα'
-        new: 'Νέα εφαρμογή:'
+        name: "' Ονομα"
+        new: "Νέα εφαρμογή:"
         scopes: Τα Scopes
-        show: 'Εμφάνιση:'
+        show: "Εμφάνιση:"
         title: Οι εφαρμογές σας
       new:
-        title: 'Νέα εφαρμογή:'
+        title: "Νέα εφαρμογή:"
       show:
-        actions: ''' Ενέργειες'
+        actions: "' Ενέργειες"
         application_id: Κλειδί πελάτη
         callback_urls: URL επανάκλησης
         scopes: Τα Scopes
         secret: Μυστικό πελάτη
-        title: 'Εφαρμογή: %{name}'
+        title: "Εφαρμογή: %{name}"
     authorizations:
       buttons:
-        authorize: ''' Εξουσιοδότηση'
-        deny: 'Άρνηση:'
+        authorize: "' Εξουσιοδότηση"
+        deny: "Άρνηση:"
       error:
         title: Παρουσιάστηκε σφάλμα.
       new:
@@ -68,9 +68,9 @@ el:
       buttons:
         revoke: Ανάκληση!
       confirmations:
-        revoke: '-Σίγουρα;'
+        revoke: "-Σίγουρα;"
       index:
-        application: ''' Εφαρμογή'
+        application: "' Εφαρμογή"
         created_at: (')
         date_format: "%Y-%m-%d %H:%M:%S"
         scopes: Τα Scopes
@@ -109,7 +109,7 @@ el:
     layouts:
       admin:
         nav:
-          applications: ''' Αιτήσεις'
+          applications: "' Αιτήσεις"
           oauth2_provider: Παροχέας OAuth2
       application:
         title: Απαιτείται εξουσιοδότηση OAuth
@@ -128,7 +128,7 @@ el:
       "read:bookmarks": δείτε τους σελιδοδείκτες σας
       "read:favourites": Δες τα αγαπημένα σου.
       "read:filters": δείτε τα φίλτρα.
-      "read:follows": 'δείτε τα ακόλουθα:'
+      "read:follows": "δείτε τα ακόλουθα:"
       "read:lists": δείτε τις λίστες.
       "read:mutes": δείτε τα αλεξίπτωτα σας.
       "read:notifications": δείτε τις ειδοποιήσεις.
@@ -139,8 +139,8 @@ el:
       "write:accounts": τροποποίηση του προφίλ σας
       "write:blocks": λογαριασμοί φραγών και τομείς
       "write:bookmarks": καταστάσεις σελιδοδεικτών
-      "write:favourites": 'αγαπημένες καταστάσεις:'
-      "write:filters": 'δημιουργία φίλτρων:'
+      "write:favourites": "αγαπημένες καταστάσεις:"
+      "write:filters": "δημιουργία φίλτρων:"
       "write:follows": ).
       "write:lists": δημιουργία λίστας.
       "write:media": μεταφόρτωση αρχείων πολυμέσων

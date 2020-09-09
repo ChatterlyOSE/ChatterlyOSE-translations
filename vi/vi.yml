@@ -1,11 +1,11 @@
 vi:
   about:
-    about_hashtag_html: 'These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse.'
-    about_mastodon_html: 'Mạng xã hội của tương lai: Không giám sát công ty, thiết kế đạo đức, và phân quyền! Hãy lấy dữ liệu của anh với Chatterly!'
+    about_hashtag_html: "These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse."
+    about_mastodon_html: "Mạng xã hội của tương lai: Không giám sát công ty, thiết kế đạo đức, và phân quyền! Hãy lấy dữ liệu của anh với Chatterly!"
     about_this: Về
     active_count_after: Hoạt động
     active_footnote: Người dùng hoạt động hàng tháng (MU)
-    administered_by: 'Quản lý bởi:'
+    administered_by: "Quản lý bởi:"
     api: API
     apps: Các ứng dụng
     apps_platforms: Tải ứng dụng Chatterly cho PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ vi:
     learn_more: Tìm hiểu thêm
     privacy_policy: Chính sách về
     see_whats_happening: Xem chuyện gì đang xảy ra
-    server_stats: 'Thông số máy chủ:'
+    server_stats: "Thông số máy chủ:"
     source_code: Mã nguồn
     status_count_after:
       other: Trạng thái
@@ -37,11 +37,11 @@ vi:
     unavailable_content_description:
       domain: Máy chủ
       reason: Lý do
-      rejecting_media: 'Các tập tin truyền thông từ các máy chủ này sẽ không được xử lý hoặc lưu trữ, và không có mẫu hình thu nhỏ nào được hiển thị, yêu cầu nhấp chuột bằng tay vào tập tin gốc:'
+      rejecting_media: "Các tập tin truyền thông từ các máy chủ này sẽ không được xử lý hoặc lưu trữ, và không có mẫu hình thu nhỏ nào được hiển thị, yêu cầu nhấp chuột bằng tay vào tập tin gốc:"
       rejecting_media_title: Phương tiện lọc
-      silenced: 'Các bài đăng từ các máy chủ này sẽ được ẩn trong các dòng thời gian công cộng và các cuộc trò chuyện, và không có thông báo nào sẽ được tạo ra từ tương tác của người dùng, trừ khi bạn đang theo dõi'
+      silenced: "Các bài đăng từ các máy chủ này sẽ được ẩn trong các dòng thời gian công cộng và các cuộc trò chuyện, và không có thông báo nào sẽ được tạo ra từ tương tác của người dùng, trừ khi bạn đang theo dõi"
       silenced_title: Trình phục vụ tắt
-      suspended: 'Không có dư ̃ liệu tư ̀ các máy chủ này sẽ được xử lý, lưu trư ̃ hoặc trao đổi, tạo bất kỳ tương tác hoặc giao tiếp với người dùng tư ̀ máy chủ'
+      suspended: "Không có dư ̃ liệu tư ̀ các máy chủ này sẽ được xử lý, lưu trư ̃ hoặc trao đổi, tạo bất kỳ tương tác hoặc giao tiếp với người dùng tư ̀ máy chủ"
       suspended_title: Máy phục vụ
     unavailable_content_html: Chatterly cho phép bạn xem nội dung và tương tác với người dùng tư ̀ bất kỳ máy chủ nào khác trong đa dạng. Đây là các ngoại lệ đã được thực hiện trên máy chủ cụ thể này.
     user_count_after:
@@ -87,7 +87,7 @@ vi:
     account_moderation_notes:
       create: Lưu ý
       created_msg: Lưu ý đã tạo thành công!
-      delete: '& Xoá'
+      delete: "& Xoá"
       destroyed_msg: Lưu ý đã bị phá hủy thành công!
     accounts:
       add_email_domain_block: Chặn miền e-mail
@@ -293,7 +293,7 @@ vi:
       copy_failed_msg: Không thể tạo một bản sao cục bộ của emoji
       create_new_category: Tạo danh mục mới
       created_msg: Emoji thành công!
-      delete: '& Xoá'
+      delete: "& Xoá"
       destroyed_msg: Emoji phá hủy thành công!
       disable: Tắt
       disabled: Ðã tắt
@@ -371,7 +371,7 @@ vi:
       private_comment_hint: Ðánh giá vê ̀ hạn chê ́ miền này để sử dụng nội bộ bởi các người ôn hoà.
       public_comment: Ðánh giá chung
       public_comment_hint: Ðánh giá vê ̀ hạn chê ́ miền này cho công chúng, nếu quảng cáo danh sách giới hạn miền được bật.
-      reject_media: '& Từ chối tập tin'
+      reject_media: "& Từ chối tập tin"
       reject_media_hint: Xóa các tập tin phương tiện lưu trữ cục bộ và từ chối tải về bất kỳ trong tương lai. Không thích hợp để hồi hộp
       reject_reports: Từ chối báo
       reject_reports_hint: Bỏ qua tất cả báo cáo đến tư ̀ miền này. Không thích hợp để hồi hộp
@@ -393,7 +393,7 @@ vi:
     email_domain_blocks:
       add_new: Thêm mới
       created_msg: Miền e-mail đã chặn thành công
-      delete: '& Xoá'
+      delete: "& Xoá"
       destroyed_msg: Tên miền e-mail không bị chặn thành công
       domain: Miền
       empty: Không có tên miền e-mail hiện bị chặn.
@@ -433,7 +433,7 @@ vi:
       title: "Các mối quan hệ của %{acct}"
     relays:
       add_new: Thêm rơle mới
-      delete: '& Xoá'
+      delete: "& Xoá"
       description_html: A <strong>federation relay</strong> is an intermediary server that exchanges large volumes of public toots between servers that subscribe and publish to it. <strong>It can help small and medium servers discover content from the fediverse</strong>, which would otherwise require local users manually following other people on remote servers.
       disable: Tắt
       disabled: Ðã tắt
@@ -470,10 +470,10 @@ vi:
         create: Thêm ghi chú
         create_and_resolve: Giải quyết với lưu ý
         create_and_unresolve: Mở lại với lưu ý
-        delete: '& Xoá'
+        delete: "& Xoá"
         placeholder: Mô tả những hành động đã được thực hiện, hoặc bất kỳ cập nhật liên quan nào khác ...
       reopen: Mở báo cáo
-      report: 'Báo cáo #%{id}'
+      report: "Báo cáo #%{id}"
       reported_account: Đã báo cáo
       reported_by: Báo cáo bởi
       resolved: Giải quyết
@@ -580,7 +580,7 @@ vi:
     statuses:
       back_to_account: Trở vê ̀ trang tài khoản
       batch:
-        delete: '& Xoá'
+        delete: "& Xoá"
         nsfw_off: Đánh dấu không nhạy cảm
         nsfw_on: Đánh dấu là nhạy cảm
       deleted: Ðã xóa
@@ -612,7 +612,7 @@ vi:
     title: Quản trị
     warning_presets:
       add_new: Thêm mới
-      delete: '& Xoá'
+      delete: "& Xoá"
       edit_preset: Sửa định sẵn cảnh báo
       title: Quản lý presets cảnh báo
   admin_mailer:
@@ -622,10 +622,10 @@ vi:
     new_report:
       body: "%{reporter} has reported %{target}"
       body_remote: Someone from %{domain} has reported %{target}
-      subject: 'New report for %{instance} (#%{id})'
+      subject: "New report for %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Hashtag #%{name} đang có xu hướng hiện nay, nhưng chưa được xem xét trước đây. Nó sẽ không được hiển thị công khai trừ khi bạn cho phép nó, hoặc chỉ lưu hình như nó không bao giờ nghe về nó một lần nữa.'
-      subject: 'New hashtag up for review on %{instance} (#%{name})'
+      body: "Hashtag #%{name} đang có xu hướng hiện nay, nhưng chưa được xem xét trước đây. Nó sẽ không được hiển thị công khai trừ khi bạn cho phép nó, hoặc chỉ lưu hình như nó không bao giờ nghe về nó một lần nữa."
+      subject: "New hashtag up for review on %{instance} (#%{name})"
   aliases:
     add_new: Tạo bí danh
     created_msg: Đã tạo thành công bí danh mới. Bây giờ bạn có thể bắt đầu di chuyển từ tài khoản cũ.
@@ -635,7 +635,7 @@ vi:
     remove: Không liên kết biệt hiệu
   appearance:
     advanced_web_interface: Giao diện web nâng cao
-    advanced_web_interface_hint: 'Nếu bạn muốn sử dụng toàn bộ chiều rộng màn hình, giao diện web tiên tiến cho phép bạn cấu hình nhiều cột khác nhau để xem nhiều thông tin cùng lúc với bạn muốn: Trang chủ, thông báo, dòng thời gian liên kết, bất kỳ số danh sách và hashtag nào.'
+    advanced_web_interface_hint: "Nếu bạn muốn sử dụng toàn bộ chiều rộng màn hình, giao diện web tiên tiến cho phép bạn cấu hình nhiều cột khác nhau để xem nhiều thông tin cùng lúc với bạn muốn: Trang chủ, thông báo, dòng thời gian liên kết, bất kỳ số danh sách và hashtag nào."
     animations_and_accessibility: Hoạt hình và khả năng tiếp
     confirmation_dialogs: Hội thoại xác nhận
     discovery: Khám phá
@@ -648,8 +648,8 @@ vi:
   application_mailer:
     notification_preferences: Thay đổi tùy chọn e-mail
     salutation: "%{name},"
-    settings: 'Thay đổi tùy chọn e-mail: %{link}'
-    view: 'Xem:'
+    settings: "Thay đổi tùy chọn e-mail: %{link}"
+    view: "Xem:"
     view_profile: Xem hồ sơ
     view_status: Xem trạng thái
   applications:
@@ -708,8 +708,8 @@ vi:
     already_requested: Bạn đã gửi yêu cầu theo dõi vào tài khoản đó
     error: Thật không may, có một lỗi trong việc tìm kiếm tài khoản từ xa
     follow: Theo dõi
-    follow_request: 'Bạn đã gửi yêu cầu theo dõi:'
-    following: 'Thành công! Các bạn đang theo dõi:'
+    follow_request: "Bạn đã gửi yêu cầu theo dõi:"
+    following: "Thành công! Các bạn đang theo dõi:"
     post_follow:
       close: Hoặc là bạn có thể đóng cửa sổ này.
       return: Hiển thị cấu hình của người dùng
@@ -749,7 +749,7 @@ vi:
     proceed: Xóa tài khoản
     success_msg: Ðã xóa tài khoản thành công
     warning:
-      before: 'Trước khi tiếp tục, vui lòng đọc các ghi chú này:'
+      before: "Trước khi tiếp tục, vui lòng đọc các ghi chú này:"
       caches: Nội dung đã được lưu trư ̃ bởi các máy chủ khác có thể tiếp tục
       data_removal: Các bài đăng và các dữ liệu khác sẽ được gỡ bỏ vĩnh viễn
       email_change_html: You can <a href="%{path}">change your e-mail address</a> without deleting your account
@@ -766,19 +766,19 @@ vi:
   domain_validator:
     invalid_domain: không phải là tên miền hợp lệ
   errors:
-    '400': Yêu cầu bạn gửi không hợp lệ hoặc không hợp lệ.
-    '403': Bạn không có quyền xem trang này.
-    '404': Tôi nghĩ anh đã đi sai hướng, không có gì ở đây.
-    '406': Trang này không có trong định dạng được yêu cầu.
-    '410': Chúng ta có vấn đề ở Houston, trang đã biến mất.
-    '422':
+    "400": Yêu cầu bạn gửi không hợp lệ hoặc không hợp lệ.
+    "403": Bạn không có quyền xem trang này.
+    "404": Tôi nghĩ anh đã đi sai hướng, không có gì ở đây.
+    "406": Trang này không có trong định dạng được yêu cầu.
+    "410": Chúng ta có vấn đề ở Houston, trang đã biến mất.
+    "422":
       content: Không thể xác minh bảo mật Anh có chặn bánh quy không?
       title: Xác minh bảo mật không
-    '429': Có quá nhiều yêu cầu
-    '500':
+    "429": Có quá nhiều yêu cầu
+    "500":
       content: Chúng tôi xin lỗi, nhưng có gì đó không ổn. Chúng tôi đã được thông báo vê ̀ lỗi này, và đang làm việc để xử lý nó.
       title: Trang này không đúng
-    '503': Chúng tôi xin lỗi, dường như chúng tôi đang bị tải trọng lượng máy chủ cao. Chúng tôi sẽ giải quyết chuyện này càng sớm càng tốt.
+    "503": Chúng tôi xin lỗi, dường như chúng tôi đang bị tải trọng lượng máy chủ cao. Chúng tôi sẽ giải quyết chuyện này càng sớm càng tốt.
     noscript_html: To use the Chatterly, please enable JavaScript. Alternatively, try one of the <a href="%{apps_path}">native apps</a> for Chatterly Mobile for your platform.
   existing_username_validator:
     not_found: không tìm thấy người dùng địa phương có tên người dùng đó
@@ -815,7 +815,7 @@ vi:
       invalid_context: Không có ngư ̃ cảnh không hợp lệ
       invalid_irreversible: Lọc không thể đảo ngược chỉ làm việc với ngữ cảnh nhà hoặc thông báo
     index:
-      delete: '& Xoá'
+      delete: "& Xoá"
       empty: Bạn không có bộ lọc.
       title: Bộ lọc
     new:
@@ -829,14 +829,14 @@ vi:
     all: Tất cả
     changes_saved_msg: Thay đổi đã lưu thành công
     copy: Sao chép
-    delete: '& Xoá'
+    delete: "& Xoá"
     no_batch_actions_available: Không có sẵn thao tác lô trên trang này
     order_by: Đặt hàng theo
     save_changes: Lưu thay đổi
     validation_errors:
       other: Có gì đó chưa ổn! Vui lòng xem xét %{count} lỗi dưới đây
   html_validator:
-    invalid_markup: 'chứa đánh dấu HTML không hợp lệ: %{error}'
+    invalid_markup: "chứa đánh dấu HTML không hợp lệ: %{error}"
   identity_proofs:
     active: Hoạt động
     authorize: Vâng, cho phép
@@ -851,8 +851,8 @@ vi:
     i_am_html: I am %{username} on %{service}.
     identity: Danh tính
     inactive: Không chọn
-    publicize_checkbox: 'Và thử nghiệm này:'
-    publicize_toot: 'It is proven! I am %{username} on %{service}: %{url}'
+    publicize_checkbox: "Và thử nghiệm này:"
+    publicize_toot: "It is proven! I am %{username} on %{service}: %{url}"
     remove: Loại bỏ bằng chứng tư ̀
     removed: Đã xóa thành công bằng chứng tư ̀
     status: Trạng thái xác
@@ -876,15 +876,15 @@ vi:
     delete: Hủy kích hoạt
     expired: Hết hạn
     expires_in:
-      '1800': 30 phút
-      '21600': 6 giờ
-      '3600': 1 giờ
-      '43200': 12 giờ
-      '604800': 1 tuần
-      '86400': 1 ngày
+      "1800": 30 phút
+      "21600": 6 giờ
+      "3600": 1 giờ
+      "43200": 12 giờ
+      "604800": 1 tuần
+      "86400": 1 ngày
     expires_in_prompt: Chưa từng
     generate: Tạo liên kết mời
-    invited_by: 'Bạn được mời bởi:'
+    invited_by: "Bạn được mời bởi:"
     max_uses:
       other: "%{count} sử dụng"
     max_uses_prompt: Không giới hạn
@@ -925,7 +925,7 @@ vi:
     set_redirect: Ðặt trực tiếp
     warning:
       backreference_required: Tài khoản mới phải được lập cấu hình để xem lại tài khoản này
-      before: 'Trước khi tiếp tục, vui lòng đọc các ghi chú này:'
+      before: "Trước khi tiếp tục, vui lòng đọc các ghi chú này:"
       cooldown: Sau khi di chuyển có một khoảng thời gian làm mát mà bạn sẽ không thể di chuyển được nữa
       disabled_account: Tài khoản hiện tại của bạn sẽ không hoàn toàn sử dụng được sau đó Tuy nhiên, bạn sẽ có quyền truy cập vào xuất dư ̃ liệu cũng như được kích hoạt lại.
       followers: Thao tác này sẽ chuyển tất cả người theo dõi tư ̀ tài khoản hiện tại vào tài khoản mới
@@ -937,7 +937,7 @@ vi:
   move_handler:
     carry_blocks_over_text: Người dùng này đã chuyển tư ̀ %{acct}, mà bạn đã chặn.
     carry_mutes_over_text: Người dùng này đã chuyển tư ̀ %{acct}, mà bạn đã muted.
-    copy_account_note_text: 'Người dùng này đã chuyển tư ̀ %{acct}, đây là các ghi chú trước đây của bạn vê ̀ chúng:'
+    copy_account_note_text: "Người dùng này đã chuyển tư ̀ %{acct}, đây là các ghi chú trước đây của bạn vê ̀ chúng:"
   notification_mailer:
     digest:
       action: Xem tất cả thông báo
@@ -949,7 +949,7 @@ vi:
         other: "%{count} new notifications since your last visit \U0001F418"
       title: Khi anh vắng mặt ...
     favourite:
-      body: 'Tình trạng của anh được ưu tiên bởi %{name}:'
+      body: "Tình trạng của anh được ưu tiên bởi %{name}:"
       subject: "%{name} thích địa vị của bạn"
       title: Yêu thích mới
     follow:
@@ -959,20 +959,20 @@ vi:
     follow_request:
       action: Quản lý theo yêu cầu
       body: "%{name} has requested to follow you"
-      subject: 'Tiếp theo đang chờ: %{name}'
+      subject: "Tiếp theo đang chờ: %{name}"
       title: Yêu cầu theo dõi mới
     mention:
       action: Trả lời
-      body: 'Bạn đã được đề cập bởi %{name} trong:'
+      body: "Bạn đã được đề cập bởi %{name} trong:"
       subject: Bạn đã được đề cập bởi %{name}
       title: Đề cập mới
     reblog:
-      body: 'Tình trạng của anh được tăng lên từ %{name}:'
+      body: "Tình trạng của anh được tăng lên từ %{name}:"
       subject: "%{name} tăng cường vị trí của bạn"
       title: Tăng trưởng mới
   notifications:
     email_events: Sự kiện cho thông báo e-mail
-    email_events_hint: 'Chọn sự kiện mà bạn muốn nhận thông báo cho:'
+    email_events_hint: "Chọn sự kiện mà bạn muốn nhận thông báo cho:"
     other_settings: Thiết lập thông báo khác
   number:
     human:
@@ -984,13 +984,13 @@ vi:
           quadrillion: Q.
           thousand: K
           trillion: Không.
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Nhập mã được tạo bởi ứng dụng xác thực của máy xác thực để xác nhận
     description_html: If you enable <strong>two-factor authentication</strong> using an authenticator app, logging in will require you to be in possession of your phone, which will generate tokens for you to enter.
     enable: Kích hoạt
     instructions_html: "<strong>Scan this QR code into Google Authenticator or a similiar TOTP app on your phone</strong>. From now on, that app will generate tokens that you will have to enter when logging in."
-    manual_instructions: 'Nếu bạn không thể quét mã QR và cần nhập nó thủ công, đây là bí mật văn bản đơn giản:'
+    manual_instructions: "Nếu bạn không thể quét mã QR và cần nhập nó thủ công, đây là bí mật văn bản đơn giản:"
     setup: Thiết lập
     wrong_code: Mã đã nhập không hợp lệ! Thời gian máy chủ và thời gian thiết bị đúng không?
   pagination:
@@ -1039,18 +1039,18 @@ vi:
     missing_resource: Không thể tìm thấy URL được yêu cầu cho tài khoản của bạn
     no_account_html: Don't have an account? You can <a href='%{sign_up_path}' target='_blank'>sign up here</a>
     proceed: Tiếp tục theo dõi
-    prompt: 'Các bạn sẽ đi theo:'
+    prompt: "Các bạn sẽ đi theo:"
     reason_html: "<strong>Why is this step necessary?</strong> <code>%{instance}</code> might not be the server where you are registered, so we need to redirect you to your home server first."
   remote_interaction:
     favourite:
       proceed: Tiếp tục yêu thích
-      prompt: 'Anh thích món bồ hóng này:'
+      prompt: "Anh thích món bồ hóng này:"
     reblog:
       proceed: Tiếp tục tăng cường
-      prompt: 'Anh muốn tăng tốc độ:'
+      prompt: "Anh muốn tăng tốc độ:"
     reply:
       proceed: Tiến hành trả lời
-      prompt: 'Anh muốn trả lời câu nói này:'
+      prompt: "Anh muốn trả lời câu nói này:"
   scheduled_statuses:
     over_daily_limit: Bạn đã vượt quá giới hạn của %{limit} cục răng cho ngày hôm đó
     over_total_limit: Bạn đã vượt quá giới hạn của %{limit} răng được lên lịch
@@ -1124,15 +1124,15 @@ vi:
     attached:
       audio:
         other: "%{count} audio"
-      description: 'Đính kèm: %{attached}'
+      description: "Đính kèm: %{attached}"
       image:
         other: "%{count} ảnh"
       video:
         other: "%{count} videos"
     boosted_from_html: Tăng từ %{acct_link}
-    content_warning: 'Cảnh báo nội dung: %{warning}'
+    content_warning: "Cảnh báo nội dung: %{warning}"
     disallowed_hashtags:
-      other: 'chứa hashtag không cho phép: %{tags}'
+      other: "chứa hashtag không cho phép: %{tags}"
     errors:
       in_reply_not_found: Trạng thái mà bạn đang cô ́ gắng trả lời để không tồn tại.
     language_detection: Tự động dò ngôn ngữ
@@ -1278,9 +1278,9 @@ vi:
       subject: Kho lưu của bạn đã sẵn sàng để tải
       title: Lưu trư ̃
     sign_in_token:
-      details: 'Dưới đây là các chi tiết về nỗ lực:'
-      explanation: 'Chúng tôi đã phát hiện một nỗ lực để đăng nhập vào tài khoản của bạn từ một địa chỉ IP không được công nhận. Nếu đây là bạn, hãy nhập mã bảo mật dưới đây trên bảng hiệu trong trang thử thách:'
-      further_actions: 'Nếu không phải là bạn, xin vui lòng thay đổi mật khẩu và cho phép xác thực hai nhân tố trên tài khoản của bạn. Bạn có thể làm như vậy ở đây:'
+      details: "Dưới đây là các chi tiết về nỗ lực:"
+      explanation: "Chúng tôi đã phát hiện một nỗ lực để đăng nhập vào tài khoản của bạn từ một địa chỉ IP không được công nhận. Nếu đây là bạn, hãy nhập mã bảo mật dưới đây trên bảng hiệu trong trang thử thách:"
+      further_actions: "Nếu không phải là bạn, xin vui lòng thay đổi mật khẩu và cho phép xác thực hai nhân tố trên tài khoản của bạn. Bạn có thể làm như vậy ở đây:"
       subject: Vui lòng xác nhận đã thử đăng ký
       title: Dấu trong nỗ lực
     warning:
@@ -1290,7 +1290,7 @@ vi:
         suspend: Tài khoản của bạn đã bị đình chỉ, và tất cả các toots của bạn và các tập tin truyền thông đã tải lên của bạn đã bị loại bỏ khỏi máy chủ này, và các máy chủ nơi bạn có người theo dõi.
       get_in_touch: Bạn có thể trả lời e-mail này để liên lạc với các nhân viên của %{instance}.
       review_server_policies: Xem lại chính sách máy
-      statuses: 'Cụ thể là:'
+      statuses: "Cụ thể là:"
       subject:
         disable: Tài khoản %{acct} của anh đã bị đóng băng
         none: Cảnh báo cho %{acct}
@@ -1306,7 +1306,7 @@ vi:
       edit_profile_step: Bạn có thể tùy chỉnh cấu hình bằng cách tải lên avatar, tiêu đê ̀, thay đổi tên hiển thị và nhiều hơn. Nếu bạn muốn xem lại những người theo dõi mới trước khi họ được phép đi theo bạn, bạn có thể khóa tài khoản của mình.
       explanation: Dưới đây là một số bí quyết giúp bạn bắt đầu
       final_action: Bắt đầu đăng
-      final_step: 'Bắt đầu đăng! Ngay cả khi không có người theo dõi thông điệp công khai của bạn có thể được người khác nhìn thấy, ví dụ trên dòng thời gian địa phương và trong hashtag. Bạn có thể muốn giới thiệu bản thân #introductions trên #introductions hashtag.'
+      final_step: "Bắt đầu đăng! Ngay cả khi không có người theo dõi thông điệp công khai của bạn có thể được người khác nhìn thấy, ví dụ trên dòng thời gian địa phương và trong hashtag. Bạn có thể muốn giới thiệu bản thân #introductions trên #introductions hashtag."
       full_handle: Tay cầm đầy đủ.
       full_handle_hint: Đây là điều bạn sẽ nói với bạn bè để họ có thể nhắn tin hay theo bạn từ một máy chủ khác.
       review_preferences_action: Thay đổi lựa
@@ -1328,7 +1328,7 @@ vi:
     invalid_sign_in_token: Mã bảo mật không hợp
     otp_lost_help_html: Nếu anh mất khả năng tiếp cận với cả hai, anh có thể liên lạc với %{email}.
     seamless_external_login: Bạn đã đăng nhập thông qua dịch vụ bên ngoài, vì vậy không có sẵn thiết lập email và mật khẩu.
-    signed_in_as: 'Ký tên:'
+    signed_in_as: "Ký tên:"
     suspicious_sign_in_confirmation: Bạn không thể đăng nhập tư ̀ thiết bị này trước đó, và bạn chưa đăng nhập được một lúc, nên chúng tôi đang gửi mã bảo mật vào địa chỉ e-mail của bạn để xác nhận đó là bạn.
   verification:
     explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your Chatterly profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'
@@ -1338,7 +1338,7 @@ vi:
     create:
       error: Có sự cô ́ khi thêm khóa bảo mật của bạn. Vui lòng thử lại.
       success: Khóa bảo mật của bạn đã được thêm thành công.
-    delete: '& Xoá'
+    delete: "& Xoá"
     delete_confirmation: Bạn có chắc là muốn xóa khóa bảo mật này không?
     description_html: If you enable <strong>security key authentication</strong>, logging in will require you to use one of your security keys.
     destroy:

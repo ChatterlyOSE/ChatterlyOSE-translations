@@ -51,7 +51,7 @@ af:
         callback_urls: Callback URLs
         scopes: Scopes
         secret: Client secret
-        title: 'Application: %{name}'
+        title: "Application: %{name}"
     authorizations:
       buttons:
         authorize: Authorize

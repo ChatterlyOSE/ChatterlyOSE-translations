@@ -51,7 +51,7 @@ ro:
         callback_urls: URL-uri
         scopes: Domenii
         secret: Secret client
-        title: 'Aplicare: %{name}'
+        title: "Aplicare: %{name}"
     authorizations:
       buttons:
         authorize: Autorizare

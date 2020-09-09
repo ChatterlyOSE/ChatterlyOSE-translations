@@ -51,7 +51,7 @@ he:
         callback_urls: כתובות URL של Callback
         scopes: סקופים
         secret: סוד לקוח
-        title: 'יישום: %{name}'
+        title: "יישום: %{name}"
     authorizations:
       buttons:
         authorize: עיצוב

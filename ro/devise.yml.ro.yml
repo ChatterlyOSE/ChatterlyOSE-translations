@@ -22,59 +22,59 @@ ro:
         explanation: Ati creat un cont pe %{host} cu aceasta adresa de email. Sunteţi un clic pe care să îl activaţi. Dacă acesta nu a fost, vă rugăm să ignorați acest e-mail.
         explanation_when_pending: Aţi aplicat pentru o invitaţie la %{host} cu această adresă de e-mail. Odată ce confirmaţi adresa de e-mail, vă vom examina aplicaţia. Vă puteţi loga pentru a vă modifica detaliile sau pentru a vă şterge contul, dar nu puteţi accesa majoritatea funcţiilor până când contul dumneavoastră nu este aprobat. Dacă aplicaţia dumneavoastră este respinsă, datele dumneavoastră vor fi înlăturate, astfel că nu va mai fi necesară nicio acţiune din partea dumneavoastră. Dacă acesta nu a fost, vă rugăm să ignorați acest e-mail.
         extra_html: Vă rugăm să verificaţi de asemenea <a href="%{terms_path}">regulile serverului</a> şi <a href="%{policy_path}">termenii noştri de serviciu</a>.
-        subject: 'Chatterly: Instrucţiuni de confirmare pentru %{instance}'
+        subject: "Chatterly: Instrucţiuni de confirmare pentru %{instance}"
         title: Verificare adresă de e-mail
       email_changed:
-        explanation: 'Adresa de e-mail pentru contul dumneavoastră este modificată la:'
+        explanation: "Adresa de e-mail pentru contul dumneavoastră este modificată la:"
         extra: Dacă nu v-aţi modificat e-mailul, este posibil ca cineva să fi câştigat accesul la contul dumneavoastră. Vă rugăm să schimbaţi parola imediat sau să contactaţi administratorul serverului dacă sunteţi blocat din contul dumneavoastră.
-        subject: 'Chatterly: Email schimbat'
+        subject: "Chatterly: Email schimbat"
         title: Adresă de e-mail nouă
       password_change:
         explanation: Parola pentru contul dumneavoastră a fost modificată.
         extra: Dacă nu v-aţi modificat parola, este posibil ca cineva să fi câştigat accesul la contul dumneavoastră. Vă rugăm să schimbaţi parola imediat sau să contactaţi administratorul serverului dacă sunteţi blocat din contul dumneavoastră.
-        subject: 'Chatterly: Parolă modificată'
+        subject: "Chatterly: Parolă modificată"
         title: Parolă modificată
       reconfirmation_instructions:
         explanation: Confirmaţi noua adresă pentru a vă modifica e-mail-ul.
         extra: Dacă această modificare nu a fost iniţiată de dumneavoastră, vă rugăm să ignoraţi acest e-mail. Adresa de e-mail pentru contul de la Chatterly nu se va schimba până când nu accesaţi link-ul de mai sus.
-        subject: 'Chatterly: Confirmare e-mail pentru %{instance}'
+        subject: "Chatterly: Confirmare e-mail pentru %{instance}"
         title: Verificare adresă de e-mail
       reset_password_instructions:
         action: Modificare parolă
         explanation: Aţi cerut o parolă nouă pentru contul dumneavoastră.
         extra: Dacă nu aţi cerut acest lucru, vă rugăm să ignoraţi acest e-mail. Parola nu se va schimba până când nu accesaţi link-ul de mai sus şi creaţi unul nou.
-        subject: 'Chatterly: Resetare instrucţiuni parolă'
+        subject: "Chatterly: Resetare instrucţiuni parolă"
         title: Resetare parolă
       two_factor_disabled:
         explanation: Autentificarea cu doi factori pentru contul dumneavoastră a fost dezactivată. Logarea este acum posibilă folosind doar adresa de e-mail şi parola.
-        subject: 'Chatterly: Autentificare cu doi factori dezactivată'
+        subject: "Chatterly: Autentificare cu doi factori dezactivată"
         title: 2FA dezactivată
       two_factor_enabled:
         explanation: Autentificarea cu doi factori a fost activată pentru contul dumneavoastră. Un jeton generat de aplicaţia pereche TOTP va fi necesar pentru logare.
-        subject: 'Chatterly: Autentificare cu doi factori activată'
+        subject: "Chatterly: Autentificare cu doi factori activată"
         title: 2FA activat
       two_factor_recovery_codes_changed:
         explanation: Codurile de recuperare anterioare au fost invalidate şi altele noi generate.
-        subject: 'Chatterly: Codurile de recuperare cu două factori re-generate'
+        subject: "Chatterly: Codurile de recuperare cu două factori re-generate"
         title: Coduri de recuperare 2FA modificate
       unlock_instructions:
-        subject: 'Chatterly: Instrucţiuni de blocare'
+        subject: "Chatterly: Instrucţiuni de blocare"
       webauthn_credential:
         added:
           explanation: Următoarea cheie de securitate a fost adăugată în contul dumneavoastră
-          subject: 'Chatterly: Noua cheie de securitate'
+          subject: "Chatterly: Noua cheie de securitate"
           title: A fost adăugată o nouă cheie de securitate
         deleted:
           explanation: Următoarea cheie de securitate a fost ştearsă din contul dumneavoastră
-          subject: 'Chatterly: Cheie de securitate ştearsă'
+          subject: "Chatterly: Cheie de securitate ştearsă"
           title: Unul dintre cheile de securitate a fost şters
       webauthn_disabled:
         explanation: Autentificarea cu cheile de securitate a fost dezactivată pentru contul dumneavoastră. Logarea este acum posibilă folosind doar jetonul generat de către aplicaţia TOTP pereche.
-        subject: 'Chatterly: Autentificare cu chei de securitate dezactivată'
+        subject: "Chatterly: Autentificare cu chei de securitate dezactivată"
         title: Chei de securitate dezactivate
       webauthn_enabled:
         explanation: Autentificarea cheii de securitate a fost activată pentru contul dumneavoastră. Cheia dumneavoastră de securitate poate fi acum utilizată pentru logare.
-        subject: 'Chatterly: Autentificare cheie de securitate activată'
+        subject: "Chatterly: Autentificare cheie de securitate activată"
         title: Chei de securitate activate
     omniauth_callbacks:
       failure: Nu s-a putut autentifica de la %{kind} pentru că "%{reason}".
@@ -110,6 +110,6 @@ ro:
       not_found: negăsit
       not_locked: nu a fost blocat
       not_saved:
-        one: '1 eroare interzisă acest %{resource} de la a fi salvat:'
+        one: "1 eroare interzisă acest %{resource} de la a fi salvat:"
         few: "%{count} erori interzise acest %{resource} de la a fi salvate:"
         other: "%{count} erori interzise acest %{resource} de la a fi salvate:"

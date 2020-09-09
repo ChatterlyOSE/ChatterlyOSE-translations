@@ -51,7 +51,7 @@ ru:
         callback_urls: URL обратного вызова
         scopes: Области
         secret: Пароль клиента
-        title: 'Приложение: %{name}'
+        title: "Приложение: %{name}"
     authorizations:
       buttons:
         authorize: Авторизация

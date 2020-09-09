@@ -1,11 +1,11 @@
 zh-CN:
   about:
-    about_hashtag_html: '这些是用 <strong>#%{hashtag}</strong>加上标签的公共茶壶。 如果您在 chatter-verse中的任何位置有帐户，那么可以与它们进行交互。'
-    about_mastodon_html: '未来的社会网络 : 没有企业监控，道德设计，权力下放! 与 Chatteryour 一起拥有您的数据 !'
+    about_hashtag_html: "这些是用 <strong>#%{hashtag}</strong>加上标签的公共茶壶。 如果您在 chatter-verse中的任何位置有帐户，那么可以与它们进行交互。"
+    about_mastodon_html: "未来的社会网络 : 没有企业监控，道德设计，权力下放! 与 Chatteryour 一起拥有您的数据 !"
     about_this: 关于
     active_count_after: 活跃
     active_footnote: 每月活动用户 ( MAU)
-    administered_by: '管理方式 :'
+    administered_by: "管理方式 :"
     api: API
     apps: 移动应用程序
     apps_platforms: 下载针对 PC/Mac/iOS/Android 的 Chatterh 应用程序
@@ -26,7 +26,7 @@ zh-CN:
     learn_more: 了解更多信息
     privacy_policy: 隐私策略
     see_whats_happening: 看看发生了什么
-    server_stats: '服务器统计信息 :'
+    server_stats: "服务器统计信息 :"
     source_code: 源代码
     status_count_after:
       other: 状态
@@ -37,11 +37,11 @@ zh-CN:
     unavailable_content_description:
       domain: 服务器
       reason: 原因
-      rejecting_media: '这些服务器中的媒体文件将不会被处理或存储，并且不会显示缩略图，需要手动单击原始文件:'
+      rejecting_media: "这些服务器中的媒体文件将不会被处理或存储，并且不会显示缩略图，需要手动单击原始文件:"
       rejecting_media_title: 过滤介质
-      silenced: '来自这些服务器的帖子将隐藏在公共时间线和对话中，并且不会从其用户交互生成任何通知，除非您正在执行这些操作 :'
+      silenced: "来自这些服务器的帖子将隐藏在公共时间线和对话中，并且不会从其用户交互生成任何通知，除非您正在执行这些操作 :"
       silenced_title: 静默服务器
-      suspended: '将不处理，存储或交换来自这些服务器的数据，无法与这些服务器的用户进行任何交互或通信 :'
+      suspended: "将不处理，存储或交换来自这些服务器的数据，无法与这些服务器的用户进行任何交互或通信 :"
       suspended_title: 暂挂的服务器
     unavailable_content_html: 通常，您可以从功能多样的任何其他服务器中查看用户的内容并与用户进行交互。 这些是在此特定服务器上进行的异常。
     user_count_after:
@@ -64,7 +64,7 @@ zh-CN:
     network_hidden: 此信息不可用
     never_active: 永不
     nothing_here: 这里什么都没有
-    people_followed_by: '%{name} 后的人员'
+    people_followed_by: "%{name} 后的人员"
     people_who_follow: 关注 %{name} 的人
     pin_errors:
       following: 您必须已关注要认可的人员
@@ -473,7 +473,7 @@ zh-CN:
         delete: 删除
         placeholder: 描述已执行的操作或任何其他相关更新...
       reopen: 重新打开报告
-      report: '报告 #%{id}'
+      report: "报告 #%{id}"
       reported_account: 报告的帐户
       reported_by: 报告的
       resolved: 已解决
@@ -621,11 +621,11 @@ zh-CN:
       subject: New account up for review on %{instance} (%{username})
     new_report:
       body: "%{reporter} 已报告 %{target}"
-      body_remote: '%{domain} 的人报了 %{target}'
-      subject: '%{instance} 的新报告 ( #%{id})'
+      body_remote: "%{domain} 的人报了 %{target}"
+      subject: "%{instance} 的新报告 ( #%{id})"
     new_trending_tag:
-      body: 'Hashtag #%{name} 今天流行，但之前没有进行过审查。 除非您允许它，否则它不会公开显示，或者仅保存表单，因为它再也听不到它。'
-      subject: '新 hashtag 在 %{instance} ( #%{name} ) 上进行复审'
+      body: "Hashtag #%{name} 今天流行，但之前没有进行过审查。 除非您允许它，否则它不会公开显示，或者仅保存表单，因为它再也听不到它。"
+      subject: "新 hashtag 在 %{instance} ( #%{name} ) 上进行复审"
   aliases:
     add_new: 创建别名
     created_msg: 已成功创建新的别名。 您现在可以从旧帐户启动移动。
@@ -635,7 +635,7 @@ zh-CN:
     remove: 取消链接别名
   appearance:
     advanced_web_interface: 高级 Web 界面
-    advanced_web_interface_hint: '如果要使用整个屏幕宽度，那么高级 Web 界面允许您配置许多不同的列，以便在您想要的同时查看更多信息 : 主页，通知，联合时间线，任意数量的列表和 hashtags 。'
+    advanced_web_interface_hint: "如果要使用整个屏幕宽度，那么高级 Web 界面允许您配置许多不同的列，以便在您想要的同时查看更多信息 : 主页，通知，联合时间线，任意数量的列表和 hashtags 。"
     animations_and_accessibility: 动画和辅助功能
     confirmation_dialogs: 确认对话框
     discovery: 发现
@@ -648,8 +648,8 @@ zh-CN:
   application_mailer:
     notification_preferences: 更改电子邮件首选项
     salutation: "%{name}，"
-    settings: '更改电子邮件首选项 : %{link}'
-    view: '视图 :'
+    settings: "更改电子邮件首选项 : %{link}"
+    view: "视图 :"
     view_profile: 查看概要文件
     view_status: 查看状态
   applications:
@@ -708,8 +708,8 @@ zh-CN:
     already_requested: 您已向该帐户发送了后续请求
     error: 不幸的是查找远程帐户时出错
     follow: 跟随
-    follow_request: '您已向以下请求发送了以下请求 :'
-    following: '成功 ! 您现在正在关注:'
+    follow_request: "您已向以下请求发送了以下请求 :"
+    following: "成功 ! 您现在正在关注:"
     post_follow:
       close: 或者，你可以关闭这个窗口。
       return: 显示用户的概要文件
@@ -749,7 +749,7 @@ zh-CN:
     proceed: 删除帐户
     success_msg: 已成功删除您的帐户
     warning:
-      before: '在继续进行之前，请仔细阅读这些说明 :'
+      before: "在继续进行之前，请仔细阅读这些说明 :"
       caches: 其他服务器已高速缓存的内容可能会持续
       data_removal: 将永久除去您的帖子和其他数据
       email_change_html: 您可以 <a href="%{path}">更改电子邮件地址</a> 而不删除您的帐户
@@ -766,19 +766,19 @@ zh-CN:
   domain_validator:
     invalid_domain: 不是有效的域名
   errors:
-    '400': 提交的请求无效或格式不正确。
-    '403': 您没有查看此页面的许可权。
-    '404': 我觉得你搞错了这里什么都没有
-    '406': 此页面不可用请求的格式。
-    '410': 我们有个问题休士顿网页不见了
-    '422':
+    "400": 提交的请求无效或格式不正确。
+    "403": 您没有查看此页面的许可权。
+    "404": 我觉得你搞错了这里什么都没有
+    "406": 此页面不可用请求的格式。
+    "410": 我们有个问题休士顿网页不见了
+    "422":
       content: 安全性验证失败。 你在阻止饼干吗
       title: 安全性验证失败
-    '429': 请求过多
-    '500':
+    "429": 请求过多
+    "500":
       content: 我们很抱歉但我们的事情发生了 我们已收到有关此错误的通知，并正在进行解决。
       title: 此页面不正确
-    '503': 很抱歉，我们的服务器负载似乎很高。 我们正努力尽快解决这个问题
+    "503": 很抱歉，我们的服务器负载似乎很高。 我们正努力尽快解决这个问题
     noscript_html: To use the Chatterly, please enable JavaScript. Alternatively, try one of the <a href="%{apps_path}">native apps</a> for Chatterly Mobile for your platform.
   existing_username_validator:
     not_found: 找不到具有该用户名的本地用户
@@ -822,7 +822,7 @@ zh-CN:
       title: 添加新过滤器
   footer:
     developers: 开发者
-    more: '… 以上'
+    more: "… 以上"
     resources: 资源
     trending_now: 现在趋势
   generic:
@@ -836,7 +836,7 @@ zh-CN:
     validation_errors:
       other: 有点不对劲 请查看以下 %{count} 个错误
   html_validator:
-    invalid_markup: '包含无效 HTML 标记: %{error}'
+    invalid_markup: "包含无效 HTML 标记: %{error}"
   identity_proofs:
     active: 活动
     authorize: 是，授权
@@ -851,8 +851,8 @@ zh-CN:
     i_am_html: 我 %{service} 岁 %{username} 岁
     identity: 身份
     inactive: 不活动
-    publicize_checkbox: '然后就这样'
-    publicize_toot: 'It is proven! I am %{username} on %{service}: %{url}'
+    publicize_checkbox: "然后就这样"
+    publicize_toot: "It is proven! I am %{username} on %{service}: %{url}"
     remove: 从帐户中除去证明
     removed: 已成功从帐户中除去证明
     status: 验证状态
@@ -876,15 +876,15 @@ zh-CN:
     delete: 取消激活
     expired: 已到期
     expires_in:
-      '1800': 30 分
-      '21600': 6 小时
-      '3600': 1 小时
-      '43200': 12 小时
-      '604800': 1 周
-      '86400': 1 天
+      "1800": 30 分
+      "21600": 6 小时
+      "3600": 1 小时
+      "43200": 12 小时
+      "604800": 1 周
+      "86400": 1 天
     expires_in_prompt: 永不
     generate: 生成邀请链接
-    invited_by: '您受到以下邀请 :'
+    invited_by: "您受到以下邀请 :"
     max_uses:
       other: "%{count} 使用"
     max_uses_prompt: 无限制
@@ -925,7 +925,7 @@ zh-CN:
     set_redirect: 设置重定向
     warning:
       backreference_required: 新帐户必须先配置为后引用此帐户
-      before: '在继续进行之前，请仔细阅读这些说明 :'
+      before: "在继续进行之前，请仔细阅读这些说明 :"
       cooldown: 移动后有一个冷却期，在此期间，您将无法再次移动
       disabled_account: 您的当前帐户随后将无法完全使用。 但是，您将有权访问数据导出以及重新激活。
       followers: 此操作将使所有追随者从当前帐户移至新帐户
@@ -937,7 +937,7 @@ zh-CN:
   move_handler:
     carry_blocks_over_text: 此用户从您阻止的 %{acct}移动。
     carry_mutes_over_text: 此用户从您已静音的 %{acct}移动。
-    copy_account_note_text: '此用户从 %{acct}移动，以下是您先前关于这些用户的注释 :'
+    copy_account_note_text: "此用户从 %{acct}移动，以下是您先前关于这些用户的注释 :"
   notification_mailer:
     digest:
       action: 查看所有通知
@@ -949,7 +949,7 @@ zh-CN:
         other: "自上次访问以来的 %{count} 次新通知 \U0001F418"
       title: 在你不在的情况下
     favourite:
-      body: '您的状态为 %{name}:'
+      body: "您的状态为 %{name}:"
       subject: "%{name} 支持您的状态"
       title: 新宠
     follow:
@@ -959,20 +959,20 @@ zh-CN:
     follow_request:
       action: 管理跟踪请求
       body: "%{name} 要求跟你走"
-      subject: '待处理的追随者: %{name} 人'
+      subject: "待处理的追随者: %{name} 人"
       title: 新建跟踪请求
     mention:
       action: 答复
-      body: '你被 %{name} 的人提到'
+      body: "你被 %{name} 的人提到"
       subject: You were mentioned by %{name}
       title: 新提及
     reblog:
-      body: '您的状态提升了 %{name}:'
+      body: "您的状态提升了 %{name}:"
       subject: "%{name} 提升了您的状态"
       title: 新升压
   notifications:
     email_events: 电子邮件通知的事件
-    email_events_hint: '选择要接收通知的事件 :'
+    email_events_hint: "选择要接收通知的事件 :"
     other_settings: 其他通知设置
   number:
     human:
@@ -984,13 +984,13 @@ zh-CN:
           quadrillion: Q
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: 输入认证程序应用程序生成的代码以确认
     description_html: 如果您使用认证器应用程序启用 <strong>两个因子认证</strong> ，那么登录将要求您拥有手机，这将生成令牌以供您输入。
     enable: 启用
     instructions_html: "<strong>将此 QR 代码扫描到手机</strong>上的 Google Authenticator 或 similar TOTP 应用程序。 从现在开始，该应用程序将生成登录时必须输入的令牌。"
-    manual_instructions: '如果您无法扫描 QR 代码并需要手动输入，那么以下是明文密码:'
+    manual_instructions: "如果您无法扫描 QR 代码并需要手动输入，那么以下是明文密码:"
     setup: 设置
     wrong_code: 输入的代码无效! 服务器时间和设备时间是否正确?
   pagination:
@@ -1039,18 +1039,18 @@ zh-CN:
     missing_resource: 找不到您帐户的必需重定向 URL
     no_account_html: Don't have an account? You can <a href='%{sign_up_path}' target='_blank'>sign up here</a>
     proceed: 继续关注
-    prompt: '您将执行以下操作 :'
+    prompt: "您将执行以下操作 :"
     reason_html: "<strong>为什么这一步是必要的?</strong> </strong> <code>%{instance}</code> 可能不是您注册的服务器，因此我们需要首先将您重定向到您的主服务器。"
   remote_interaction:
     favourite:
       proceed: 继续收藏夹
-      prompt: '你要喜欢这个'
+      prompt: "你要喜欢这个"
     reblog:
       proceed: 继续提升
-      prompt: '您想要提升此图:'
+      prompt: "您想要提升此图:"
     reply:
       proceed: 继续回复
-      prompt: '您要回复此图:'
+      prompt: "您要回复此图:"
   scheduled_statuses:
     over_daily_limit: 那一天你超过了 %{limit} 个预定的限量
     over_total_limit: 超出了 %{limit} 个调度的限额
@@ -1124,15 +1124,15 @@ zh-CN:
     attached:
       audio:
         other: "%{count} 音频"
-      description: '附 : %{attached}'
+      description: "附 : %{attached}"
       image:
         other: "%{count} 个图像"
       video:
         other: "%{count} 个视频"
     boosted_from_html: 从 %{acct_link} 提升
-    content_warning: '内容警告: %{warning}'
+    content_warning: "内容警告: %{warning}"
     disallowed_hashtags:
-      other: '包含不允许的散列标记: %{tags}'
+      other: "包含不允许的散列标记: %{tags}"
     errors:
       in_reply_not_found: 您尝试回复的状态似乎不存在。
     language_detection: 自动检测语言
@@ -1291,9 +1291,9 @@ zh-CN:
       subject: 您的归档已准备好下载
       title: 归档取出
     sign_in_token:
-      details: '以下是尝试的详细信息 :'
-      explanation: '我们检测到尝试从无法识别的 IP 地址登录到您的帐户。 如果是您，请在提问页面中的符号上输入以下安全代码 :'
-      further_actions: '如果不是这样，请更改您的密码，并在您的帐户上启用双因素认证。 您可以在此处执行以下操作 :'
+      details: "以下是尝试的详细信息 :"
+      explanation: "我们检测到尝试从无法识别的 IP 地址登录到您的帐户。 如果是您，请在提问页面中的符号上输入以下安全代码 :"
+      further_actions: "如果不是这样，请更改您的密码，并在您的帐户上启用双因素认证。 您可以在此处执行以下操作 :"
       subject: 请确认已尝试登录
       title: 登录尝试
     warning:
@@ -1303,7 +1303,7 @@ zh-CN:
         suspend: 您的帐户已暂挂，并且您的所有 tots 和上载的介质文件已从此服务器中不可逆转地除去，并且您具有追随者的服务器。
       get_in_touch: 您可以回复此电子邮件，与 %{instance} 的工作人员取得联系。
       review_server_policies: 复审服务器策略
-      statuses: '具体而言，对于:'
+      statuses: "具体而言，对于:"
       subject:
         disable: 你的账号 %{acct} 被冻结了
         none: 警告 %{acct}
@@ -1319,7 +1319,7 @@ zh-CN:
       edit_profile_step: 您可以通过上载头像，标题，更改显示名称等来定制概要文件。 如果您想要复审新的追随者，然后才允许他们跟踪您，那么可以锁定您的帐户。
       explanation: 以下是帮助您入门的一些提示
       final_action: 开始发布
-      final_step: '开始发布! 即使没有追随者，其他人也可以看到您的公共消息，例如，在本地时间线和 hashtags 上。 您可能想在 #introductions hashtag 上介绍自己。'
+      final_step: "开始发布! 即使没有追随者，其他人也可以看到您的公共消息，例如，在本地时间线和 hashtags 上。 您可能想在 #introductions hashtag 上介绍自己。"
       full_handle: 您的完整句柄
       full_handle_hint: 这就是你会告诉朋友的，这样他们就可以在另一台服务器上留言或跟你走。
       review_preferences_action: 更改首选项
@@ -1341,7 +1341,7 @@ zh-CN:
     invalid_sign_in_token: 安全代码无效
     otp_lost_help_html: 如果您失去了对两者的访问权，可能会与 %{email} 联系
     seamless_external_login: 您已通过外部服务登录，因此密码和电子邮件设置不可用。
-    signed_in_as: '签署为:'
+    signed_in_as: "签署为:"
     suspicious_sign_in_confirmation: 您之前似乎没有从该设备登录，并且您尚未登录一段时间，因此我们将安全代码发送到您的电子邮件地址以确认它是您的。
   verification:
     explanation_html: '您可以 <strong>验证自己是概要文件元数据</strong>中链接的所有者。 为此，链接的 Web 站点必须包含指向您的 Chatterh 概要文件的链接。 链接返回 <strong>必须有</strong> <code>的 rel="me"</code> 属性。 链接的文本内容不重要。 以下是一个示例 :'

@@ -7,10 +7,10 @@ zh-TW:
     failure:
       already_authenticated: 您已登入。
       inactive: 您的帳戶尚未啟動。
-      invalid: '%{authentication_keys} 無效或密碼無效。'
+      invalid: "%{authentication_keys} 無效或密碼無效。"
       last_attempt: 在鎖定帳戶之前，您再嘗試一次。
       locked: 您的帳戶已鎖定。
-      not_found_in_database: '%{authentication_keys} 無效或密碼無效。'
+      not_found_in_database: "%{authentication_keys} 無效或密碼無效。"
       pending: 您的帳戶仍在檢閱中。
       timeout: 您的階段作業過期。 請再次登入以繼續。
       unauthenticated: 在繼續之前，您需要登入或註冊。
@@ -22,59 +22,59 @@ zh-TW:
         explanation: 您已使用此電子郵件位址，在 %{host} 建立帳戶。 您可以按一下離開啟動它。 如果這不是你的話，請忽略這封郵件。
         explanation_when_pending: 您已使用此電子郵件位址，將邀請套用至 %{host} 。 確認您的電子郵件地址後，我們將會審查您的申請。 您可以登入以變更您的詳細資料或刪除您的帳戶，但在您的帳戶被核准之前，您無法存取大部分的功能。 如果您的應用程式遭到拒絕，則將會移除您的資料，因此不會需要您進一步的動作。 如果這不是你的話，請忽略這封郵件。
         extra_html: Please also check out <a href="%{terms_path}">the rules of the server</a> and <a href="%{policy_path}">our terms of service</a>.
-        subject: '時聲： %{instance} 的確認指示'
+        subject: "時聲： %{instance} 的確認指示"
         title: 驗證電子郵件位址
       email_changed:
-        explanation: '您帳戶的電子郵件位址已變更為：'
+        explanation: "您帳戶的電子郵件位址已變更為："
         extra: 如果您未變更電子郵件，則可能有人已取得您的帳戶的存取權。 請立即變更密碼，或者如果您已鎖定帳戶，請聯絡伺服器管理者。
-        subject: '已會談：已變更電子郵件'
+        subject: "已會談：已變更電子郵件"
         title: 新的電子郵件位址
       password_change:
         explanation: 您帳戶的密碼已變更。
         extra: 如果您未變更密碼，則可能有人已取得您的帳戶的存取權。 請立即變更密碼，或者如果您已鎖定帳戶，請聯絡伺服器管理者。
-        subject: '已變更：已變更密碼'
+        subject: "已變更：已變更密碼"
         title: 密碼已變更
       reconfirmation_instructions:
         explanation: 請確認新的位址來變更您的電子郵件。
         extra: 如果此變更不是由您起始，請忽略此電子郵件。 在您存取上面的鏈結之前， Chatwat 帳戶的電子郵件位址將不會變更。
-        subject: '時聲：確認電子郵件給 %{instance}'
+        subject: "時聲：確認電子郵件給 %{instance}"
         title: 驗證電子郵件位址
       reset_password_instructions:
         action: 變更密碼
         explanation: 您已要求帳戶的新密碼。
         extra: 如果您未要求此資訊，請忽略此電子郵件。 除非您存取上方的鏈結並建立新的密碼，否則您的密碼不會變更。
-        subject: '最近的：重設密碼指示'
+        subject: "最近的：重設密碼指示"
         title: 密碼重設
       two_factor_disabled:
         explanation: 您帳戶的雙因素鑑別已停用。 現在，只能使用電子郵件位址和密碼登入。
-        subject: '已關閉：兩個因素鑑別已停用'
+        subject: "已關閉：兩個因素鑑別已停用"
         title: 已停用 2FA
       two_factor_enabled:
         explanation: 已為您的帳戶啟用雙因素鑑別。 登入時需要配對的 TOTP 應用程式所產生的記號。
-        subject: '最近：已啟用兩個因素鑑別'
+        subject: "最近：已啟用兩個因素鑑別"
         title: 已啟用 2FA
       two_factor_recovery_codes_changed:
         explanation: 先前的回復碼已失效，並產生新的回復碼。
-        subject: '前一個：重新產生兩個因素的回復碼'
+        subject: "前一個：重新產生兩個因素的回復碼"
         title: 已變更 2FA 回復碼
       unlock_instructions:
-        subject: '最近：解除鎖定指示'
+        subject: "最近：解除鎖定指示"
       webauthn_credential:
         added:
           explanation: 下列安全金鑰已新增至您的帳戶
-          subject: '最近：新的安全金鑰'
+          subject: "最近：新的安全金鑰"
           title: 已新增安全金鑰
         deleted:
           explanation: 已從您的帳戶中刪除下列安全金鑰
-          subject: '已刪除：已刪除安全金鑰'
+          subject: "已刪除：已刪除安全金鑰"
           title: 已刪除其中一個安全金鑰
       webauthn_disabled:
         explanation: 具有安全金鑰的鑑別已停用您的帳戶。 現在只可以使用配對的 TOTP 應用程式所產生的記號來登入。
-        subject: '交談式：已停用安全金鑰的鑑別'
+        subject: "交談式：已停用安全金鑰的鑑別"
         title: 已停用安全金鑰
       webauthn_enabled:
         explanation: 已為您的帳戶啟用安全金鑰鑑別。 現在，您可以使用您的安全金鑰來登入。
-        subject: '已會談：已啟用安全金鑰鑑別'
+        subject: "已會談：已啟用安全金鑰鑑別"
         title: 已啟用安全金鑰
     omniauth_callbacks:
       failure: 無法從 %{kind} 鑑別您，因為 "%{reason}"。

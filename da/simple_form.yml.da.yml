@@ -57,7 +57,7 @@ da:
         domain: Dette kan være det domænenavn, der vises i e-mail-adressen, MX-recorden, som domænet opløses til, eller IP på den server, som MX-recorden opløses til. De vil blive kontrolleret efter brugertilmelding, og tilmeldingslisten afvises.
         with_dns_records: Et forsøg på at løse det pågældende domænes DNS-records vil blive gjort, og resultaterne vil også blive blokeret
       featured_tag:
-        name: 'Du bør nok bruge en af følgende:'
+        name: "Du bør nok bruge en af følgende:"
       form_challenge:
         current_password: Du er på vej ind i et sikret område
       imports:
@@ -65,7 +65,7 @@ da:
       invite_request:
         text: Dette vil hjælpe os med at gennemgå din applikation
       sessions:
-        otp: 'Angiv den tofaktorkode, der er genereret af din telefon-app, eller brug en af dine retableringskoder:'
+        otp: "Angiv den tofaktorkode, der er genereret af din telefon-app, eller brug en af dine retableringskoder:"
         webauthn: Hvis det er en USB nøgle, så sørg for at indsætte den og om nødvendigt trykke på den.
       tag:
         name: Du kan kun ændre bogstaverne, f.eks. for at gøre den mere læselig
@@ -183,7 +183,7 @@ da:
         name: Hashtag
         trendable: Tillad, at dette hashtag vises under tendenser
         usable: Tillad toots at bruge dette hashtag
-    'no': 'Nej.'
+    "no": "Nej."
     recommended: Anbefales
     required:
       mark: "-HVAD?"
@@ -191,4 +191,4 @@ da:
     title:
       sessions:
         webauthn: Brug en af dine sikkerhedsnøgler til at logge på
-    'yes': '-Ja.'
+    "yes": "-Ja."

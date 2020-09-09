@@ -51,7 +51,7 @@ cs:
         callback_urls: Adresy URL zpětného
         scopes: Obory
         secret: Utajené
-        title: 'Aplikace: %{name}'
+        title: "Aplikace: %{name}"
     authorizations:
       buttons:
         authorize: Autorizovat
@@ -128,7 +128,7 @@ cs:
       "read:bookmarks": viz záložky
       "read:favourites": viz oblíbené položky
       "read:filters": viz vaše filtry
-      "read:follows": 'viz následující:'
+      "read:follows": "viz následující:"
       "read:lists": viz seznamy
       "read:mutes": viz své mutace
       "read:notifications": viz vaše oznámení

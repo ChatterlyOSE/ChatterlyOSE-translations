@@ -51,7 +51,7 @@ pl:
         callback_urls: Adresy URL wywołań
         scopes: Zasięgi
         secret: Sekret klienta
-        title: 'Aplikacja: %{name}'
+        title: "Aplikacja: %{name}"
     authorizations:
       buttons:
         authorize: Autoryzuj
@@ -128,7 +128,7 @@ pl:
       "read:bookmarks": zobacz zakładki
       "read:favourites": zobacz swoje ulubione
       "read:filters": zobacz swoje filtry
-      "read:follows": 'zobacz:'
+      "read:follows": "zobacz:"
       "read:lists": zobacz listy
       "read:mutes": zob. mutes
       "read:notifications": zobacz swoje powiadomienia

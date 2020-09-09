@@ -51,7 +51,7 @@ pt:
         callback_urls: URLs de callback
         scopes: Escopos
         secret: Segredo do cliente
-        title: 'Aplicação: %{name}'
+        title: "Aplicação: %{name}"
     authorizations:
       buttons:
         authorize: Autorizar

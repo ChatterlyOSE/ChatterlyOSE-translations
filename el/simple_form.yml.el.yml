@@ -43,7 +43,7 @@ el:
         setting_default_sensitive: Τα ευαίσθητα μέσα αποκρύπτονται από προεπιλογή και μπορούν να αποκαλυφθούν με ένα κλικ
         setting_display_media_default: Απόκρυψη μέσων που επισημαίνονται ως ευαίσθητα
         setting_display_media_hide_all: Πάντα απόκρυψη μέσων
-        setting_display_media_show_all: 'Εμφάνιση πάντα μέσων:'
+        setting_display_media_show_all: "Εμφάνιση πάντα μέσων:"
         setting_hide_network: Ποιος θα ακολουθήσει και ποιος θα ακολουθήσει δεν θα εμφανιστεί στο προφίλ σας
         setting_noindex: Επηρεάζει το δημόσιο προφίλ και τις σελίδες κατάστασης.
         setting_show_application: Η εφαρμογή που χρησιμοποιείτε για toot θα εμφανιστεί στην αναλυτική προβολή των toots σας
@@ -57,7 +57,7 @@ el:
         domain: Αυτό μπορεί να είναι το όνομα τομέα που εμφανίζεται στη διεύθυνση e-mail, η εγγραφή MX στον οποίο αναλύεται ο τομέας ή η IP του εξυπηρετητή στον οποίο αναλύεται η εγγραφή MX. Αυτές θα ελέγχονται κατά την εγγραφή χρηστών και η εγγραφή θα απορριφθεί.
         with_dns_records: Θα γίνει προσπάθεια ανάλυσης των εγγραφών DNS που έχουν δοθεί και τα αποτελέσματα θα μπλοκαριστεί.
       featured_tag:
-        name: 'Μπορείτε να χρησιμοποιήσετε ένα από αυτά:'
+        name: "Μπορείτε να χρησιμοποιήσετε ένα από αυτά:"
       form_challenge:
         current_password: Εισέρχεστε σε ασφαλή περιοχή.
       imports:
@@ -65,7 +65,7 @@ el:
       invite_request:
         text: Αυτό θα μας βοηθήσει να εξετάσουμε την αίτησή σας.
       sessions:
-        otp: 'Καταχωρήστε τον κώδικα δύο συντελεστών που δημιουργείται από την εφαρμογή τηλεφώνου σας ή χρησιμοποιήστε έναν από τους κωδικούς αποκατάστασης:'
+        otp: "Καταχωρήστε τον κώδικα δύο συντελεστών που δημιουργείται από την εφαρμογή τηλεφώνου σας ή χρησιμοποιήστε έναν από τους κωδικούς αποκατάστασης:"
         webauthn: Αν είναι κλειδί USB, βεβαιωθείτε ότι το εισάγετε και, αν είναι απαραίτητο, χτυπήστε το.
       tag:
         name: Μπορείτε να αλλάξετε μόνο το περίβλημα των γραμμάτων, για παράδειγμα, για να γίνει πιο ευανάγνωστο
@@ -74,56 +74,56 @@ el:
     labels:
       account:
         fields:
-          name: 'Ετικέτα:'
-          value: ''' Περιεχόμενο'
+          name: "Ετικέτα:"
+          value: "' Περιεχόμενο"
       account_alias:
         acct: Χειρισμός του παλιού λογαριασμού
       account_migration:
         acct: Χειρισμός του νέου λογαριασμού
       account_warning_preset:
         text: Προκαθορισμένο κείμενο
-        title: ''' Τίτλος'
+        title: "' Τίτλος"
       admin_account_action:
         include_statuses: Συμπερίληψη αναφερόμενων toots στο e-mail
         send_email_notification: Ειδοποίηση του χρήστη ανά e-mail
-        text: 'Προσφορά:'
-        type: ''' Ενέργεια'
+        text: "Προσφορά:"
+        type: "' Ενέργεια"
         types:
-          disable: 'Απενεργοποίηση σύνδεσης:'
+          disable: "Απενεργοποίηση σύνδεσης:"
           none: Τίποτα.
           silence: Ησυχία!
           suspend: Αναστολή και μη αναστρέψιμη διαγραφή δεδομένων λογαριασμού
         warning_preset_id: Χρήση προεπιλογής προειδοποίησης
       announcement:
-        all_day: 'Ολοήμερο συμβάν:'
+        all_day: "Ολοήμερο συμβάν:"
         ends_at: Τέλος του συμβάντος
-        scheduled_at: ''' Ημερομηνία δημοσίευσης'
-        starts_at: 'Αρχή συμβάντος:'
-        text: 'Ανακοίνωση:'
+        scheduled_at: "' Ημερομηνία δημοσίευσης"
+        starts_at: "Αρχή συμβάντος:"
+        text: "Ανακοίνωση:"
       defaults:
-        autofollow: 'Πρόσκληση για παρακολούθηση:'
-        avatar: ''' βαταρ'
+        autofollow: "Πρόσκληση για παρακολούθηση:"
+        avatar: "' βαταρ"
         bot: Είναι ένας λογαριασμός bot.
         chosen_languages: Φίλτρο γλώσσες
         confirm_new_password: Έλεγχος νέου κωδικού πρόσβασης
         confirm_password: Έλεγχος κωδικού πρόσβασης
         context: Περιβάλλοντα φίλτρου
         current_password: Τρέχων κωδικός
-        data: 'Δεδομένα:'
+        data: "Δεδομένα:"
         discoverable: Λίστα αυτού του λογαριασμού στον κατάλογο
-        display_name: 'Εμφάνιση ονόματος:'
+        display_name: "Εμφάνιση ονόματος:"
         email: Διεύθυνση e-mail
         expires_in: Λήξη μετά από
         fields: μεταδεδομένα προφίλ
-        header: 'Κεφαλίδα:'
+        header: "Κεφαλίδα:"
         inbox_url: URL του inbox ρελέ
         irreversible: Πτώση αντί για απόκρυψη
         locale: Γλώσσα διεπαφής.
         locked: Κλείδωμα λογαριασμού
         max_uses: Μέγιστος αριθμός χρήσεων
-        new_password: 'Νέο σύνθημα:'
+        new_password: "Νέο σύνθημα:"
         note: Bio
-        otp_attempt: 'Κωδικός δύο συντελεστών:'
+        otp_attempt: "Κωδικός δύο συντελεστών:"
         password: Κωδικός πρόσβασης
         phrase: Λέξη-κλειδί ή φράση
         setting_advanced_layout: Ενεργοποίηση προχωρημένου διαδικτυακού περιβάλλοντος
@@ -135,10 +135,10 @@ el:
         setting_default_privacy: Απόσπαση απορρήτου
         setting_default_sensitive: Πάντα σημειώστε τα μέσα ως ευαίσθητα
         setting_delete_modal: Εμφάνιση παραθύρου επιβεβαίωσης πριν από τη διαγραφή toot
-        setting_display_media: 'Εμφάνιση μέσων:'
-        setting_display_media_default: 'Προεπιλογή:'
+        setting_display_media: "Εμφάνιση μέσων:"
+        setting_display_media_default: "Προεπιλογή:"
         setting_display_media_hide_all: Κρύψτε!
-        setting_display_media_show_all: 'Εμφάνιση όλων:'
+        setting_display_media_show_all: "Εμφάνιση όλων:"
         setting_expand_spoilers: Πάντα ανάπτυξη των toots που επισημαίνονται με προειδοποιήσεις περιεχομένου
         setting_hide_network: Απόκρυψη δικτύου σας
         setting_noindex: Opt-out of search engine indexing
@@ -150,10 +150,10 @@ el:
         setting_unfollow_modal: Εμφάνιση παραθύρου επιβεβαίωσης πριν unακόλουθου κάποιον
         setting_use_blurhash: Εμφάνιση πολύχρωμη διαβαθμίσεις για κρυφά μέσα
         setting_use_pending_items: Αργή λειτουργία
-        severity: 'Σοβαρότητα:'
-        sign_in_token_attempt: 'Κωδικός ασφαλείας:'
-        type: 'Είδος εισαγωγής:'
-        username: 'Όνομα χρήστη:'
+        severity: "Σοβαρότητα:"
+        sign_in_token_attempt: "Κωδικός ασφαλείας:"
+        type: "Είδος εισαγωγής:"
+        username: "Όνομα χρήστη:"
         username_or_email: Όνομα χρήστη ή Email
         whole_word: Ολόκληρη λέξη.
       email_domain_block:
@@ -165,7 +165,7 @@ el:
         must_be_following: Αποκλεισμός ειδοποιήσεων από ανθρώπους που δεν ακολουθούν.
         must_be_following_dm: Μπλοκάρεις απευθείας μηνύματα από ανθρώπους που δεν ακολουθείς.
       invite:
-        comment: 'Σχόλιο:'
+        comment: "Σχόλιο:"
       invite_request:
         text: Γιατί θέλετε να συμμετάσχετε;
       notification_emails:
@@ -183,7 +183,7 @@ el:
         name: Hashtag
         trendable: Αφήστε αυτό το hashtag να εμφανιστεί κάτω από τις τάσεις
         usable: Δυνατότητα χρήσης αυτού του hashtag
-    'no': 'Όχι.'
+    "no": "Όχι."
     recommended: Συνιστάται.
     required:
       mark: "*"
@@ -191,4 +191,4 @@ el:
     title:
       sessions:
         webauthn: Χρησιμοποιήστε ένα από τα κλειδιά ασφάλειας για να συνδεθείτε.
-    'yes': 'Ναι!'
+    "yes": "Ναι!"

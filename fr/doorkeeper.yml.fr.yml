@@ -51,7 +51,7 @@ fr:
         callback_urls: URL de rappel
         scopes: Scopes
         secret: Secret client
-        title: 'Application: %{name}'
+        title: "Application: %{name}"
     authorizations:
       buttons:
         authorize: Autoriser

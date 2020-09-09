@@ -1,11 +1,11 @@
 da:
   about:
-    about_hashtag_html: 'Dette er offentlige tosmænd, der er tagget med <strong>#%{hashtag}</strong>. Du kan interagere med dem, hvis du har en konto hvor som helst i snakken.'
-    about_mastodon_html: 'Det sociale netværk i fremtiden: Ingen virksomhedsovervågning, etisk design, og decentralisering! Ejer jeres data med Chatterly!'
+    about_hashtag_html: "Dette er offentlige tosmænd, der er tagget med <strong>#%{hashtag}</strong>. Du kan interagere med dem, hvis du har en konto hvor som helst i snakken."
+    about_mastodon_html: "Det sociale netværk i fremtiden: Ingen virksomhedsovervågning, etisk design, og decentralisering! Ejer jeres data med Chatterly!"
     about_this: Om
     active_count_after: aktiv
     active_footnote: Månedlige aktive brugere (MAU)
-    administered_by: 'Administreres af:'
+    administered_by: "Administreres af:"
     api: API
     apps: Mobilapps
     apps_platforms: Download appen Chatterly-app til PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ da:
     learn_more: Læs mere her
     privacy_policy: Privacy-politik
     see_whats_happening: Se, hvad der sker.
-    server_stats: 'Serverstatistik:'
+    server_stats: "Serverstatistik:"
     source_code: Kildekode
     status_count_after:
       one: status
@@ -38,11 +38,11 @@ da:
     unavailable_content_description:
       domain: Server
       reason: Årsag
-      rejecting_media: 'Mediefiler fra disse servere vil ikke blive behandlet eller gemt, og der vises ingen miniaturer, som kræver manuel klik-through til den oprindelige fil:'
+      rejecting_media: "Mediefiler fra disse servere vil ikke blive behandlet eller gemt, og der vises ingen miniaturer, som kræver manuel klik-through til den oprindelige fil:"
       rejecting_media_title: Filtrerede medier
-      silenced: 'Posteringer fra disse servere vil være skjult i offentlige tidslinjer og konversationer, og der vil ikke blive genereret nogen notifikationer fra deres brugernes interaktioner, medmindre du følger dem:'
+      silenced: "Posteringer fra disse servere vil være skjult i offentlige tidslinjer og konversationer, og der vil ikke blive genereret nogen notifikationer fra deres brugernes interaktioner, medmindre du følger dem:"
       silenced_title: Silenced servere
-      suspended: 'Ingen data fra disse servere vil blive behandlet, gemt eller udvekslet, foretage enhver interaktion eller kommunikation med brugere fra disse servere umuligt:'
+      suspended: "Ingen data fra disse servere vil blive behandlet, gemt eller udvekslet, foretage enhver interaktion eller kommunikation med brugere fra disse servere umuligt:"
       suspended_title: Suspendte servere
     unavailable_content_html: Generelt gør det muligt for dig at se indhold fra og interagere med brugere fra en hvilken som helst anden server i fediverse. Det er de undtagelser, der er gjort på denne særlige server.
     user_count_after:
@@ -97,7 +97,7 @@ da:
       add_email_domain_block: Blokér e-mail
       approve: Godkend
       approve_all: Godkend alle
-      are_you_sure: '-Er du sikker?'
+      are_you_sure: "-Er du sikker?"
       avatar: Avatar
       by_domain: Domæne
       change_email:
@@ -465,7 +465,7 @@ da:
           one: "%{count} -rapport"
           other: "%{count} rapporter"
       action_taken_by: Funktion udført af
-      are_you_sure: '-Er du sikker?'
+      are_you_sure: "-Er du sikker?"
       assign_to_self: Tildel til mig
       assigned: Tildelt moderator
       by_target_domain: Domæne for rapporteret konto
@@ -481,7 +481,7 @@ da:
         delete: Slet
         placeholder: Beskriv, hvilke handlinger der er foretaget, eller eventuelle andre relaterede opdateringer ...
       reopen: Åbn rapport igen
-      report: 'Rapport #%{id}'
+      report: "Rapport #%{id}"
       reported_account: Rapporteret konto
       reported_by: Rapporteret af
       resolved: Løst
@@ -630,10 +630,10 @@ da:
     new_report:
       body: "%{reporter} har rapporteret %{target}"
       body_remote: En fra %{domain} har rapporteret %{target}
-      subject: 'Ny rapport for %{instance} (#%{id})'
+      subject: "Ny rapport for %{instance} (#%{id})"
     new_trending_tag:
-      body: 'hashtagget #%{name} er trende i dag, men er ikke tidligere revideret. Den vil ikke blive vist offentligt, medmindre du tillader det, eller gem formularen, som den aldrig skal høre om det igen.'
-      subject: 'Nyt hashtag op til gennemgang på %{instance} (#%{name})'
+      body: "hashtagget #%{name} er trende i dag, men er ikke tidligere revideret. Den vil ikke blive vist offentligt, medmindre du tillader det, eller gem formularen, som den aldrig skal høre om det igen."
+      subject: "Nyt hashtag op til gennemgang på %{instance} (#%{name})"
   aliases:
     add_new: Opret alias
     created_msg: Et nyt alias er oprettet. Du kan nu starte en flytning fra den gamle konto.
@@ -643,7 +643,7 @@ da:
     remove: Fjern linkalias
   appearance:
     advanced_web_interface: Udvidet webgrænseflade
-    advanced_web_interface_hint: 'Hvis du vil gøre brug af hele din skærmbredde, kan du konfigurere mange forskellige kolonner for at få vist lige så mange oplysninger på samme tid, som du vil: Hjem, adviseringer, fødererede tidslinjer, antal lister og hashtags.'
+    advanced_web_interface_hint: "Hvis du vil gøre brug af hele din skærmbredde, kan du konfigurere mange forskellige kolonner for at få vist lige så mange oplysninger på samme tid, som du vil: Hjem, adviseringer, fødererede tidslinjer, antal lister og hashtags."
     animations_and_accessibility: Animationer og handicapvenlighed
     confirmation_dialogs: Bekræftelsedialogbokse
     discovery: Opsporing
@@ -656,8 +656,8 @@ da:
   application_mailer:
     notification_preferences: Revidér e-mailindstillinger
     salutation: "%{name},"
-    settings: 'Revidér e-mail-indstillinger: %{link}'
-    view: 'Oversigt:'
+    settings: "Revidér e-mail-indstillinger: %{link}"
+    view: "Oversigt:"
     view_profile: Vis profil
     view_status: Vis status
   applications:
@@ -716,8 +716,8 @@ da:
     already_requested: Du har allerede sendt en anmodning til denne konto
     error: Der er desværre opstået en fejl under optur af den eksterne konto
     follow: Følg
-    follow_request: 'Du har sendt en anmodning om at:'
-    following: 'Succes! Du følger nu:'
+    follow_request: "Du har sendt en anmodning om at:"
+    following: "Succes! Du følger nu:"
     post_follow:
       close: Eller, du kan bare lukke dette vindue.
       return: Vis brugerens profil
@@ -757,7 +757,7 @@ da:
     proceed: Slet konto
     success_msg: Din konto er slettet
     warning:
-      before: 'Før du fortsætter, skal du læse disse noter omhyggeligt:'
+      before: "Før du fortsætter, skal du læse disse noter omhyggeligt:"
       caches: Indhold, der er gemt i cachen af andre servere, kan fortsætte
       data_removal: Dine indlæg og andre data vil blive fjernet permanent
       email_change_html: You can <a href="%{path}">change your e-mail address</a> without deleting your account
@@ -774,19 +774,19 @@ da:
   domain_validator:
     invalid_domain: er ikke et gyldigt domænenavn
   errors:
-    '400': Den anmodning, du har sendt, er ugyldig eller forkert udformet.
-    '403': Du har ikke tilladelse til at få vist denne side.
-    '404': Jeg tror, du har taget en forkert drejning, der er ikke noget her.
-    '406': Denne side er ikke tilgængelig i det ønskede format.
-    '410': Vi har et problem Houston, siden er væk.
-    '422':
+    "400": Den anmodning, du har sendt, er ugyldig eller forkert udformet.
+    "403": Du har ikke tilladelse til at få vist denne side.
+    "404": Jeg tror, du har taget en forkert drejning, der er ikke noget her.
+    "406": Denne side er ikke tilgængelig i det ønskede format.
+    "410": Vi har et problem Houston, siden er væk.
+    "422":
       content: Sikkerhedskontrol er ikke udført. -Bager du småkager?
       title: Sikkerhedskontrol ikke udført
-    '429': For mange forespørgsler
-    '500':
+    "429": For mange forespørgsler
+    "500":
       content: Vi beklager, men noget gik galt i vores ende. Vi er blevet underrettet om denne fejl, og vi arbejder på at løse det.
       title: Denne side er ikke korrekt
-    '503': Vi er kede af det, vi ser ud til at opleve høj serverbelastning. Vi arbejder på at løse det så hurtigt som muligt.
+    "503": Vi er kede af det, vi ser ud til at opleve høj serverbelastning. Vi arbejder på at løse det så hurtigt som muligt.
     noscript_html: Hvis du vil bruge Chatterly, skal du aktivere JavaScript. Alternativt kan du prøve en af <a href="%{apps_path}">indbyggede apps</a> for Chatterly Mobile for din platform.
   existing_username_validator:
     not_found: Kan ikke finde en lokal bruger med det brugernavn
@@ -845,7 +845,7 @@ da:
       one: Noget er ikke helt rigtigt endnu! Gennemse fejlen nedenfor
       other: Noget er ikke helt rigtigt endnu! Gennemgå %{count} fejl nedenfor
   html_validator:
-    invalid_markup: 'indeholder ugyldigt HTML-markup: %{error}'
+    invalid_markup: "indeholder ugyldigt HTML-markup: %{error}"
   identity_proofs:
     active: Aktiv
     authorize: Ja, bemyndiger
@@ -860,8 +860,8 @@ da:
     i_am_html: Jeg er %{username} på %{service}.
     identity: Identitet
     inactive: Inaktiv
-    publicize_checkbox: 'Og til det her:'
-    publicize_toot: 'Det er bevist! I am %{username} på %{service}: %{url}'
+    publicize_checkbox: "Og til det her:"
+    publicize_toot: "Det er bevist! I am %{username} på %{service}: %{url}"
     remove: Fjern bevis fra konto
     removed: Beviset fra konto er fjernet
     status: Verifikationstilstand
@@ -885,15 +885,15 @@ da:
     delete: Deaktivér
     expired: Udløb
     expires_in:
-      '1800': 30 minutter
-      '21600': 6 timer
-      '3600': 1 time
-      '43200': 12 timer
-      '604800': 1 uge
-      '86400': 1 dag
+      "1800": 30 minutter
+      "21600": 6 timer
+      "3600": 1 time
+      "43200": 12 timer
+      "604800": 1 uge
+      "86400": 1 dag
     expires_in_prompt: Aldrig.
     generate: Generér invitlink
-    invited_by: 'Du blev inviteret af:'
+    invited_by: "Du blev inviteret af:"
     max_uses:
       one: 1 brug
       other: "%{count} bruger"
@@ -935,7 +935,7 @@ da:
     set_redirect: Angiv omdirigering
     warning:
       backreference_required: Den nye konto skal først konfigureres til at bagerste-reference denne
-      before: 'Før du fortsætter, skal du læse disse noter omhyggeligt:'
+      before: "Før du fortsætter, skal du læse disse noter omhyggeligt:"
       cooldown: Efter flytning er der en fortrydelsesperiode, hvor du ikke kan bevæge dig igen.
       disabled_account: Din aktuelle konto vil ikke være fuldt anvendelig bagefter. Men du vil have adgang til dataeksport samt genaktivering.
       followers: Denne handling vil flytte alle følgere fra den aktuelle konto til den nye konto
@@ -947,7 +947,7 @@ da:
   move_handler:
     carry_blocks_over_text: Denne bruger er flyttet fra %{acct}, som du har blokeret.
     carry_mutes_over_text: Denne bruger er flyttet fra %{acct}, som du havde muteret.
-    copy_account_note_text: 'Denne bruger er flyttet fra %{acct}, her var dine tidligere noter om dem:'
+    copy_account_note_text: "Denne bruger er flyttet fra %{acct}, her var dine tidligere noter om dem:"
   notification_mailer:
     digest:
       action: Vis alle notifikationer
@@ -961,7 +961,7 @@ da:
         other: "%{count} nye notifikationer siden sidste besøg \U0001F418"
       title: I dit fravær ...
     favourite:
-      body: 'Din status blev favortet af %{name}:'
+      body: "Din status blev favortet af %{name}:"
       subject: "%{name} har favorittet din status"
       title: Ny favorit
     follow:
@@ -971,20 +971,20 @@ da:
     follow_request:
       action: Administrér efterforespørgsler
       body: "%{name} har anmodet om at følge dig"
-      subject: 'Ventende følger: %{name}'
+      subject: "Ventende følger: %{name}"
       title: Ny anmodning om opfølgning
     mention:
       action: Svar
-      body: 'Du blev nævnt af %{name} i:'
+      body: "Du blev nævnt af %{name} i:"
       subject: Du blev nævnt af %{name}
       title: Ny omtale
     reblog:
-      body: 'Din status blev boostet af %{name}:'
+      body: "Din status blev boostet af %{name}:"
       subject: "%{name} boostet din status"
       title: Nyt skub
   notifications:
     email_events: Begivenheder for e-mailbeskeder
-    email_events_hint: 'Vælg de hændelser, du vil modtage notifikationer for:'
+    email_events_hint: "Vælg de hændelser, du vil modtage notifikationer for:"
     other_settings: Andre adviseringsindstillinger
   number:
     human:
@@ -996,13 +996,13 @@ da:
           quadrillion: Q
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Angiv den kode, der er genereret af din autentifikations-app,
     description_html: Hvis du aktiverer <strong>to-faktorvalidering</strong> ved hjælp af en valideringsprogram, kræver det, at du er i besiddelse af din telefon, som genererer tokens, så du kan komme ind.
     enable: Aktivér
     instructions_html: "<strong>Scan denne QR-kode til Google Authenticator eller en similiar TOTP-app på din telefon</strong>. Fra nu af genererer appen tokens, som du skal angive, når du logger på."
-    manual_instructions: 'Hvis du ikke kan scanne QR koden og skal indtaste den manuelt, her er den almindelige teksthemmelighed:'
+    manual_instructions: "Hvis du ikke kan scanne QR koden og skal indtaste den manuelt, her er den almindelige teksthemmelighed:"
     setup: Konfigurér
     wrong_code: Den angivne kode er ugyldig. Er servertid og enhedstidspunkt korrekt?
   pagination:
@@ -1051,18 +1051,18 @@ da:
     missing_resource: Kan ikke finde den påkrævede omdirigerings-URL for din konto
     no_account_html: Har du ikke en konto? You can <a href='%{sign_up_path}' target='_blank'>sign up here</a>
     proceed: Fortsæt med at følge
-    prompt: 'Du kommer til at følge:'
+    prompt: "Du kommer til at følge:"
     reason_html: "<strong>Why is this step necessary?</strong> <code>%{instance}</code> might not be the server where you are registered, so we need to redirect you to your home server first."
   remote_interaction:
     favourite:
       proceed: Fortsæt til favoritter
-      prompt: 'Du ønsker at favoritte denne toot:'
+      prompt: "Du ønsker at favoritte denne toot:"
     reblog:
       proceed: Fortsæt med at øge
-      prompt: 'Du ønsker at sætte skub i denne toot:'
+      prompt: "Du ønsker at sætte skub i denne toot:"
     reply:
       proceed: Fortsæt med at svare
-      prompt: 'Du ønsker at svare på denne toot:'
+      prompt: "Du ønsker at svare på denne toot:"
   scheduled_statuses:
     over_daily_limit: Du har overskredet grænsen på %{limit} planlagte optøjer for den pågældende dag
     over_total_limit: Du har overskredet grænsen på %{limit} planlagte optøjer
@@ -1137,7 +1137,7 @@ da:
       audio:
         one: "%{count} audio"
         other: "%{count} audio"
-      description: 'Vedhæftet: %{attached}'
+      description: "Vedhæftet: %{attached}"
       image:
         one: "%{count} -billede"
         other: "%{count} billeder"
@@ -1145,10 +1145,10 @@ da:
         one: "%{count} video"
         other: "%{count} videoer"
     boosted_from_html: Start fra %{acct_link}
-    content_warning: 'Indholdsadvarsel: %{warning}'
+    content_warning: "Indholdsadvarsel: %{warning}"
     disallowed_hashtags:
-      one: 'indeholder en ikke-tilladt hashtag: %{tags}'
-      other: 'indeholder de ikke-tilladte hashtags: %{tags}'
+      one: "indeholder en ikke-tilladt hashtag: %{tags}"
+      other: "indeholder de ikke-tilladte hashtags: %{tags}"
     errors:
       in_reply_not_found: Den status, du forsøger at svare på, synes ikke at eksistere.
     language_detection: Find sprog automatisk
@@ -1296,9 +1296,9 @@ da:
       subject: Dit arkiv er klar til downloadning
       title: Arkivér take-out
     sign_in_token:
-      details: 'Her er oplysninger om forsøget:'
-      explanation: 'Vi har registreret et forsøg på at logge på din konto fra en ukendt IP-adresse. Hvis det er dig, skal du angive den sikkerhedskode nedenfor på logonsiden med logon:'
-      further_actions: 'Hvis det ikke er dig, skal du ændre din adgangskode og aktivere to faktorvalidering på din konto. Du kan gøre det her:'
+      details: "Her er oplysninger om forsøget:"
+      explanation: "Vi har registreret et forsøg på at logge på din konto fra en ukendt IP-adresse. Hvis det er dig, skal du angive den sikkerhedskode nedenfor på logonsiden med logon:"
+      further_actions: "Hvis det ikke er dig, skal du ændre din adgangskode og aktivere to faktorvalidering på din konto. Du kan gøre det her:"
       subject: Bekræft forsøg på logon
       title: Log på i forsøg
     warning:
@@ -1308,7 +1308,7 @@ da:
         suspend: Din konto er blevet suspenderet, og alle dine optøjer og dine uploadede mediefiler er blevet fjernet uopretteligt fra denne server, og servere, hvor du havde følgere.
       get_in_touch: Du kan svare på denne e-mail for at komme i kontakt med staven på %{instance}.
       review_server_policies: Gennemse serverregler
-      statuses: 'Specifikt, for:'
+      statuses: "Specifikt, for:"
       subject:
         disable: Din konto %{acct} er frosset
         none: Advarsel for %{acct}
@@ -1324,7 +1324,7 @@ da:
       edit_profile_step: Du kan tilpasse din profil ved at uploade en avatar, toptekst, ændre dit fremvisningsnavn og mere. Hvis du vil gennemse nye følgere, før de har tilladelse til at følge dig, kan du låse din konto.
       explanation: Her er nogle tips til at få dig i gang
       final_action: Start postering
-      final_step: 'Start postering! Selv uden tilhængere kan dine offentlige beskeder f.eks. blive set af andre, f.eks. på den lokale tidslinje og i hashtags. Du skal muligvis præsentere dig selv for hashtagget #introductions .'
+      final_step: "Start postering! Selv uden tilhængere kan dine offentlige beskeder f.eks. blive set af andre, f.eks. på den lokale tidslinje og i hashtags. Du skal muligvis præsentere dig selv for hashtagget #introductions ."
       full_handle: Dit fulde håndtag
       full_handle_hint: Det er, hvad du ville fortælle dine venner, så de kan sende en besked, eller følge dig fra en anden server.
       review_preferences_action: Revidér indstillinger
@@ -1346,7 +1346,7 @@ da:
     invalid_sign_in_token: Ugyldig sikkerhedskode
     otp_lost_help_html: Hvis du har mistet adgang til begge dele, kan du komme i kontakt med %{email}
     seamless_external_login: Du er logget på via en ekstern service, så kodeord og e-mail-indstillinger er ikke tilgængelige.
-    signed_in_as: 'Logget på som:'
+    signed_in_as: "Logget på som:"
     suspicious_sign_in_confirmation: Du er vist ikke logget på denne enhed før, og du har ikke logget på i et stykke tid, så vi sender en sikkerhedskode til din e-mail-adresse for at bekræfte, at det er dig.
   verification:
     explanation_html: 'Du kan bruge <strong>til at kontrollere, at du er ejer af linkene i dit profilmetadatametadata</strong>. For det skal det linkede websted indeholde et link tilbage til din chatterly profil. Linket tilbage <strong>skal</strong> have en <code>rel="me "</code> -attribut. Linkindholdet i linket er underordnet tekstindholdet. Her er et eksempel:'

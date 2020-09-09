@@ -1,11 +1,11 @@
 pl:
   about:
-    about_hashtag_html: 'Są to publiczne tooty oznaczone tagami <strong>#%{hashtag}</strong>. Możesz z nimi współpracować, jeśli masz konto w dowolnym miejscu w rozmowach zwrotnych.'
-    about_mastodon_html: 'Społeczna sieć przyszłości: brak nadzoru korporacyjnego, etycznego projektu i decentralizacji! Własne dane z Chatko!'
+    about_hashtag_html: "Są to publiczne tooty oznaczone tagami <strong>#%{hashtag}</strong>. Możesz z nimi współpracować, jeśli masz konto w dowolnym miejscu w rozmowach zwrotnych."
+    about_mastodon_html: "Społeczna sieć przyszłości: brak nadzoru korporacyjnego, etycznego projektu i decentralizacji! Własne dane z Chatko!"
     about_this: Informacje o
     active_count_after: aktywne
     active_footnote: Użytkownicy aktywni co miesiąc (MAU)
-    administered_by: 'Administrowany przez:'
+    administered_by: "Administrowany przez:"
     api: Interfejs API
     apps: Aplikacje mobilne
     apps_platforms: Pobierz aplikację Chatabsolutnie dla PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ pl:
     learn_more: Dowiedz się więcej
     privacy_policy: Polityka prywatności
     see_whats_happening: Zobacz, co się dzieje
-    server_stats: 'Statystyki serwera:'
+    server_stats: "Statystyki serwera:"
     source_code: Kod źródłowy
     status_count_after:
       one: status
@@ -40,11 +40,11 @@ pl:
     unavailable_content_description:
       domain: Serwer
       reason: Uzasadnienie
-      rejecting_media: 'Pliki multimedialne z tych serwerów nie będą przetwarzane ani przechowywane, a miniatury nie będą wyświetlane, wymagające ręcznego kliknięcia w oryginalnym pliku:'
+      rejecting_media: "Pliki multimedialne z tych serwerów nie będą przetwarzane ani przechowywane, a miniatury nie będą wyświetlane, wymagające ręcznego kliknięcia w oryginalnym pliku:"
       rejecting_media_title: Filtrowane nośniki
-      silenced: 'Wypowiedzi z tych serwerów będą ukrywane w publicznych osiach czasu i konwersacjach, a z interakcji ich użytkowników nie będą generowane żadne powiadomienia, o ile nie są następujące:'
+      silenced: "Wypowiedzi z tych serwerów będą ukrywane w publicznych osiach czasu i konwersacjach, a z interakcji ich użytkowników nie będą generowane żadne powiadomienia, o ile nie są następujące:"
       silenced_title: Serwery wyciszane
-      suspended: 'Żadne dane z tych serwerów nie będą przetwarzane, przechowywane ani wymieniane, co uniemożliwia interakcję lub komunikację z użytkownikami z tych serwerów:'
+      suspended: "Żadne dane z tych serwerów nie będą przetwarzane, przechowywane ani wymieniane, co uniemożliwia interakcję lub komunikację z użytkownikami z tych serwerów:"
       suspended_title: Zawieszone serwery
     unavailable_content_html: Całkowicie na ogół pozwala na wyświetlanie treści i interakcji z użytkownikami z dowolnego innego serwera w wersji fedyverse. Są to wyjątki, które zostały wprowadzone na tym konkretnym serwerze.
     user_count_after:
@@ -434,7 +434,7 @@ pl:
       title: Stowarzyszanie
       total_blocked_by_us: Zablokowane przez nas
       total_followed_by_them: Po nich
-      total_followed_by_us: 'Za nami:'
+      total_followed_by_us: "Za nami:"
       total_reported: Raporty o nich
       total_storage: Załączniki do nośników
     invites:
@@ -497,7 +497,7 @@ pl:
         delete: Usuń
         placeholder: Opisz jakie działania zostały podjęte, lub wszelkie inne powiązane aktualizacje ...
       reopen: Ponownie otwórz raport
-      report: 'Raport nr%{id}'
+      report: "Raport nr%{id}"
       reported_account: Raportowane konto
       reported_by: Zgłoszone przez
       resolved: Rozstrzygnięte
@@ -646,10 +646,10 @@ pl:
     new_report:
       body: "%{reporter} zgłosiło się %{target}"
       body_remote: Ktoś z %{domain} zgłosił %{target}
-      subject: 'Nowy raport dla %{instance} (#%{id})'
+      subject: "Nowy raport dla %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Hashtag #%{name} trenuje dziś, ale nie został wcześniej zweryfikowany. Nie będzie on wyświetlany publicznie, chyba że zezwoli na to, lub po prostu zapisz formularz, ponieważ nigdy więcej o tym nie usłyszysz.'
-      subject: 'Nowy hashtag do recenzji na temat %{instance} (#%{name})'
+      body: "Hashtag #%{name} trenuje dziś, ale nie został wcześniej zweryfikowany. Nie będzie on wyświetlany publicznie, chyba że zezwoli na to, lub po prostu zapisz formularz, ponieważ nigdy więcej o tym nie usłyszysz."
+      subject: "Nowy hashtag do recenzji na temat %{instance} (#%{name})"
   aliases:
     add_new: Utwórz alias
     created_msg: Pomyślnie utworzono nowy alias. Teraz można zainicjować przejście ze starego konta.
@@ -659,7 +659,7 @@ pl:
     remove: Usuń dowiązanie aliasu
   appearance:
     advanced_web_interface: Zaawansowany interfejs WWW
-    advanced_web_interface_hint: 'Jeśli chcesz korzystać z całej szerokości ekranu, zaawansowany interfejs WWW pozwala na skonfigurowanie wielu różnych kolumn, aby zobaczyć jak najwięcej informacji w tym samym czasie, ile chcesz: Home, powiadomienia, stowarzyszona oś czasu, dowolna liczba list i hashtagów.'
+    advanced_web_interface_hint: "Jeśli chcesz korzystać z całej szerokości ekranu, zaawansowany interfejs WWW pozwala na skonfigurowanie wielu różnych kolumn, aby zobaczyć jak najwięcej informacji w tym samym czasie, ile chcesz: Home, powiadomienia, stowarzyszona oś czasu, dowolna liczba list i hashtagów."
     animations_and_accessibility: Animacje i ułatwienia dostępu
     confirmation_dialogs: Okna dialogowe potwierdzenia
     discovery: Wykrywanie
@@ -672,8 +672,8 @@ pl:
   application_mailer:
     notification_preferences: Zmień preferencje poczty elektronicznej
     salutation: "%{name},"
-    settings: 'Zmiana preferencji poczty elektronicznej: %{link}'
-    view: 'Widok:'
+    settings: "Zmiana preferencji poczty elektronicznej: %{link}"
+    view: "Widok:"
     view_profile: Wyświetl profil
     view_status: Wyświetl status
   applications:
@@ -732,8 +732,8 @@ pl:
     already_requested: Wysłano już następujące żądanie do tego konta
     error: Niestety, wystąpił błąd podczas wyszukiwania konta zdalnego
     follow: Śledź
-    follow_request: 'Wysłano następujące żądanie do:'
-    following: 'Sukces! Teraz jesteś następujący:'
+    follow_request: "Wysłano następujące żądanie do:"
+    following: "Sukces! Teraz jesteś następujący:"
     post_follow:
       close: Można również zamknąć to okno.
       return: Pokaż profil użytkownika
@@ -773,7 +773,7 @@ pl:
     proceed: Usuń konto
     success_msg: Konto zostało pomyślnie usunięte
     warning:
-      before: 'Przed kontynuowaniem należy dokładnie zapoznać się z uwagami:'
+      before: "Przed kontynuowaniem należy dokładnie zapoznać się z uwagami:"
       caches: Treść, która została zbuforowana przez inne serwery, może być trwała
       data_removal: Twoje wypowiedzi i inne dane zostaną trwale usunięte
       email_change_html: Możesz dokonać <a href="%{path}">zmienić adres e-mail</a> bez usuwania konta
@@ -790,19 +790,19 @@ pl:
   domain_validator:
     invalid_domain: nie jest poprawną nazwą domeny
   errors:
-    '400': Wprowadzone żądanie jest niepoprawne lub zniekształcone.
-    '403': Nie masz uprawnień do wyświetlania tej strony.
-    '404': Wydaje mi się, że źle skręciłeś, nie ma tu nic.
-    '406': Ta strona nie jest dostępna w żądanym formacie.
-    '410': Mamy problem z Houston, strona już nie ma.
-    '422':
+    "400": Wprowadzone żądanie jest niepoprawne lub zniekształcone.
+    "403": Nie masz uprawnień do wyświetlania tej strony.
+    "404": Wydaje mi się, że źle skręciłeś, nie ma tu nic.
+    "406": Ta strona nie jest dostępna w żądanym formacie.
+    "410": Mamy problem z Houston, strona już nie ma.
+    "422":
       content: Weryfikacja zabezpieczeń nie powiodła się. Czy blokujecie ciasteczka?
       title: Weryfikacja zabezpieczeń nie powiodła się
-    '429': Zbyt wiele żądań
-    '500':
+    "429": Zbyt wiele żądań
+    "500":
       content: Przykro nam, ale coś poszło nie tak po naszej stronie. Powiadomiono nas o tym błędzie i pracujemy nad tym, aby go rozwiązać.
       title: Ta strona jest niepoprawna
-    '503': Przykro nam, ale wydaje się, że doświadczamy dużego obciążenia serwera. Pracujemy nad tym, żeby rozwiązać to jak najszybciej.
+    "503": Przykro nam, ale wydaje się, że doświadczamy dużego obciążenia serwera. Pracujemy nad tym, żeby rozwiązać to jak najszybciej.
     noscript_html: Aby użyć całkowicie Chatko, włącz obsługę JavaScript. Alternatywnie można spróbować jednej z aplikacji rodzimych <a href="%{apps_path}"></a> dla platformy Chatabsolutnie Mobile dla używanej platformy.
   existing_username_validator:
     not_found: nie można znaleźć użytkownika lokalnego o tej nazwie użytkownika
@@ -863,7 +863,7 @@ pl:
       many: Coś jeszcze nie jest w porządku! Sprawdź błędy %{count} poniżej
       other: Coś jeszcze nie jest w porządku! Sprawdź błędy %{count} poniżej
   html_validator:
-    invalid_markup: 'zawiera niepoprawny język znaczników HTML: %{error}'
+    invalid_markup: "zawiera niepoprawny język znaczników HTML: %{error}"
   identity_proofs:
     active: Aktywne
     authorize: Tak, autoryzuj
@@ -878,8 +878,8 @@ pl:
     i_am_html: Jestem %{username} w dniu %{service}.
     identity: Tożsamość
     inactive: Nieaktywne
-    publicize_checkbox: 'I toot to:'
-    publicize_toot: 'Udowodniono! Jestem %{username} w sprawie %{service}: %{url}'
+    publicize_checkbox: "I toot to:"
+    publicize_toot: "Udowodniono! Jestem %{username} w sprawie %{service}: %{url}"
     remove: Usuń dowód z konta
     removed: Pomyślnie usunięto dowód z konta
     status: Status weryfikacji
@@ -903,15 +903,15 @@ pl:
     delete: Dezaktywuj
     expired: Wygasłe
     expires_in:
-      '1800': 30 minut
-      '21600': 6 godzin
-      '3600': 1 godzina
-      '43200': 12 godzin
-      '604800': 1 tydzień
-      '86400': 1 dzień
+      "1800": 30 minut
+      "21600": 6 godzin
+      "3600": 1 godzina
+      "43200": 12 godzin
+      "604800": 1 tydzień
+      "86400": 1 dzień
     expires_in_prompt: Nigdy
     generate: Generuj odsyłacz zaproszenia
-    invited_by: 'Użytkownik został zaproszony przez:'
+    invited_by: "Użytkownik został zaproszony przez:"
     max_uses:
       one: 1 użyć
       few: "%{count} wykorzystuje"
@@ -955,7 +955,7 @@ pl:
     set_redirect: Ustaw przekierowanie
     warning:
       backreference_required: Najpierw należy skonfigurować nowe konto-odwołaj się do tego nowego konta
-      before: 'Przed kontynuowaniem należy dokładnie zapoznać się z uwagami:'
+      before: "Przed kontynuowaniem należy dokładnie zapoznać się z uwagami:"
       cooldown: Po przeprowadzce jest okres schładzania, podczas którego nie będzie można przenieść ponownie
       disabled_account: Bieżące konto nie będzie można później w pełni wykorzystać. Będziesz mieć jednak dostęp do eksportu danych, jak również reaktywację.
       followers: To działanie spowoduje przeniesienie wszystkich śledzących z bieżącego konta na nowe konto
@@ -967,7 +967,7 @@ pl:
   move_handler:
     carry_blocks_over_text: Ten użytkownik przeniósł się z %{acct}, który został zablokowany.
     carry_mutes_over_text: Ten użytkownik przeniósł się z %{acct}, który został wyciszony.
-    copy_account_note_text: 'Ten użytkownik przeniósł się z %{acct}, tutaj były Twoje poprzednie notatki o nich:'
+    copy_account_note_text: "Ten użytkownik przeniósł się z %{acct}, tutaj były Twoje poprzednie notatki o nich:"
   notification_mailer:
     digest:
       action: Wyświetl wszystkie powiadomienia
@@ -985,7 +985,7 @@ pl:
         other: "%{count} nowe powiadomienia od czasu ostatniej wizyty \U0001F418"
       title: W przypadku nieobecności ...
     favourite:
-      body: 'Twój status został faworyzowany przez %{name}:'
+      body: "Twój status został faworyzowany przez %{name}:"
       subject: "%{name} faworyzował swój status"
       title: Nowe ulubione
     follow:
@@ -995,20 +995,20 @@ pl:
     follow_request:
       action: Zarządzanie żądaniami wykonania
       body: "%{name} wystąpił z wnioskiem o śledzenie"
-      subject: 'Oczekujący na następujące osoby: %{name}'
+      subject: "Oczekujący na następujące osoby: %{name}"
       title: Nowe żądanie śledzenia
     mention:
       action: Odpowiedź
-      body: 'Wspomniano Cię o %{name} w:'
+      body: "Wspomniano Cię o %{name} w:"
       subject: Wspomniano Cię o %{name}
       title: Nowa wzmianka
     reblog:
-      body: 'Twój status został wzmocniony przez %{name}:'
+      body: "Twój status został wzmocniony przez %{name}:"
       subject: "%{name} wzmocniony Twój status"
       title: Nowy impuls
   notifications:
     email_events: Zdarzenia dla powiadomień e-mail
-    email_events_hint: 'Wybierz zdarzenia, dla których chcesz otrzymywać powiadomienia dla:'
+    email_events_hint: "Wybierz zdarzenia, dla których chcesz otrzymywać powiadomienia dla:"
     other_settings: Inne ustawienia powiadomień
   number:
     human:
@@ -1020,13 +1020,13 @@ pl:
           quadrillion: K
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Wprowadź kod wygenerowany przez aplikację uwierzytelniającą, aby potwierdzić
     description_html: Jeśli włączono opcję <strong>uwierzytelniania dwuskładnikowego</strong> za pomocą aplikacji uwierzytelniającej, logowanie wymaga posiadania przez użytkownika telefonu, który wygeneruje tokeny do wprowadzenia.
     enable: Włącz
     instructions_html: "<strong>Skanuj ten kod QR w Google Authenticator lub aplikację similiar TOTP na swoim telefonie</strong>. Od tej chwili ta aplikacja wygeneruje tokeny, które będą musiały być wprowadzane podczas logowania."
-    manual_instructions: 'Jeśli nie można zeskanować kodu QR i trzeba go wprowadzić ręcznie, to jest to tajny tekst płyty:'
+    manual_instructions: "Jeśli nie można zeskanować kodu QR i trzeba go wprowadzić ręcznie, to jest to tajny tekst płyty:"
     setup: Konfigurowanie
     wrong_code: Wprowadzony kod jest niepoprawny! Czy czas serwera i czas urządzenia są poprawne?
   pagination:
@@ -1075,18 +1075,18 @@ pl:
     missing_resource: Nie można znaleźć wymaganego adresu URL przekierowania dla konta użytkownika
     no_account_html: Nie masz konta? Można tu wpisać <a href='%{sign_up_path}' target='_blank'>zapisać się tutaj</a>
     proceed: Kontynuuj, aby śledzić
-    prompt: 'Pójście za nią:'
+    prompt: "Pójście za nią:"
     reason_html: "<strong>Dlaczego ten krok jest konieczny?</strong> <code>%{instance}</code> może nie być serwerem, na którym jesteś zarejestrowany, więc najpierw musimy przekierować Cię na swój serwer macierzysty."
   remote_interaction:
     favourite:
       proceed: Przejdź do ulubionych
-      prompt: 'Chcesz polubić ten toot:'
+      prompt: "Chcesz polubić ten toot:"
     reblog:
       proceed: Kontynuuj w celu zwiększenia
-      prompt: 'Chcesz zwiększyć tę toot:'
+      prompt: "Chcesz zwiększyć tę toot:"
     reply:
       proceed: Przejdź do odpowiedzi
-      prompt: 'Chcesz odpowiedzieć na to toot:'
+      prompt: "Chcesz odpowiedzieć na to toot:"
   scheduled_statuses:
     over_daily_limit: przekroczysz limit %{limit} zaplanowanych tootów na ten dzień
     over_total_limit: Przekroczono limit liczby zaplanowanych tootów %{limit}
@@ -1163,7 +1163,7 @@ pl:
         few: "%{count} audio"
         many: "%{count} audio"
         other: "%{count} audio"
-      description: 'Załączono: %{attached}'
+      description: "Załączono: %{attached}"
       image:
         one: "Obraz %{count}"
         few: "Obrazy %{count}"
@@ -1175,12 +1175,12 @@ pl:
         many: "Filmy %{count}"
         other: "Filmy %{count}"
     boosted_from_html: Wzmocnione od %{acct_link}
-    content_warning: 'Ostrzeżenie dotyczące treści: %{warning}'
+    content_warning: "Ostrzeżenie dotyczące treści: %{warning}"
     disallowed_hashtags:
-      one: 'zawiera niedozwolony hashtag: %{tags}'
-      few: 'zawiera niedozwolone hashtags: %{tags}'
-      many: 'zawiera niedozwolone hashtags: %{tags}'
-      other: 'zawiera niedozwolone hashtags: %{tags}'
+      one: "zawiera niedozwolony hashtag: %{tags}"
+      few: "zawiera niedozwolone hashtags: %{tags}"
+      many: "zawiera niedozwolone hashtags: %{tags}"
+      other: "zawiera niedozwolone hashtags: %{tags}"
     errors:
       in_reply_not_found: Status, na który próbowano odpowiedzieć, nie istnieje.
     language_detection: Automatycznie wykryj język
@@ -1332,9 +1332,9 @@ pl:
       subject: Twoje archiwum jest gotowe do pobrania
       title: Archiwizowanie wytaksowania
     sign_in_token:
-      details: 'Poniżej znajdują się szczegółowe informacje na temat próby:'
-      explanation: 'Wykryliśmy próbę zalogowania się na konto użytkownika z nierozpoznanego adresu IP. Jeśli to jest Państwo, proszę wpisać kod bezpieczeństwa poniżej na stronie logowania do pytania:'
-      further_actions: 'Jeśli to nie był Ty, zmień swoje hasło i włącz uwierzytelnianie dwuskładnikowe na Twoim koncie. Można to zrobić tutaj:'
+      details: "Poniżej znajdują się szczegółowe informacje na temat próby:"
+      explanation: "Wykryliśmy próbę zalogowania się na konto użytkownika z nierozpoznanego adresu IP. Jeśli to jest Państwo, proszę wpisać kod bezpieczeństwa poniżej na stronie logowania do pytania:"
+      further_actions: "Jeśli to nie był Ty, zmień swoje hasło i włącz uwierzytelnianie dwuskładnikowe na Twoim koncie. Można to zrobić tutaj:"
       subject: Potwierdź próbę zalogowania się
       title: Zaloguj się
     warning:
@@ -1344,7 +1344,7 @@ pl:
         suspend: Twoje konto zostało zawieszone, a wszystkie twoje toots i przesłane pliki multimedialne zostały nieodwracalnie usunięte z tego serwera, a serwery, gdzie miał zwolenników.
       get_in_touch: Możesz odpowiedzieć na tę wiadomość e-mail, aby skontaktować się z personelem w wysokości %{instance}.
       review_server_policies: Przegląd strategii serwera
-      statuses: 'W szczególności w odniesieniu do:'
+      statuses: "W szczególności w odniesieniu do:"
       subject:
         disable: Twoje konto %{acct} zostało zamrożone
         none: Ostrzeżenie dla %{acct}
@@ -1360,7 +1360,7 @@ pl:
       edit_profile_step: Możesz dostosować swój profil, przesyłając awatar, nagłówek, zmieniając nazwę wyświetlaną i więcej. Jeśli chcesz przejrzeć nowych zwolenników, zanim będą mogli cię śledzić, możesz zablokować swoje konto.
       explanation: Poniżej przedstawiono kilka wskazówek dotyczących rozpoczęcia pracy
       final_action: Rozpocznij publikowanie
-      final_step: 'Rozpocznij publikowanie! Nawet bez zwolenników Twoje wiadomości publiczne mogą być postrzegane przez innych, na przykład na lokalnej osi czasu i w hashtagach. Użytkownik może chcieć wprowadzić się do znacznika hashtag produktu #introductions .'
+      final_step: "Rozpocznij publikowanie! Nawet bez zwolenników Twoje wiadomości publiczne mogą być postrzegane przez innych, na przykład na lokalnej osi czasu i w hashtagach. Użytkownik może chcieć wprowadzić się do znacznika hashtag produktu #introductions ."
       full_handle: Pełny uchwyt
       full_handle_hint: To jest to, co powiedziałabyś swoim znajomym, aby mogli oni przekazać wiadomość lub śledzić Cię z innego serwera.
       review_preferences_action: Zmień preferencje
@@ -1382,7 +1382,7 @@ pl:
     invalid_sign_in_token: Niepoprawny kod zabezpieczeń
     otp_lost_help_html: Jeśli utracisz dostęp do obu stron, możesz skontaktować się z %{email}
     seamless_external_login: Użytkownik jest zalogowany za pośrednictwem usługi zewnętrznej, więc ustawienia hasła i poczty elektronicznej nie są dostępne.
-    signed_in_as: 'Podpisano jako:'
+    signed_in_as: "Podpisano jako:"
     suspicious_sign_in_confirmation: Wydaje się, że nie zalogowałeś się z tego urządzenia przed, i nie zalogowałeś się na jakiś czas, więc wysyłamy kod bezpieczeństwa na swój adres e-mail, aby potwierdzić, że to Ty.
   verification:
     explanation_html: 'Użytkownik może sprawdzić, czy użytkownik <strong>jest właścicielem odsyłaczy w metadanych profilu</strong>. W związku z tym, strona internetowa połączona musi zawierać link do swojego profilu Chatko. Łącze z powrotem <strong>musi mieć wartość</strong> , które mają atrybut <code>rel="me "</code> . Treść odsyłacza nie ma znaczenia. Oto przykład:'

@@ -57,7 +57,7 @@ ro:
         domain: Acesta poate fi numele de domeniu care se afişează în adresa de e-mail, înregistrarea MX pe care o rezolvă domeniul sau IP al serverului la care se rezolvă înregistrarea MX. Acestea vor fi verificate pe baza semnării utilizatorului, iar semnarea va fi respinsă.
         with_dns_records: Va fi făcută o încercare de rezolvare a înregistrărilor DNS ale domeniului dat, iar rezultatele vor fi de asemenea blocate
       featured_tag:
-        name: 'S-ar putea să doriţi să utilizaţi unul dintre acestea:'
+        name: "S-ar putea să doriţi să utilizaţi unul dintre acestea:"
       form_challenge:
         current_password: Introduceţi o zonă securizată
       imports:
@@ -65,7 +65,7 @@ ro:
       invite_request:
         text: Acest lucru ne va ajuta să vă revizuim aplicaţia
       sessions:
-        otp: 'Introduceţi codul de doi factori generat de aplicaţia dumneavoastră de telefon sau utilizaţi unul dintre codurile dumneavoastră de recuperare:'
+        otp: "Introduceţi codul de doi factori generat de aplicaţia dumneavoastră de telefon sau utilizaţi unul dintre codurile dumneavoastră de recuperare:"
         webauthn: Dacă este o cheie USB să fie sigur pentru a o introduce și, dacă este necesar, tap it.
       tag:
         name: Poti schimba doar carcasa literelor, de exemplu, pentru a-l face mai lizibil
@@ -183,7 +183,7 @@ ro:
         name: hashtag
         trendable: Permiteţi ca acest hashtag să apară sub tendinţe
         usable: Permite toots să folosească acest hashtag
-    'no': 'Nu'
+    "no": "Nu"
     recommended: Recomandat
     required:
       mark: "*"
@@ -191,4 +191,4 @@ ro:
     title:
       sessions:
         webauthn: Utilizaţi una din cheile de securitate pentru a semna în
-    'yes': 'Da'
+    "yes": "Da"

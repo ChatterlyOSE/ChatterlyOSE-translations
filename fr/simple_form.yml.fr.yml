@@ -57,7 +57,7 @@ fr:
         domain: Il peut s'agir du nom de domaine qui apparaît dans l'adresse électronique, de l'enregistrement MX auquel le domaine est résolu ou de l'adresse IP du serveur auquel l'enregistrement MX est résolu. Celles-ci seront vérifiées lors de l'inscription de l'utilisateur et la signature sera rejetée.
         with_dns_records: Une tentative de résolution des enregistrements DNS du domaine donné sera effectuée et les résultats seront également bloqués.
       featured_tag:
-        name: 'Vous pouvez utiliser l''une des conditions suivantes:'
+        name: "Vous pouvez utiliser l'une des conditions suivantes:"
       form_challenge:
         current_password: Vous entrez dans une zone sécurisée
       imports:
@@ -65,7 +65,7 @@ fr:
       invite_request:
         text: Cela nous aidera à examiner votre demande
       sessions:
-        otp: 'Entrez le code à deux facteurs généré par votre application téléphonique ou utilisez l''un de vos codes de reprise:'
+        otp: "Entrez le code à deux facteurs généré par votre application téléphonique ou utilisez l'un de vos codes de reprise:"
         webauthn: Si c'est une clé USB assurez-vous de l'insérer et, si nécessaire, de l'utiliser.
       tag:
         name: Vous ne pouvez modifier que le boîtier des lettres, par exemple, pour le rendre plus lisible
@@ -183,7 +183,7 @@ fr:
         name: Hashtag
         trendable: Autoriser ce hashtag à apparaître sous les tendances
         usable: Autoriser les foulques à utiliser ce hashtag
-    'no': 'Non'
+    "no": "Non"
     recommended: Recommandé
     required:
       mark: "*"
@@ -191,4 +191,4 @@ fr:
     title:
       sessions:
         webauthn: Utilisez l'une de vos clés de sécurité pour vous connecter
-    'yes': 'Oui'
+    "yes": "Oui"

@@ -1,11 +1,11 @@
 zh-TW:
   about:
-    about_hashtag_html: '這些是標示為 <strong>#%{hashtag}</strong>的公用 touts 。 如果在喋喋不休的任何地方都有帳號，您可以與他們互動。'
-    about_mastodon_html: '未來的社會網絡：沒有企業監控、倫理設計、權力下放！ 您的資料與 Chatwatwat！'
+    about_hashtag_html: "這些是標示為 <strong>#%{hashtag}</strong>的公用 touts 。 如果在喋喋不休的任何地方都有帳號，您可以與他們互動。"
+    about_mastodon_html: "未來的社會網絡：沒有企業監控、倫理設計、權力下放！ 您的資料與 Chatwatwat！"
     about_this: 關於
     active_count_after: 積極
     active_footnote: 每月作用中使用者（ MAU）
-    administered_by: '管理者：'
+    administered_by: "管理者："
     api: 阿皮
     apps: 行動式應用程式
     apps_platforms: 下載 PC/Mac/iOS/Android 的最近應用程式
@@ -26,7 +26,7 @@ zh-TW:
     learn_more: 進一步瞭解
     privacy_policy: 隱私權政策
     see_whats_happening: 看看發生了什麼
-    server_stats: '伺服器統計資料：'
+    server_stats: "伺服器統計資料："
     source_code: 原始碼
     status_count_after:
       other: 狀態
@@ -37,11 +37,11 @@ zh-TW:
     unavailable_content_description:
       domain: 伺服器
       reason: 原因
-      rejecting_media: '這些伺服器中的媒體檔案將不會被處理或儲存，且不會顯示縮圖，需要手動按一下原始檔案：'
+      rejecting_media: "這些伺服器中的媒體檔案將不會被處理或儲存，且不會顯示縮圖，需要手動按一下原始檔案："
       rejecting_media_title: 已過濾的媒體
-      silenced: '這些伺服器的文章將會隱藏在公用時間表和交談中，且不會從其使用者互動產生通知，除非您在追踪它們：'
+      silenced: "這些伺服器的文章將會隱藏在公用時間表和交談中，且不會從其使用者互動產生通知，除非您在追踪它們："
       silenced_title: 隔離的伺服器
-      suspended: '這些伺服器中沒有任何資料會被處理、儲存或交換，因此無法與這些伺服器中的使用者進行任何互動或通訊：'
+      suspended: "這些伺服器中沒有任何資料會被處理、儲存或交換，因此無法與這些伺服器中的使用者進行任何互動或通訊："
       suspended_title: 暫停的伺服器
     unavailable_content_html: 一般會讓您從其他伺服器中檢視內容，以及與其他伺服器中的使用者互動。 這些是已在此特定伺服器上進行的異常狀況。
     user_count_after:
@@ -64,7 +64,7 @@ zh-TW:
     network_hidden: 此資訊無法使用
     never_active: 從來沒有
     nothing_here: 這裡什麼都沒有
-    people_followed_by: '%{name} 後面的人員'
+    people_followed_by: "%{name} 後面的人員"
     people_who_follow: 追踪 %{name} 的人員
     pin_errors:
       following: 您必須已追踪您要背書的人員
@@ -473,7 +473,7 @@ zh-TW:
         delete: 刪除
         placeholder: 說明已採取哪些動作，或任何其他相關更新...
       reopen: 重新開啟報告
-      report: 'Report #%{id}'
+      report: "Report #%{id}"
       reported_account: 報告的帳戶
       reported_by: 報告者
       resolved: 已解析
@@ -559,7 +559,7 @@ zh-TW:
         title: 自訂服務條款
       site_title: 伺服器名稱
       spam_check_enabled:
-        desc_html: '「最近」可以自動報告傳送重複自發訊息的帳戶。 可能有誤判。'
+        desc_html: "「最近」可以自動報告傳送重複自發訊息的帳戶。 可能有誤判。"
         title: 反垃圾郵件自動化
       thumbnail:
         desc_html: 用於透過 OpenGraph 及 API 進行預覽。建議 1200x630px
@@ -622,10 +622,10 @@ zh-TW:
     new_report:
       body: "%{reporter} 已報告 %{target}"
       body_remote: Someone from %{domain} has reported %{target}
-      subject: '新報告： %{instance} （#%{id}）'
+      subject: "新報告： %{instance} （#%{id}）"
     new_trending_tag:
-      body: 'hashtag #%{name} 今天趨勢趨勢，但先前尚未檢閱。 除非您容許它，否則不會公開顯示它，或僅儲存表單，因為它永遠不會再聽到它。'
-      subject: '在 %{instance} （#%{name} ）上進行檢閱的新雜湊標籤'
+      body: "hashtag #%{name} 今天趨勢趨勢，但先前尚未檢閱。 除非您容許它，否則不會公開顯示它，或僅儲存表單，因為它永遠不會再聽到它。"
+      subject: "在 %{instance} （#%{name} ）上進行檢閱的新雜湊標籤"
   aliases:
     add_new: 建立別名
     created_msg: 已順利建立新的別名。 您現在可以從舊帳戶起始移動。
@@ -635,7 +635,7 @@ zh-TW:
     remove: 解除鏈結別名
   appearance:
     advanced_web_interface: 進階 Web 介面
-    advanced_web_interface_hint: '如果您想要使用整個螢幕寬度，進階 Web 介面可讓您配置許多不同的直欄，以在您想要的相同時間查看資訊：首頁、通知、聯合時間表、任意數目的清單及雜湊標籤。'
+    advanced_web_interface_hint: "如果您想要使用整個螢幕寬度，進階 Web 介面可讓您配置許多不同的直欄，以在您想要的相同時間查看資訊：首頁、通知、聯合時間表、任意數目的清單及雜湊標籤。"
     animations_and_accessibility: 動畫和協助工具
     confirmation_dialogs: 確認對話框
     discovery: 探索
@@ -648,8 +648,8 @@ zh-TW:
   application_mailer:
     notification_preferences: 變更電子郵件喜好設定
     salutation: "%{name}，"
-    settings: '變更電子郵件喜好設定： %{link}'
-    view: '檢視：'
+    settings: "變更電子郵件喜好設定： %{link}"
+    view: "檢視："
     view_profile: 檢視設定檔
     view_status: 檢視狀態
   applications:
@@ -708,8 +708,8 @@ zh-TW:
     already_requested: 您已將追踪要求傳送至該帳戶
     error: 不幸的是，在查閱遠端帳戶時發生錯誤
     follow: 跟隨
-    follow_request: '您已傳送下列要求給：'
-    following: '成功了！ 您現在正在追踪：'
+    follow_request: "您已傳送下列要求給："
+    following: "成功了！ 您現在正在追踪："
     post_follow:
       close: 或者，您可以關閉此視窗。
       return: 顯示使用者的人員資訊
@@ -749,7 +749,7 @@ zh-TW:
     proceed: 刪除帳戶
     success_msg: 您的帳戶已順利刪除
     warning:
-      before: '在繼續進行之前，請仔細閱讀這些附註：'
+      before: "在繼續進行之前，請仔細閱讀這些附註："
       caches: 可能持續保存其他伺服器所快取的內容
       data_removal: 您的文章和其他資料將永久移除
       email_change_html: 您可以 <a href="%{path}">更改您的電郵地址</a> 而不刪除您的帳戶
@@ -766,19 +766,19 @@ zh-TW:
   domain_validator:
     invalid_domain: 不是有效的網域名稱
   errors:
-    '400': 您提交的要求無效或形態異常。
-    '403': 您沒有檢視此頁面的權限。
-    '404': 我想你走錯地方了這裡什麼都沒有
-    '406': 此頁面無法使用所要求的格式。
-    '410': 休士頓，我們有問題了，頁面不見了
-    '422':
+    "400": 您提交的要求無效或形態異常。
+    "403": 您沒有檢視此頁面的權限。
+    "404": 我想你走錯地方了這裡什麼都沒有
+    "406": 此頁面無法使用所要求的格式。
+    "410": 休士頓，我們有問題了，頁面不見了
+    "422":
       content: 安全驗證失敗。 你在阻擋曲奇嗎？
       title: 安全驗證失敗
-    '429': 要求太多
-    '500':
+    "429": 要求太多
+    "500":
       content: 我們很抱歉但我們的結局出了點問題 我們已收到此錯誤的通知，並正在努力解決此錯誤。
       title: 此頁面不正確
-    '503': 很抱歉，我們的伺服器負載似乎很高。 我們正努力盡快解決這個問題
+    "503": 很抱歉，我們的伺服器負載似乎很高。 我們正努力盡快解決這個問題
     noscript_html: To use the Chatterly, please enable JavaScript. Alternatively, try one of the <a href="%{apps_path}">native apps</a> for Chatterly Mobile for your platform.
   existing_username_validator:
     not_found: 找不到具有該使用者名稱的本端使用者
@@ -836,7 +836,7 @@ zh-TW:
     validation_errors:
       other: 有些事還不太對 請在下方檢閱 %{count} 錯誤
   html_validator:
-    invalid_markup: '包含無效的 HTML 標記： %{error}'
+    invalid_markup: "包含無效的 HTML 標記： %{error}"
   identity_proofs:
     active: 作用中
     authorize: 是，授權
@@ -851,8 +851,8 @@ zh-TW:
     i_am_html: 我是 %{service} 的 %{username}。
     identity: 身份
     inactive: 非作用中
-    publicize_checkbox: '還有這個'
-    publicize_toot: 'It is proven! I am %{username} on %{service}: %{url}'
+    publicize_checkbox: "還有這個"
+    publicize_toot: "It is proven! I am %{username} on %{service}: %{url}"
     remove: 從帳戶中移除證明
     removed: 已順利從帳戶移除證明
     status: 驗證狀態
@@ -876,15 +876,15 @@ zh-TW:
     delete: 取消啟動
     expired: 過期
     expires_in:
-      '1800': 30 分鐘
-      '21600': 6 小時
-      '3600': 1 小時
-      '43200': 12 小時
-      '604800': 1 周
-      '86400': 1 天
+      "1800": 30 分鐘
+      "21600": 6 小時
+      "3600": 1 小時
+      "43200": 12 小時
+      "604800": 1 周
+      "86400": 1 天
     expires_in_prompt: 從來沒有
     generate: 產生邀請鏈結
-    invited_by: '以下是您所邀請的：'
+    invited_by: "以下是您所邀請的："
     max_uses:
       other: "%{count} 使用"
     max_uses_prompt: 沒有限制
@@ -925,7 +925,7 @@ zh-TW:
     set_redirect: 設定重新導向
     warning:
       backreference_required: 新帳戶必須先配置成再參照這個帳戶
-      before: '在繼續進行之前，請仔細閱讀這些附註：'
+      before: "在繼續進行之前，請仔細閱讀這些附註："
       cooldown: 移動之後是一個冷靜期，在此期間您將無法再次移動
       disabled_account: 之後，您的現行帳戶將無法完全使用。 不過，您將可以存取資料匯出，以及重新啟動。
       followers: 此動作會將所有追踪者從現行帳戶移至新帳戶
@@ -937,7 +937,7 @@ zh-TW:
   move_handler:
     carry_blocks_over_text: 這個使用者從 %{acct}移動，您已封鎖該使用者。
     carry_mutes_over_text: 此使用者從 %{acct}移動，您已靜音。
-    copy_account_note_text: '此使用者已從 %{acct}移動，以下是您先前關於它們的附註：'
+    copy_account_note_text: "此使用者已從 %{acct}移動，以下是您先前關於它們的附註："
   notification_mailer:
     digest:
       action: 檢視所有通知
@@ -949,7 +949,7 @@ zh-TW:
         other: "%{count} 自您上次造訪以來的新通知 \U0001F418"
       title: 在你不在的情況下
     favourite:
-      body: '您的狀態是由 %{name} 所表示的：'
+      body: "您的狀態是由 %{name} 所表示的："
       subject: "%{name} 很喜歡您的狀態"
       title: 新喜好
     follow:
@@ -959,20 +959,20 @@ zh-TW:
     follow_request:
       action: 管理追踪要求
       body: "%{name} 已要求跟隨您"
-      subject: '擱置追隨者： %{name}'
+      subject: "擱置追隨者： %{name}"
       title: 新建追踪要求
     mention:
       action: 答覆：
-      body: '%{name} 在中提到您：'
-      subject: '%{name} 提到你'
+      body: "%{name} 在中提到您："
+      subject: "%{name} 提到你"
       title: 新建提及
     reblog:
-      body: '您的狀態已提高 %{name}：'
+      body: "您的狀態已提高 %{name}："
       subject: "%{name} 提升您的狀態"
       title: 新建提升
   notifications:
     email_events: 電子郵件通知的事件
-    email_events_hint: '選取您要接收通知的事件：'
+    email_events_hint: "選取您要接收通知的事件："
     other_settings: 其他通知設定
   number:
     human:
@@ -984,13 +984,13 @@ zh-TW:
           quadrillion: Q
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: 輸入由鑑別程式應用程式產生的程式碼來確認
     description_html: 如果您使用鑑別程式應用程式來啟用 <strong>兩個因素鑑別</strong> ，登入會要求您擁有您的電話，這會產生記號供您輸入。
     enable: 啟用
     instructions_html: "<strong>在您的電話</strong>上，將此 QR 碼掃描至 Google 鑑別器或類似的 TOTP 應用程式。 從現在開始，該應用程式將產生記號，您將在登入時輸入這些記號。"
-    manual_instructions: '如果您無法掃描 QR 碼，並需要手動輸入它，這裡是純文字秘密：'
+    manual_instructions: "如果您無法掃描 QR 碼，並需要手動輸入它，這裡是純文字秘密："
     setup: 設定
     wrong_code: 輸入的程式碼無效！ 伺服器時間及裝置時間是否正確？
   pagination:
@@ -1039,18 +1039,18 @@ zh-TW:
     missing_resource: 找不到您帳戶的必要重新導向 URL
     no_account_html: 沒有帳戶？</a> 您可以在這裡註冊 <a href='%{sign_up_path}' target='_blank'>
     proceed: 繼續追踪
-    prompt: '您將會遵循：'
+    prompt: "您將會遵循："
     reason_html: "<strong>為何需要此步驟？</strong> <code>%{instance}</code> 可能不是您所登錄的伺服器，因此我們需要先將您重新導向至您的起始伺服器。"
   remote_interaction:
     favourite:
       proceed: 繼續喜好
-      prompt: '你最喜歡這個'
+      prompt: "你最喜歡這個"
     reblog:
       proceed: 繼續提升
-      prompt: '您想要提升此圖說：'
+      prompt: "您想要提升此圖說："
     reply:
       proceed: 繼續回覆
-      prompt: '您想要回覆這個 toot：'
+      prompt: "您想要回覆這個 toot："
   scheduled_statuses:
     over_daily_limit: 您已超出當日的 %{limit} 個已排定的限制
     over_total_limit: 您已超出了 %{limit} 排程的限制
@@ -1124,15 +1124,15 @@ zh-TW:
     attached:
       audio:
         other: "%{count} 音訊"
-      description: 'Attached ： %{attached}'
+      description: "Attached ： %{attached}"
       image:
         other: "%{count} 影像"
       video:
         other: "%{count} 視訊"
     boosted_from_html: 從 %{acct_link} 預訂
-    content_warning: '內容警告： %{warning}'
+    content_warning: "內容警告： %{warning}"
     disallowed_hashtags:
-      other: '包含不容許的雜湊標籤： %{tags}'
+      other: "包含不容許的雜湊標籤： %{tags}"
     errors:
       in_reply_not_found: 您嘗試回覆的狀態似乎不存在。
     language_detection: 自動偵測語言
@@ -1278,9 +1278,9 @@ zh-TW:
       subject: 您的保存檔已備妥可供下載
       title: 保存外賣
     sign_in_token:
-      details: '以下是嘗試的詳細資料：'
-      explanation: '我們偵測到嘗試從無法辨識的 IP 位址登入您的帳戶。 如果這是您的話，請在挑戰頁面中輸入以下的安全碼：'
-      further_actions: '如果這不是您，請變更您的密碼，並在您的帳戶上啟用雙因素鑑別。 您可以在這裡執行下列動作：'
+      details: "以下是嘗試的詳細資料："
+      explanation: "我們偵測到嘗試從無法辨識的 IP 位址登入您的帳戶。 如果這是您的話，請在挑戰頁面中輸入以下的安全碼："
+      further_actions: "如果這不是您，請變更您的密碼，並在您的帳戶上啟用雙因素鑑別。 您可以在這裡執行下列動作："
       subject: 請確認已嘗試登入
       title: 登入嘗試
     warning:
@@ -1290,7 +1290,7 @@ zh-TW:
         suspend: 您的帳戶已暫停，您的所有 otots 及上傳的媒體檔案已不可逆轉地從這部伺服器移除，且伺服器在您有追隨者的伺服器上已被移除。
       get_in_touch: 您可以回覆此電子郵件，以與 %{instance} 的工作人員聯絡。
       review_server_policies: 檢閱伺服器原則
-      statuses: '具體來說，適用於：'
+      statuses: "具體來說，適用於："
       subject:
         disable: 您的帳號 %{acct} 已被凍結
         none: 警告 %{acct}
@@ -1306,7 +1306,7 @@ zh-TW:
       edit_profile_step: 您可以透過上傳 Avatar、標頭、變更顯示名稱及其他方式來自訂您的設定檔。 如果你想在他們被允許跟踪你之前先檢視新的追隨者，你就可以鎖定你的帳戶。
       explanation: 以下是一些讓您開始使用的提示
       final_action: 開始張貼
-      final_step: '開始張貼！ 即使沒有追隨者，您的公用訊息也可能被其他人看到，例如，在本端時間表和雜湊標籤上。 您可能想要在 #introductions hashtag 中介紹自己。'
+      final_step: "開始張貼！ 即使沒有追隨者，您的公用訊息也可能被其他人看到，例如，在本端時間表和雜湊標籤上。 您可能想要在 #introductions hashtag 中介紹自己。"
       full_handle: 您的完整控點
       full_handle_hint: 這就是你要告訴朋友的，這樣他們就可以從另一部伺服器上留言或追踪你。
       review_preferences_action: 變更喜好設定
@@ -1328,7 +1328,7 @@ zh-TW:
     invalid_sign_in_token: 安全碼無效
     otp_lost_help_html: 如果您同時遺失了兩者的存取權，您可能會取得 %{email} 的聯絡
     seamless_external_login: 您已透過外部服務登入，因此密碼及電子郵件設定無法使用。
-    signed_in_as: '以下列方式登入：'
+    signed_in_as: "以下列方式登入："
     suspicious_sign_in_confirmation: 您之前似乎未從此裝置登入，而且您尚未登入一段時間，所以我們會將安全碼傳送至您的電子郵件位址，以確認是您的。
   verification:
     explanation_html: '您可以使用 <strong>驗證您的設定檔 meta 資料中的鏈結擁有者，</strong>。 為此，鏈結的網站必須包含回復至您的「前幾個」設定檔的鏈結。 鏈結回 <strong>必須為</strong> 有 <code>rel="me"</code> 屬性。 鏈結的文字內容不重要。 以下是範例：'

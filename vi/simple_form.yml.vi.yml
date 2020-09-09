@@ -57,7 +57,7 @@ vi:
         domain: Đây có thể là tên miền xuất hiện trong địa chỉ e-mail, bản ghi MX mà tên miền giải quyết, hoặc IP của máy chủ mà MX thu được. Những người dùng sẽ được kiểm tra tín hiệu của người dùng và các tín hiệu sẽ bị từ chối.
         with_dns_records: Một nỗ lực để giải quyết các bản ghi DNS của miền đã cho trước sẽ được thực hiện và kết quả cũng sẽ bị chặn
       featured_tag:
-        name: 'Bạn có thể muốn sử dụng một trong những thứ này:'
+        name: "Bạn có thể muốn sử dụng một trong những thứ này:"
       form_challenge:
         current_password: Bạn đang vào khu vực an toàn
       imports:
@@ -65,7 +65,7 @@ vi:
       invite_request:
         text: Điều này sẽ giúp chúng tôi xem lại đơn của bạn
       sessions:
-        otp: 'Nhập mã 2 nhân hệ được tạo bởi ứng dụng điện thoại của bạn hoặc sử dụng một trong các mã khôi phục của bạn:'
+        otp: "Nhập mã 2 nhân hệ được tạo bởi ứng dụng điện thoại của bạn hoặc sử dụng một trong các mã khôi phục của bạn:"
         webauthn: Nếu đó là USB chắc chắn sẽ chèn nó vào, và nếu cần, hãy vỗ vào.
       tag:
         name: Bạn chỉ có thể thay đổi vỏ của các chữ cái, ví dụ, để làm cho nó dễ đọc hơn
@@ -183,7 +183,7 @@ vi:
         name: Hashtag
         trendable: Cho phép hashtag này xuất hiện theo xu hướng
         usable: Cho phép răng dùng hashtag này
-    'no': 'Không.'
+    "no": "Không."
     recommended: Đề nghị
     required:
       mark: "♪"
@@ -191,4 +191,4 @@ vi:
     title:
       sessions:
         webauthn: Sử dụng một trong các khóa bảo mật để đăng ký
-    'yes': 'Vâng.'
+    "yes": "Vâng."

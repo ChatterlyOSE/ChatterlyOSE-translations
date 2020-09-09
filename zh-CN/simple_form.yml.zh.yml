@@ -57,7 +57,7 @@ zh-CN:
         domain: 这可以是在电子邮件地址中显示的域名，域解析为的 MX 记录，或 MX 记录解析为的服务器的 IP 。 用户注册时将对这些用户进行检查，并且将拒绝注册。
         with_dns_records: 将尝试解析给定域的 DNS 记录，结果也将被阻止
       featured_tag:
-        name: '您可能想要使用下列其中一项 :'
+        name: "您可能想要使用下列其中一项 :"
       form_challenge:
         current_password: 您正在进入安全区域
       imports:
@@ -65,7 +65,7 @@ zh-CN:
       invite_request:
         text: 这将帮助我们复审您的应用程序
       sessions:
-        otp: '输入您的手机应用程序生成的双因子代码，或者使用您的一个恢复代码:'
+        otp: "输入您的手机应用程序生成的双因子代码，或者使用您的一个恢复代码:"
         webauthn: 如果是 USB 密钥，请务必将其插入，并在必要时点击它。
       tag:
         name: 您只能更改字母的大小写，例如，使其更可读
@@ -183,7 +183,7 @@ zh-CN:
         name: 哈什塔格
         trendable: 允许在趋势下显示此散列标记
         usable: 允许 tots 使用此散列标记
-    'no': '没有'
+    "no": "没有"
     recommended: 建议的
     required:
       mark: "*"
@@ -191,4 +191,4 @@ zh-CN:
     title:
       sessions:
         webauthn: 使用其中一个安全密钥登录
-    'yes': '是啊'
+    "yes": "是啊"

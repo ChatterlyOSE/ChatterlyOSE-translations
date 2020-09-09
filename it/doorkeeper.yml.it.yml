@@ -51,7 +51,7 @@ it:
         callback_urls: URL di callback
         scopes: Ambiti
         secret: Segreto del cliente
-        title: 'Applicazione: %{name}'
+        title: "Applicazione: %{name}"
     authorizations:
       buttons:
         authorize: Autorizzazione

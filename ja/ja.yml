@@ -1,11 +1,11 @@
 ja:
   about:
-    about_hashtag_html: 'These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse.'
-    about_mastodon_html: '未来の社会的ネットワーク : 企業の監視、倫理的設計、および地方分権化はありません ! データをChatタリーで所有'
+    about_hashtag_html: "These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse."
+    about_mastodon_html: "未来の社会的ネットワーク : 企業の監視、倫理的設計、および地方分権化はありません ! データをChatタリーで所有"
     about_this: アバウト
     active_count_after: アクティブ
     active_footnote: 月次アクティブ・ユーザー (MAU)
-    administered_by: '管理者:'
+    administered_by: "管理者:"
     api: アピ
     apps: モバイル・アプリケーション
     apps_platforms: PC/Mac / iOS/Android 用のChatすっかりアプリのダウンロード
@@ -17,7 +17,7 @@ ja:
     contact_unavailable: N/A
     discover_users: ユーザーのディスカバー
     documentation: ドキュメンテーション
-    federation_hint_html: '%{instance} のアカウントを使用すると、チャートルな人やその向こうにいる人に従うことができます。'
+    federation_hint_html: "%{instance} のアカウントを使用すると、チャートルな人やその向こうにいる人に従うことができます。"
     get_apps: モバイル・アプリケーションを試す
     hosted_on: ChatterlyOSE は %{domain} でホストされた。
     instance_actor_flash: |
@@ -26,7 +26,7 @@ ja:
     learn_more: 詳細はこちら
     privacy_policy: プライバシー・ポリシー
     see_whats_happening: 何が起きているか見て
-    server_stats: 'サーバー統計:'
+    server_stats: "サーバー統計:"
     source_code: ソース・コード
     status_count_after:
       other: ステータス
@@ -37,11 +37,11 @@ ja:
     unavailable_content_description:
       domain: サーバー ( )
       reason: リーズン
-      rejecting_media: 'これらのサーバーからのメディア・ファイルは処理も保管もされず、サムネールは表示されず、元のファイルに手作業でクリックスルーする必要があります。'
+      rejecting_media: "これらのサーバーからのメディア・ファイルは処理も保管もされず、サムネールは表示されず、元のファイルに手作業でクリックスルーする必要があります。"
       rejecting_media_title: フィルタリングされたメディア
-      silenced: 'これらのサーバーからの投稿は、公開のタイムラインおよび会話では非表示になります。ユーザーが以下を実行している場合を除き、ユーザーの対話から通知は生成されません。'
+      silenced: "これらのサーバーからの投稿は、公開のタイムラインおよび会話では非表示になります。ユーザーが以下を実行している場合を除き、ユーザーの対話から通知は生成されません。"
       silenced_title: Silenced サーバー
-      suspended: 'これらのサーバーからのデータは処理、保管、または交換が行われず、これらのサーバーからのユーザーとの対話や通信は不可能になります。'
+      suspended: "これらのサーバーからのデータは処理、保管、または交換が行われず、これらのサーバーからのユーザーとの対話や通信は不可能になります。"
       suspended_title: 中断状態のサーバー
     unavailable_content_html: 一般に、一般的には、ご使用のユーザーとの間でコンテンツを表示したり、他のサーバーからユーザーを相互に対話したりすることができます。 これらは、この特定のサーバー上で作成された例外です。
     user_count_after:
@@ -58,14 +58,14 @@ ja:
     following: フォロー
     joined: ジョンドされた %{date}
     last_active: 最終アクティブ
-    link_verified_on: '%{date} でこのリンクの所有権が検査されました'
+    link_verified_on: "%{date} でこのリンクの所有権が検査されました"
     media: メディア
     moved_html: "%{name} は %{new_profile_link} に移行した。"
     network_hidden: この情報は利用できません
     never_active: ネヴァー
     nothing_here: ここには何もない !
-    people_followed_by: '%{name} の人物'
-    people_who_follow: '%{name} に続く人物'
+    people_followed_by: "%{name} の人物"
+    people_who_follow: "%{name} に続く人物"
     pin_errors:
       following: あなたは、あなたが支持したい人の後に既に従う必要があります
     posts:
@@ -83,7 +83,7 @@ ja:
   admin:
     account_actions:
       action: アクションの実行
-      title: '%{acct} での管理アクションの実行'
+      title: "%{acct} での管理アクションの実行"
     account_moderation_notes:
       create: メモを残す
       created_msg: モデレーションが正常に作成されました。
@@ -93,7 +93,7 @@ ja:
       add_email_domain_block: ブロック電子メールドメイン
       approve: 承認
       approve_all: すべて承認
-      are_you_sure: '- 確かか ?'
+      are_you_sure: "- 確かか ?"
       avatar: アバター
       by_domain: ドメイン
       change_email:
@@ -102,7 +102,7 @@ ja:
         label: メールの変更
         new_email: 新規 E メール
         submit: メールの変更
-        title: '%{username} のメールの変更'
+        title: "%{username} のメールの変更"
       confirm: 確認
       confirmed: 確認済み
       confirming: 確認
@@ -127,7 +127,7 @@ ja:
       joined: 結合済み
       location:
         all: オール
-        local: '■ 普通'
+        local: "■ 普通"
         remote: リモート
         title: 所在地
       login_status: ログイン状況
@@ -280,7 +280,7 @@ ja:
         create: 告知の作成
         title: 新規告知
       published_msg: 発表が正常に公開されました。
-      scheduled_for: '%{time} にスケジュールされています'
+      scheduled_for: "%{time} にスケジュールされています"
       scheduled_msg: 発表の公開が予定されています。
       title: 発表
       unpublished_msg: アナウンスが正常にパブリッシュ解除されました
@@ -386,7 +386,7 @@ ja:
         retroactive:
           silence: このドメインの既存の影響を受けたアカウントを無音
           suspend: このドメインからの既存の影響を受けたアカウントの中断
-        title: '%{domain} のドメイン・ブロックを元に戻す'
+        title: "%{domain} のドメイン・ブロックを元に戻す"
         undo: 元に戻す
       undo: ドメイン・ブロックの取り消し
       view: ドメインの表示ブロック
@@ -397,7 +397,7 @@ ja:
       destroyed_msg: E メール・ドメインが正常に非
       domain: ドメイン
       empty: 現在ブロックされている E メール・ドメイン
-      from_html: '%{domain}'
+      from_html: "%{domain}"
       new:
         create: ドメインの追加
         title: 新規 E メール・ドメインを
@@ -457,7 +457,7 @@ ja:
         reports:
           other: "%{count} レポート"
       action_taken_by: アクション実行者
-      are_you_sure: '- 確かか ?'
+      are_you_sure: "- 確かか ?"
       assign_to_self: 自分に割り当て
       assigned: 割り当て済みモデレーター
       by_target_domain: 報告されたアカウントのドメイン
@@ -473,7 +473,7 @@ ja:
         delete: 削除
         placeholder: 実行されたアクション、またはその他の関連する更新内容を記述します ...
       reopen: レポートの再オープン
-      report: 'レポート番号%{id}'
+      report: "レポート番号%{id}"
       reported_account: 報告されたアカウント
       reported_by: 報告者
       resolved: 解決済み
@@ -501,7 +501,7 @@ ja:
         title: デフォルトで検索エンジンの索引付けをユーザーが選択できない
       domain_blocks:
         all: すべてのユーザー
-        disabled: '- 誰にも'
+        disabled: "- 誰にも"
         title: ドメインブロックの表示
         users: ローカル・ユーザーにログイン
       domain_blocks_rationale:
@@ -578,7 +578,7 @@ ja:
       delete: アップロードされたファイル
       destroyed_msg: サイトのアップロードに成功しました
     statuses:
-      back_to_account: '「アカウント」ページに戻る'
+      back_to_account: "「アカウント」ページに戻る"
       batch:
         delete: 削除
         nsfw_off: 機密としてマークを付ける
@@ -618,14 +618,14 @@ ja:
   admin_mailer:
     new_pending_account:
       body: 新規アカウントの詳細は以下のとおりです。 このアプリケーションを承認または拒否することができます。
-      subject: '%{instance} のレビュー用新規アカウント (%{username})'
+      subject: "%{instance} のレビュー用新規アカウント (%{username})"
     new_report:
       body: "%{reporter} は、 %{target} まで報告されている。"
-      body_remote: '%{domain} の誰かが、 %{target} を報告している'
-      subject: '%{instance} (No.%{id} ) の新規レポート'
+      body_remote: "%{domain} の誰かが、 %{target} を報告している"
+      subject: "%{instance} (No.%{id} ) の新規レポート"
     new_trending_tag:
-      body: 'ハッシュタグ #%{name} は今日はトレンドを示していますが、以前にレビューされていません。 これは、許可されていない場合には表示されません。また、フォームを保存するだけで、もう一度それを聞くことがないようにします。'
-      subject: '%{instance} (#%{name} ) でレビュー用に新しいハッシュタグが作成されました'
+      body: "ハッシュタグ #%{name} は今日はトレンドを示していますが、以前にレビューされていません。 これは、許可されていない場合には表示されません。また、フォームを保存するだけで、もう一度それを聞くことがないようにします。"
+      subject: "%{instance} (#%{name} ) でレビュー用に新しいハッシュタグが作成されました"
   aliases:
     add_new: 別名の作成
     created_msg: 新規別名が正常に作成されました。 これで、古いアカウントからの移動を開始できます。
@@ -635,7 +635,7 @@ ja:
     remove: 別名のリンク解除
   appearance:
     advanced_web_interface: 拡張 Web インターフェース
-    advanced_web_interface_hint: '画面の幅全体を使用したい場合は、拡張 Web インターフェースを使用して、必要に応じて多くの異なる列を構成して、ホーム、通知、フェデレーテッド・タイムライン、任意の数のリスト、ハッシュ・タグを表示することができます。'
+    advanced_web_interface_hint: "画面の幅全体を使用したい場合は、拡張 Web インターフェースを使用して、必要に応じて多くの異なる列を構成して、ホーム、通知、フェデレーテッド・タイムライン、任意の数のリスト、ハッシュ・タグを表示することができます。"
     animations_and_accessibility: アニメーションとアクセシビリティー
     confirmation_dialogs: 確認ダイアログ
     discovery: ディスカバリー
@@ -648,8 +648,8 @@ ja:
   application_mailer:
     notification_preferences: メール設定の変更
     salutation: "%{name}"
-    settings: 'メール設定の変更 : %{link}'
-    view: 'ビュー:'
+    settings: "メール設定の変更 : %{link}"
+    view: "ビュー:"
     view_profile: プロファイルの表示
     view_status: 状況の表示
   applications:
@@ -708,8 +708,8 @@ ja:
     already_requested: このアカウントにフォロー要求を既に送信しています
     error: 残念ながら、リモート・アカウントの検索中にエラーが発生しました
     follow: フォロー
-    follow_request: '以下に対する以下の要求を送信しました。'
-    following: '成功! これで、以下のことが'
+    follow_request: "以下に対する以下の要求を送信しました。"
+    following: "成功! これで、以下のことが"
     post_follow:
       close: または、このウィンドウを閉じることもできます。
       return: ユーザーのプロファイルを表示します
@@ -749,7 +749,7 @@ ja:
     proceed: アカウントの削除
     success_msg: アカウントは正常に削除されました
     warning:
-      before: '先に進む前に、以下の注意事項をお読みください'
+      before: "先に進む前に、以下の注意事項をお読みください"
       caches: 他のサーバーによってキャッシュされたコンテンツは保持されます。
       data_removal: 投稿およびその他のデータは完全に削除されます
       email_change_html: お客様のアカウントを削除せずに E メール・アドレス</a> を <a href="%{path}">に変更できます。
@@ -766,23 +766,23 @@ ja:
   domain_validator:
     invalid_domain: は有効なドメイン名ではありません
   errors:
-    '400': 送信した要求が無効であったか、誤った形式になっています。
-    '403': このページを表示する権限がありません。
-    '404': 間違った方向に行ったと思うここには何もない
-    '406': このページは、要求された形式では使用できません。
-    '410': ヒューストンの問題があるページは消えた
-    '422':
+    "400": 送信した要求が無効であったか、誤った形式になっています。
+    "403": このページを表示する権限がありません。
+    "404": 間違った方向に行ったと思うここには何もない
+    "406": このページは、要求された形式では使用できません。
+    "410": ヒューストンの問題があるページは消えた
+    "422":
       content: セキュリティー検査に失敗しました クッキーをブロックしてる ?
       title: セキュリティー検査の失敗
-    '429': 要求が多すぎる
-    '500':
+    "429": 要求が多すぎる
+    "500":
       content: 申し訳ありませんが私たちの終わりに何かが問題になりました このエラーについて通知され、解決に取り組んでいます。
       title: このページは正しくありません
-    '503': 申し訳ありませんが、サーバー負荷が高くなっています。 私たちはできるだけ早くこの問題の解決に取り組んでいます。
+    "503": 申し訳ありませんが、サーバー負荷が高くなっています。 私たちはできるだけ早くこの問題の解決に取り組んでいます。
     noscript_html: 完全に使用するには、 JavaScriptを有効にしてください。 あるいは、 <a href="%{apps_path}">ネイティブ・アプリ</a> のうちの 1 つを、ご使用のプラットフォーム用のChat完全にモバイルに対して試行してください。
   existing_username_validator:
     not_found: そのユーザー名を持つローカル・ユーザーが見つかりませんでした
-    not_found_multiple: '%{usernames} が見つかりませんでした'
+    not_found_multiple: "%{usernames} が見つかりませんでした"
   exports:
     archive_takeout:
       date: 日付
@@ -822,7 +822,7 @@ ja:
       title: 新規フィルターの追加
   footer:
     developers: 開発者
-    more: '-…'
+    more: "-…"
     resources: リソース
     trending_now: 現在トレンディング
   generic:
@@ -836,7 +836,7 @@ ja:
     validation_errors:
       other: まだ何かおかしいわ ! 以下の %{count} エラーを確認してください。
   html_validator:
-    invalid_markup: '無効な HTML マークアップが含まれています : %{error}'
+    invalid_markup: "無効な HTML マークアップが含まれています : %{error}"
   identity_proofs:
     active: アクティブ
     authorize: はい、許可
@@ -851,8 +851,8 @@ ja:
     i_am_html: 私は %{username} で %{service}
     identity: アイデンティティー
     inactive: 非アクティブ
-    publicize_checkbox: 'これを、以下のようにして'
-    publicize_toot: '証明されています。 %{username} オン %{service}: %{url}'
+    publicize_checkbox: "これを、以下のようにして"
+    publicize_toot: "証明されています。 %{username} オン %{service}: %{url}"
     remove: 証明をアカウントから削除
     removed: アカウントから証明を正常に削除し
     status: 検証状況
@@ -876,15 +876,15 @@ ja:
     delete: 非活動化
     expired: 有効期限切れ
     expires_in:
-      '1800': 30 分
-      '21600': 6 時間
-      '3600': 1 時間
-      '43200': 12 時間
-      '604800': 1 週間
-      '86400': 一日
+      "1800": 30 分
+      "21600": 6 時間
+      "3600": 1 時間
+      "43200": 12 時間
+      "604800": 1 週間
+      "86400": 一日
     expires_in_prompt: ネヴァー
     generate: 招待リンクの生成
-    invited_by: '招待されたユーザー :'
+    invited_by: "招待されたユーザー :"
     max_uses:
       other: "%{count} 使用"
     max_uses_prompt: 制限なし
@@ -925,7 +925,7 @@ ja:
     set_redirect: リダイレクトの設定
     warning:
       backreference_required: 新規アカウントは、最初にこのアカウントを参照するように構成する必要があります。
-      before: '先に進む前に、以下の注意事項をお読みください'
+      before: "先に進む前に、以下の注意事項をお読みください"
       cooldown: 移動後には、クールダウン期間が経過すると、移動できなくなります。
       disabled_account: 現在のアカウントは、後で完全には使用可能になりません。 ただし、データのエクスポートと再活動化にはアクセスできます。
       followers: このアクションにより、すべてのフォロワーが現行アカウントから新規アカウントに移動します。
@@ -937,11 +937,11 @@ ja:
   move_handler:
     carry_blocks_over_text: このユーザーは %{acct}から移動しましたが、これはブロックされていました。
     carry_mutes_over_text: このユーザーは、ユーザーがミュートした %{acct}から移動しました。
-    copy_account_note_text: 'このユーザーは %{acct}に移行しました。これらのユーザーに関する以前のメモは次のとおりです。'
+    copy_account_note_text: "このユーザーは %{acct}に移行しました。これらのユーザーに関する以前のメモは次のとおりです。"
   notification_mailer:
     digest:
       action: 通知をすべて表示
-      body: '%{since} での最後の訪問以降に見逃したメッセージの簡単な要約を以下に示します。'
+      body: "%{since} での最後の訪問以降に見逃したメッセージの簡単な要約を以下に示します。"
       mention: "%{name} お客様は以下のとおりです。"
       new_followers_summary:
         other: また、不在中に %{count} のフォロワーを獲得したこともあります。 すごい!
@@ -949,7 +949,7 @@ ja:
         other: "%{count} 前回の \U0001F418 以降の通知が新規通知されます"
       title: 不在中 ...
     favourite:
-      body: 'お客様の状況は、 %{name} によって良好でした。'
+      body: "お客様の状況は、 %{name} によって良好でした。"
       subject: "%{name} お客様の状況は良好です"
       title: ニュー・お気に入り
     follow:
@@ -959,20 +959,20 @@ ja:
     follow_request:
       action: 後続要求の管理
       body: "%{name} があなたのフォローを要求しました"
-      subject: '保留されているフォロワー : %{name}'
+      subject: "保留されているフォロワー : %{name}"
       title: 新規フォロー要求
     mention:
       action: 応答
-      body: '%{name} によって次のように言及されました。'
+      body: "%{name} によって次のように言及されました。"
       subject: あなたは %{name} によって言及された
       title: 新しい言及
     reblog:
-      body: '状況は %{name} に上昇しました。'
+      body: "状況は %{name} に上昇しました。"
       subject: "%{name} ユーザーの状況を改善します"
       title: 新規ランキング調整
   notifications:
     email_events: E メール通知のイベント
-    email_events_hint: '通知を受信するイベントを選択します。'
+    email_events_hint: "通知を受信するイベントを選択します。"
     other_settings: その他の通知設定
   number:
     human:
@@ -984,13 +984,13 @@ ja:
           quadrillion: Q
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: 確認のためにオーセンティケーター・アプリケーションが生成するコードを入力
     description_html: オーセンティケーター・アプリケーションを使用して <strong>の 2 要素認証</strong> を有効にすると、ログインするには、ユーザーが自分の電話を所有する必要があります。これにより、ユーザーが入力するトークンが生成されます。
     enable: 有効
     instructions_html: "<strong>この QR コードを、 Google Authenticator または電話</strong>上の similiar TOTP アプリにスキャンします。 これ以降、このアプリは、ログイン時に入力する必要があるトークンを生成します。"
-    manual_instructions: 'QR コードをスキャンせず、手動で入力する必要がある場合は、プレーン・テキストの秘密を以下に示します。'
+    manual_instructions: "QR コードをスキャンせず、手動で入力する必要がある場合は、プレーン・テキストの秘密を以下に示します。"
     setup: セットアップ
     wrong_code: 入力されたコードが無効でした。 サーバー時間と装置時間は正しいですか ?
   pagination:
@@ -1009,7 +1009,7 @@ ja:
       invalid_choice: 選択された投票オプションは存在しません
       over_character_limit: は、それぞれ %{max} 文字を超えることはできません。
       too_few_options: 複数の項目を持つ必要があります
-      too_many_options: '%{max} を超える項目を含むことはできません'
+      too_many_options: "%{max} を超える項目を含むことはできません"
   preferences:
     other: その他
     posting_defaults: デフォルトの投稿
@@ -1039,18 +1039,18 @@ ja:
     missing_resource: ご使用のアカウントに必要なリダイレクト URL が見つかりませんでした
     no_account_html: 口座を持っていないのか ? <a href='%{sign_up_path}' target='_blank'>サインアップできるのは</a> です。
     proceed: 続行してください
-    prompt: '以下を実行します。'
+    prompt: "以下を実行します。"
     reason_html: "<strong>このステップはなぜ必要か ?</strong> <code>210-012%{instance}</code> は登録されているサーバーではないため、最初にホームサーバーにリダイレクトする必要があります。"
   remote_interaction:
     favourite:
       proceed: お気に入りに進んでください
-      prompt: 'このブートをお気に入りにする :'
+      prompt: "このブートをお気に入りにする :"
     reblog:
       proceed: ランキング調整に進む
-      prompt: 'このブートを強化したいとします。'
+      prompt: "このブートを強化したいとします。"
     reply:
       proceed: 応答を続行
-      prompt: 'このトゥートに返信します。'
+      prompt: "このトゥートに返信します。"
   scheduled_statuses:
     over_daily_limit: You have exceeded the limit of %{limit} scheduled toots for that day
     over_total_limit: スケジュール済み toots %{limit} を超過しました
@@ -1124,20 +1124,20 @@ ja:
     attached:
       audio:
         other: "%{count} オーディオ"
-      description: '接続済み : %{attached}'
+      description: "接続済み : %{attached}"
       image:
         other: "%{count} 画像"
       video:
         other: "%{count} ビデオ"
-    boosted_from_html: '%{acct_link} からのブースト'
-    content_warning: 'コンテンツ警告: %{warning}'
+    boosted_from_html: "%{acct_link} からのブースト"
+    content_warning: "コンテンツ警告: %{warning}"
     disallowed_hashtags:
-      other: '許容されないハッシュタグが含まれていた : %{tags}'
+      other: "許容されないハッシュタグが含まれていた : %{tags}"
     errors:
       in_reply_not_found: 応答しようとしている状況が存在していない可能性があります。
     language_detection: 言語を自動検出
     open_in_web: Web で開く
-    over_character_limit: '%{max} の文字制限を超えていました'
+    over_character_limit: "%{max} の文字制限を超えていました"
     pin_errors:
       limit: 最大数の toots をすでに固定しています
       ownership: 他のユーザーの足を固定することはできません。
@@ -1278,9 +1278,9 @@ ja:
       subject: アーカイブのダウンロードの準備ができました
       title: アーカイブの取り込み
     sign_in_token:
-      details: '試行の詳細は以下のとおりです。'
-      explanation: '認識されない IP アドレスからアカウントにサインインしようとしています。 これがお客様の場合は、以下のセキュリティー・コードをサインイン・チャレンジ・ページに入力してください。'
-      further_actions: 'これがお客様でない場合は、パスワードを変更し、お客様のアカウントで 2 要素認証を有効にしてください。 以下の操作を実行できます。'
+      details: "試行の詳細は以下のとおりです。"
+      explanation: "認識されない IP アドレスからアカウントにサインインしようとしています。 これがお客様の場合は、以下のセキュリティー・コードをサインイン・チャレンジ・ページに入力してください。"
+      further_actions: "これがお客様でない場合は、パスワードを変更し、お客様のアカウントで 2 要素認証を有効にしてください。 以下の操作を実行できます。"
       subject: サインオンの試行を確認してください
       title: サインイン試行
     warning:
@@ -1288,12 +1288,12 @@ ja:
         disable: アカウントが凍結されている間は、アカウント・データはそのまま保持されますが、アンロックされるまでアクションを実行することはできません。
         silence: アカウントが制限されている間は、既にフォアしているユーザーのみがこのサーバーに toots を表示します。また、さまざまなパブリック・リストから除外される可能性があります。 ただし、その他のユーザーは、引き続き手動で従うことも
         suspend: アカウントがサスペンドされ、すべての toots およびアップロードされたメディアファイルがこのサーバーから元に戻せず、フォロワーを持っていたサーバーが削除されています。
-      get_in_touch: '%{instance} のスタッフに連絡を取るために、このメールに返信することができます。'
+      get_in_touch: "%{instance} のスタッフに連絡を取るために、このメールに返信することができます。"
       review_server_policies: サーバーポリシーの確認
-      statuses: '具体的には、'
+      statuses: "具体的には、"
       subject:
         disable: お客様のアカウント %{acct} が凍結されました
-        none: '警告 : %{acct}'
+        none: "警告 : %{acct}"
         silence: お客様のアカウント %{acct} は制限されました
         suspend: お客様のアカウント %{acct} が中断されました
       title:
@@ -1306,7 +1306,7 @@ ja:
       edit_profile_step: アバター、ヘッダー、表示名などを変更することにより、プロファイルをカスタマイズできます。 フォローが許可される前に新規フォロワーを確認したい場合は、アカウントをロックすることができます。
       explanation: 以下に、いくつかのヒントを示します。
       final_action: 投稿の開始
-      final_step: '投稿を開始 ! フォロワーがいなくても、ローカル・タイムラインやハッシュタグなど、他のユーザーからはメッセージが表示されることがあります。 #introductions ハッシュ・タグに自分自身を導入することもできます。'
+      final_step: "投稿を開始 ! フォロワーがいなくても、ローカル・タイムラインやハッシュタグなど、他のユーザーからはメッセージが表示されることがあります。 #introductions ハッシュ・タグに自分自身を導入することもできます。"
       full_handle: フル・ハンドル
       full_handle_hint: これはあなたがメッセージを伝えるか、別のサーバーからフォローできるように、あなたが友達に伝えるものです。
       review_preferences_action: プリファレンスの変更
@@ -1328,7 +1328,7 @@ ja:
     invalid_sign_in_token: 無効なセキュリティー・コード
     otp_lost_help_html: 両方にアクセスできなくなった場合は、 %{email} に連絡を取り入れることができます。
     seamless_external_login: 外部サービスを介してログインしているため、パスワードと E メールの設定は使用できません。
-    signed_in_as: '以下のように署名します。'
+    signed_in_as: "以下のように署名します。"
     suspicious_sign_in_confirmation: 前にこのデバイスからログインしていないようですが、しばらくログインしていないようですので、メールアドレスにセキュリティコードを送信して、確認してください。
   verification:
     explanation_html: 'プロファイル・メタデータ</strong>のリンクの所有者として、ユーザーは <strong>を自分で確認することができます。 そのためには、リンクされた Web サイトに、ご使用のChatタリー・プロファイルへのリンクが含まれている リンク・バック <strong>には、</strong> が <code>rel="me"</code> 属性を持っていなければなりません。 リンクのテキスト・コンテンツは関係ありません。 以下に例を示します。'
@@ -1349,4 +1349,4 @@ ja:
     not_enabled: まだ WebAuthn を有効にしていません
     not_supported: このブラウザーはセキュリティー鍵をサポートしません
     otp_required: セキュリティー・キーを使用するには、最初に 2 要素認証を有効にしてください。
-    registered_on: '%{date} で登録されている'
+    registered_on: "%{date} で登録されている"

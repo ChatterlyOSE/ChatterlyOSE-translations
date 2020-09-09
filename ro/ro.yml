@@ -1,11 +1,11 @@
 ro:
   about:
-    about_hashtag_html: 'Acestea sunt toots publice etichetate cu <strong>#%{hashtag}</strong>. Puteţi interacţiona cu ele dacă aveţi un cont oriunde în verset-verset.'
-    about_mastodon_html: 'Reteaua sociala a viitorului: Fara supraveghere corporatala, design etic, si descentralizare! Propriile date cu Chatterly!'
+    about_hashtag_html: "Acestea sunt toots publice etichetate cu <strong>#%{hashtag}</strong>. Puteţi interacţiona cu ele dacă aveţi un cont oriunde în verset-verset."
+    about_mastodon_html: "Reteaua sociala a viitorului: Fara supraveghere corporatala, design etic, si descentralizare! Propriile date cu Chatterly!"
     about_this: Despre
     active_count_after: activ
     active_footnote: Utilizatori activi lunar (MAU)
-    administered_by: 'Administrat de:'
+    administered_by: "Administrat de:"
     api: API
     apps: Aplicaţii mobile
     apps_platforms: Descărcaţi aplicaţia Chatterly pentru PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ ro:
     learn_more: Aflaţi mai multe
     privacy_policy: Politica de confidenţialitate
     see_whats_happening: Vezi ce se intampla
-    server_stats: 'Statistici server:'
+    server_stats: "Statistici server:"
     source_code: Cod sursă
     status_count_after:
       one: stare
@@ -39,11 +39,11 @@ ro:
     unavailable_content_description:
       domain: Server
       reason: Motiv
-      rejecting_media: 'Fişierele de mediu de pe aceste servere nu vor fi procesate sau stocate şi nu vor fi afişate miniaturi, necesitând clic-uri manuale în fişierul original:'
+      rejecting_media: "Fişierele de mediu de pe aceste servere nu vor fi procesate sau stocate şi nu vor fi afişate miniaturi, necesitând clic-uri manuale în fişierul original:"
       rejecting_media_title: Mediu filtrat
-      silenced: 'Posturile de la aceste servere vor fi ascunse în linii publice şi conversaţii publice şi nu vor fi generate notificări de la interacţiunile utilizatorilor lor, cu excepţia cazului în care le urmăriţi:'
+      silenced: "Posturile de la aceste servere vor fi ascunse în linii publice şi conversaţii publice şi nu vor fi generate notificări de la interacţiunile utilizatorilor lor, cu excepţia cazului în care le urmăriţi:"
       silenced_title: Servere redute
-      suspended: 'Nu vor fi procesate, stocate sau schimbate date de pe aceste servere, făcând imposibilă orice interacţiune sau comunicare cu utilizatorii de la aceste servere:'
+      suspended: "Nu vor fi procesate, stocate sau schimbate date de pe aceste servere, făcând imposibilă orice interacţiune sau comunicare cu utilizatorii de la aceste servere:"
       suspended_title: Servere suspendate
     unavailable_content_html: În general, chatterly vă permite să vizualizaţi conţinut şi să interacţionaţi cu utilizatorii de la orice alt server din fedivers. Acestea sunt excepţiile care au fost făcute pe acest server particular.
     user_count_after:
@@ -489,7 +489,7 @@ ro:
         delete: Ştergere
         placeholder: Descrieţi ce acţiuni au fost luate, sau orice alte actualizări înrudite ...
       reopen: Redeschidere raport
-      report: 'Raport #%{id}'
+      report: "Raport #%{id}"
       reported_account: Cont raportat
       reported_by: Raportat de
       resolved: Rezolvat
@@ -638,10 +638,10 @@ ro:
     new_report:
       body: "%{reporter} a raportat %{target}"
       body_remote: Cineva de la %{domain} a raportat %{target}
-      subject: 'Nou raport pentru %{instance} (#%{id})'
+      subject: "Nou raport pentru %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Hashtag-ul #%{name} este astăzi tendință, dar nu a fost revizuit anterior. Nu va fi afişat public decât dacă îi permiteţi sau doar să salvaţi formularul aşa cum este să nu mai auziţi niciodată despre el.'
-      subject: 'Hashtag-ul nou pentru examinare la %{instance} (#%{name})'
+      body: "Hashtag-ul #%{name} este astăzi tendință, dar nu a fost revizuit anterior. Nu va fi afişat public decât dacă îi permiteţi sau doar să salvaţi formularul aşa cum este să nu mai auziţi niciodată despre el."
+      subject: "Hashtag-ul nou pentru examinare la %{instance} (#%{name})"
   aliases:
     add_new: Creare alias
     created_msg: A fost creat cu succes un alias nou. Acum puteţi iniţia mutarea din contul vechi.
@@ -651,7 +651,7 @@ ro:
     remove: Dezlegare alias
   appearance:
     advanced_web_interface: Interfaţă web avansată
-    advanced_web_interface_hint: 'Dacă doriţi să utilizaţi întreaga lăţime a ecranului, interfaţa web avansată vă permite să configuraţi multe coloane diferite pentru a vedea cât mai multe informaţii în acelaşi timp cu care doriţi: Acasă, notificări, cronologie federalizată, orice număr de liste şi hashtag-uri.'
+    advanced_web_interface_hint: "Dacă doriţi să utilizaţi întreaga lăţime a ecranului, interfaţa web avansată vă permite să configuraţi multe coloane diferite pentru a vedea cât mai multe informaţii în acelaşi timp cu care doriţi: Acasă, notificări, cronologie federalizată, orice număr de liste şi hashtag-uri."
     animations_and_accessibility: Animaţii şi accesibilitate
     confirmation_dialogs: Dialoguri de confirmare
     discovery: Descoperire
@@ -664,8 +664,8 @@ ro:
   application_mailer:
     notification_preferences: Modificare preferinţe e-mail
     salutation: "%{name},"
-    settings: 'Modificare preferinţe e-mail: %{link}'
-    view: 'Vizualizare:'
+    settings: "Modificare preferinţe e-mail: %{link}"
+    view: "Vizualizare:"
     view_profile: Vizualizare profil
     view_status: Vizualizare stare
   applications:
@@ -724,8 +724,8 @@ ro:
     already_requested: Aţi trimis deja o cerere de urmărire în acel cont
     error: Din păcate, a apărut o eroare în căutarea contului la distanţă
     follow: Urmărire
-    follow_request: 'Aţi trimis o cerere de urmat la:'
-    following: 'Succes! Sunteţi acum în continuare:'
+    follow_request: "Aţi trimis o cerere de urmat la:"
+    following: "Succes! Sunteţi acum în continuare:"
     post_follow:
       close: Sau, puteţi închide această fereastră.
       return: Afişare profil utilizator
@@ -765,7 +765,7 @@ ro:
     proceed: Ştergere cont
     success_msg: Contul dumneavoastră a fost şters cu succes
     warning:
-      before: 'Înainte de a continua, vă rugăm să citiţi cu atenţie aceste note:'
+      before: "Înainte de a continua, vă rugăm să citiţi cu atenţie aceste note:"
       caches: Conţinutul care a fost memorat în cache de alte servere poate persista
       data_removal: Postările dumneavoastră şi alte date vor fi înlăturate permanent
       email_change_html: Poti <a href="%{path}">schimba adresa ta de e-mail</a> fara a-ti șterge contul
@@ -782,19 +782,19 @@ ro:
   domain_validator:
     invalid_domain: nu este un nume de domeniu valid
   errors:
-    '400': Cererea pe care aţi lansat-o a fost invalidă sau malformată.
-    '403': Nu aveţi permisiunea să vizualizaţi această pagină.
-    '404': Cred ca ati luat o turnare gresita, nu e nimic aici.
-    '406': Această pagină nu este disponibilă în formatul cerut.
-    '410': Avem o problemă Houston, pagina este plecat.
-    '422':
+    "400": Cererea pe care aţi lansat-o a fost invalidă sau malformată.
+    "403": Nu aveţi permisiunea să vizualizaţi această pagină.
+    "404": Cred ca ati luat o turnare gresita, nu e nimic aici.
+    "406": Această pagină nu este disponibilă în formatul cerut.
+    "410": Avem o problemă Houston, pagina este plecat.
+    "422":
       content: Verificarea securităţii a eşuat. Blocați cookie-urile?
       title: Verificarea securităţii a eşuat
-    '429': Prea multe cereri
-    '500':
+    "429": Prea multe cereri
+    "500":
       content: Ne pare rău, dar ceva a mers prost la sfârşitul nostru. Am fost înştiinţat despre această eroare şi lucrăm la rezolvarea ei.
       title: Această pagină nu este corectă
-    '503': Ne pare rău, ni se pare că se confruntă cu o sarcină mare de server. Lucrăm pentru a rezolva acest lucru cât mai curând posibil.
+    "503": Ne pare rău, ni se pare că se confruntă cu o sarcină mare de server. Lucrăm pentru a rezolva acest lucru cât mai curând posibil.
     noscript_html: Pentru a utiliza Chatterly, vă rugăm să activaţi JavaScript. Alternativ, încercaţi una din cele <a href="%{apps_path}">aplicaţii native</a> pentru Chatterly Mobile pentru platforma dumneavoastră.
   existing_username_validator:
     not_found: nu a putut găsi un utilizator local cu acel nume de utilizator
@@ -854,7 +854,7 @@ ro:
       few: Ceva nu e chiar corect! Vă rugăm să revedeţi %{count} erori de mai jos
       other: Ceva nu e chiar corect! Vă rugăm să revedeţi %{count} erori de mai jos
   html_validator:
-    invalid_markup: 'conţine marcaj HTML invalid: %{error}'
+    invalid_markup: "conţine marcaj HTML invalid: %{error}"
   identity_proofs:
     active: Activ
     authorize: Da, autoriza
@@ -869,8 +869,8 @@ ro:
     i_am_html: Eu am %{username} pe %{service}.
     identity: Identitate
     inactive: Inactiv
-    publicize_checkbox: 'Şi toot asta:'
-    publicize_toot: 'Este dovedit! Eu am %{username} pe %{service}: %{url}'
+    publicize_checkbox: "Şi toot asta:"
+    publicize_toot: "Este dovedit! Eu am %{username} pe %{service}: %{url}"
     remove: Înlăturaţi dovada din cont
     removed: A fost înlăturată cu succes dovada
     status: Stare verificare
@@ -894,15 +894,15 @@ ro:
     delete: Dezactivare
     expired: Expirat
     expires_in:
-      '1800': 30 minute
-      '21600': 6 ore
-      '3600': 1 oră
-      '43200': 12 ore
-      '604800': 1 săptămână
-      '86400': 1 zi
+      "1800": 30 minute
+      "21600": 6 ore
+      "3600": 1 oră
+      "43200": 12 ore
+      "604800": 1 săptămână
+      "86400": 1 zi
     expires_in_prompt: Niciodată
     generate: Generare legătură de invitare
-    invited_by: 'Aţi fost invitat de:'
+    invited_by: "Aţi fost invitat de:"
     max_uses:
       one: 1 utilizare
       few: "%{count} utilizări"
@@ -945,7 +945,7 @@ ro:
     set_redirect: Setare redirectare
     warning:
       backreference_required: Noul cont trebuie să fie mai întâi configurat pentru a-l face înapoi-referinţa aceasta
-      before: 'Înainte de a continua, vă rugăm să citiţi cu atenţie aceste note:'
+      before: "Înainte de a continua, vă rugăm să citiţi cu atenţie aceste note:"
       cooldown: După ce se deplasează există o perioadă de răcoare în timpul căreia nu veţi putea să vă mutaţi din nou
       disabled_account: Contul dvs. curent nu va fi complet utilizabil ulterior. Totuşi, veţi avea acces la exportul de date, precum şi la re-activare.
       followers: Această acţiune va muta toţi adepţii din contul curent la noul cont
@@ -957,7 +957,7 @@ ro:
   move_handler:
     carry_blocks_over_text: Acest utilizator s-a mutat de la %{acct}, pe care l-ati blocat.
     carry_mutes_over_text: Acest utilizator s-a mutat de la %{acct}, pe care l-aţi amuţit.
-    copy_account_note_text: 'Acest utilizator s-a mutat de la %{acct}, aici au fost notele tale anterioare despre ele:'
+    copy_account_note_text: "Acest utilizator s-a mutat de la %{acct}, aici au fost notele tale anterioare despre ele:"
   notification_mailer:
     digest:
       action: Vizualizare toate notificările
@@ -973,7 +973,7 @@ ro:
         other: "%{count} noi notificări de la ultima vizită \U0001F418"
       title: În lipsa ta ...
     favourite:
-      body: 'Starea dumneavoastră a fost favorabilă până la %{name}:'
+      body: "Starea dumneavoastră a fost favorabilă până la %{name}:"
       subject: "%{name} v-a favorabil statutul"
       title: Nou favorit
     follow:
@@ -983,20 +983,20 @@ ro:
     follow_request:
       action: Gestionare cereri de urmărire
       body: "%{name} a solicitat sa te urmeze"
-      subject: 'Urmăritor în aşteptare: %{name}'
+      subject: "Urmăritor în aşteptare: %{name}"
       title: Cerere nouă de urmărire
     mention:
       action: Răspuns
-      body: 'Ati fost mentionat de %{name} in:'
+      body: "Ati fost mentionat de %{name} in:"
       subject: Ai fost mentionat de %{name}
       title: Menţiune nouă
     reblog:
-      body: 'Starea dumneavoastră a fost potenţată de %{name}:'
+      body: "Starea dumneavoastră a fost potenţată de %{name}:"
       subject: "%{name} v-a amplificat statutul"
       title: Nou impuls
   notifications:
     email_events: Evenimente pentru notificări e-mail
-    email_events_hint: 'Selectaţi evenimentele pe care doriţi să le primiţi notificări pentru:'
+    email_events_hint: "Selectaţi evenimentele pe care doriţi să le primiţi notificări pentru:"
     other_settings: Alte setări de notificări
   number:
     human:
@@ -1008,13 +1008,13 @@ ro:
           quadrillion: Î
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Introduceţi codul generat de aplicaţia dumneavoastră autentificator pentru a confirma
     description_html: Dacă activaţi <strong>autentificare cu factor</strong> folosind o aplicaţie autentificator, logarea va necesita să fiţi în posesia telefonului, care va genera jetoane pentru ca dumneavoastră să introduceţi.
     enable: Activare
     instructions_html: "<strong>Scanează acest cod QR în Google Authenticator sau o aplicație similară TOTP la telefon</strong>. De acum înainte, acea aplicaţie va genera jetoane pe care va trebui să le introduceţi la logarea."
-    manual_instructions: 'Dacă nu puteți scana codul QR și trebuie să-l introduceți manual, aici este secretul de text:'
+    manual_instructions: "Dacă nu puteți scana codul QR și trebuie să-l introduceți manual, aici este secretul de text:"
     setup: Setare
     wrong_code: Codul introdus a fost invalid! Este timpul de server şi timpul de dispozitiv corect?
   pagination:
@@ -1063,18 +1063,18 @@ ro:
     missing_resource: Nu a putut fi găsit URL-ul de redirecţionare necesar pentru contul dumneavoastră
     no_account_html: Nu aveţi un cont? Se poate <a href='%{sign_up_path}' target='_blank'>sign up aici</a>
     proceed: Continuaţi să urmăriţi
-    prompt: 'Urmeaza sa urmezi:'
+    prompt: "Urmeaza sa urmezi:"
     reason_html: "<strong>De ce este necesar acest pas?</strong> <code>%{instance}</code> s-ar putea să nu fie serverul unde sunteţi înregistrat, aşa că trebuie să vă redirecţionaţi mai întâi către serverul dumneavoastră de bază."
   remote_interaction:
     favourite:
       proceed: Continuaţi cu favoritul
-      prompt: 'Vrei să favoriţi acest toot:'
+      prompt: "Vrei să favoriţi acest toot:"
     reblog:
       proceed: Continuaţi să creşteţi
-      prompt: 'Doriţi să stimulaţi acest toot:'
+      prompt: "Doriţi să stimulaţi acest toot:"
     reply:
       proceed: Continuare la răspuns
-      prompt: 'Doriţi să răspundeţi la acest toot:'
+      prompt: "Doriţi să răspundeţi la acest toot:"
   scheduled_statuses:
     over_daily_limit: Aţi depăşit limita de %{limit} toots programate pentru acea zi
     over_total_limit: Aţi depăşit limita de %{limit} toots-uri programate
@@ -1150,7 +1150,7 @@ ro:
         one: "%{count} audio"
         few: "%{count} audio"
         other: "%{count} audio"
-      description: 'Ataşat: %{attached}'
+      description: "Ataşat: %{attached}"
       image:
         one: "%{count} imagine"
         few: "%{count} imagini"
@@ -1160,11 +1160,11 @@ ro:
         few: "%{count} videoclipuri"
         other: "%{count} videoclipuri"
     boosted_from_html: Amplificat de la %{acct_link}
-    content_warning: 'Avertisment de conţinut: %{warning}'
+    content_warning: "Avertisment de conţinut: %{warning}"
     disallowed_hashtags:
-      one: 'conţinea un hashtag nepermis: %{tags}'
-      few: 'conţinea hashtagurile nepermise: %{tags}'
-      other: 'conţinea hashtagurile nepermise: %{tags}'
+      one: "conţinea un hashtag nepermis: %{tags}"
+      few: "conţinea hashtagurile nepermise: %{tags}"
+      other: "conţinea hashtagurile nepermise: %{tags}"
     errors:
       in_reply_not_found: Starea pe care încercaţi să o răspundeţi nu pare să existe.
     language_detection: Detectare automată limbă
@@ -1314,9 +1314,9 @@ ro:
       subject: Arhiva dumneavoastră este gata pentru descărcare
       title: Arhivare preluare
     sign_in_token:
-      details: 'Iata detalii despre tentativa:'
-      explanation: 'Am detectat o încercare de a semna în contul dvs. de la o adresă IP nerecunoscută. Dacă acesta este, vă rugăm să introduceţi codul de securitate de mai jos în pagina de identificare a semnului:'
-      further_actions: 'Dacă acesta nu a fost dvs., vă rugăm să vă modificaţi parola şi să activaţi autentificarea cu doi factori pe contul dumneavoastră. Puteţi face acest lucru aici:'
+      details: "Iata detalii despre tentativa:"
+      explanation: "Am detectat o încercare de a semna în contul dvs. de la o adresă IP nerecunoscută. Dacă acesta este, vă rugăm să introduceţi codul de securitate de mai jos în pagina de identificare a semnului:"
+      further_actions: "Dacă acesta nu a fost dvs., vă rugăm să vă modificaţi parola şi să activaţi autentificarea cu doi factori pe contul dumneavoastră. Puteţi face acest lucru aici:"
       subject: Vă rugăm să confirmaţi încercarea de semnare
       title: Semnare în încercare
     warning:
@@ -1326,7 +1326,7 @@ ro:
         suspend: Contul dvs. a fost suspendat şi toate toots-ele şi fişierele dumneavoastră de mediu încărcate au fost înlăturate ireversibil de pe acest server şi serverele unde aţi avut adepţi.
       get_in_touch: Puteti raspunde la acest e-mail pentru a intra in legatura cu personalul de la %{instance}.
       review_server_policies: Examinare politici server
-      statuses: 'Concret, pentru:'
+      statuses: "Concret, pentru:"
       subject:
         disable: Contul dvs. %{acct} a fost îngheţat
         none: Avertisment pentru %{acct}
@@ -1342,7 +1342,7 @@ ro:
       edit_profile_step: Puteţi personaliza profilul dumneavoastră prin încărcarea unui avatar, antet, modificarea numelui de afişare şi mai mult. Dacă aţi dori să revedeţi noi adepţi înainte de a vă permite să vă urmaţi, vă puteţi bloca contul.
       explanation: Iata cateva sfaturi pentru a te determina sa
       final_action: Pornire postare
-      final_step: 'Pornire postare! Chiar şi fără followers mesajele dumneavoastră publice pot fi văzute de alţii, de exemplu pe timeline-ul local şi în hashtag-uri. Este posibil să doriţi să vă prezentaţi pe hashtag-ul #introductions .'
+      final_step: "Pornire postare! Chiar şi fără followers mesajele dumneavoastră publice pot fi văzute de alţii, de exemplu pe timeline-ul local şi în hashtag-uri. Este posibil să doriţi să vă prezentaţi pe hashtag-ul #introductions ."
       full_handle: Mânerul dumneavoastră complet
       full_handle_hint: Acesta este ceea ce v-ar spune prietenilor, astfel încât să poată mesaj sau să vă urmeze de la un alt server.
       review_preferences_action: Modificare preferinţe
@@ -1364,7 +1364,7 @@ ro:
     invalid_sign_in_token: Cod de securitate invalid
     otp_lost_help_html: Daca ati pierdut accesul la ambele, s-ar putea sa va intre in contact cu %{email}
     seamless_external_login: Sunteţi logat prin intermediul unui serviciu extern, aşa că parola şi setările de e-mail nu sunt disponibile.
-    signed_in_as: 'Semnat ca:'
+    signed_in_as: "Semnat ca:"
     suspicious_sign_in_confirmation: Vi se pare că nu v-aţi logat de la acest dispozitiv înainte, şi nu v-aţi logat pentru o vreme, deci trimitem un cod de securitate la adresa dvs. de e-mail pentru a confirma că este vorba de dumneavoastră.
   verification:
     explanation_html: 'Puteţi <strong>să vă verificaţi ca proprietar al legăturilor din metadatele profilului dumneavoastră</strong>. Pentru aceasta, site-ul web legat trebuie să conţină o legătură înapoi la profilul dvs. Chatterly. Legătura înapoi <strong>trebuie să aibă</strong> au un atribut de <code>rel="me "</code> . Conţinutul de text al legăturii nu contează. Iată un exemplu:'

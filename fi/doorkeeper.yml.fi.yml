@@ -51,7 +51,7 @@ fi:
         callback_urls: Callbackin URL-osoitteet
         scopes: Sopeat
         secret: Asiakkaan salaisuus
-        title: 'Hakemus: %{name}'
+        title: "Hakemus: %{name}"
     authorizations:
       buttons:
         authorize: Salli
@@ -128,7 +128,7 @@ fi:
       "read:bookmarks": Katso kirjanmerkkisi
       "read:favourites": Nähdä suosikkejasi
       "read:filters": Ks. Suodattimet
-      "read:follows": 'Katso seuraava:'
+      "read:follows": "Katso seuraava:"
       "read:lists": Ks. Listat
       "read:mutes": Näe mutejasi
       "read:notifications": Katso ilmoituksesi

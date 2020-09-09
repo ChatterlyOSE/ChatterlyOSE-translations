@@ -57,7 +57,7 @@ fi:
         domain: Tämä voi olla verkkoalueen nimi, joka näkyy sähköpostiosoitteessa, MX-tietue, jonka verkkoalue ratkaisee, tai IP-osoite, johon MX-tietue ratkaisee. Ne tarkistetaan, kun käyttäjä on ilmoittautunut, ja ilmoitukset hylätään.
         with_dns_records: Määritetyn verkkoalueen DNS-tietueiden selvitys yritetään tehdä, ja tulokset estyy myös
       featured_tag:
-        name: 'Saatat haluta käyttää yhtä näistä:'
+        name: "Saatat haluta käyttää yhtä näistä:"
       form_challenge:
         current_password: Saavutte turvatulle alueelle.
       imports:
@@ -65,7 +65,7 @@ fi:
       invite_request:
         text: Tämä auttaa meitä tarkistamaan hakemuksesi
       sessions:
-        otp: 'Anna puhelimeesi luoma kahden tekijän koodi tai käytä jotakin elvytyskoodistasi:'
+        otp: "Anna puhelimeesi luoma kahden tekijän koodi tai käytä jotakin elvytyskoodistasi:"
         webauthn: Jos se on USB-avain, varmista, että se lisätään ja, jos tarpeen, taputa sitä.
       tag:
         name: Voit vain muuttaa kasing kirjaimia, esimerkiksi tehdä siitä luettavampi
@@ -183,7 +183,7 @@ fi:
         name: Hashtag
         trendable: Salli tämän hashtagin esiintyä trendeissä
         usable: Voit käyttää tätä hashtagia
-    'no': 'Ei'
+    "no": "Ei"
     recommended: Suositeltava
     required:
       mark: "*"
@@ -191,4 +191,4 @@ fi:
     title:
       sessions:
         webauthn: Käytä yksi suojausavaimistasi
-    'yes': 'Kyllä'
+    "yes": "Kyllä"

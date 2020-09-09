@@ -51,7 +51,7 @@ ar:
         callback_urls: عناوين URL لاعادة الاتصال
         scopes: النطاقات
         secret: سرية الوحدة التابعة
-        title: 'التطبيق : %{name}'
+        title: "التطبيق : %{name}"
     authorizations:
       buttons:
         authorize: ترخيص

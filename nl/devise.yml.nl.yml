@@ -22,59 +22,59 @@ nl:
         explanation: U hebt een account gemaakt op %{host} met dit e-mailadres. U bent een klik verwijderd van het activeren van het. Als u dit niet was, negeer dan deze e-mail.
         explanation_when_pending: U hebt een uitnodiging aangevraagd voor %{host} met dit e-mailadres. Zodra u uw e-mailadres bevestigt, zullen wij uw aanvraag bekijken. U kunt zich aanmelden om uw gegevens te wijzigen of uw account te verwijderen, maar u hebt geen toegang tot de meeste functies totdat uw account is goedgekeurd. Als uw aanvraag wordt afgewezen, worden uw gegevens verwijderd, zodat er geen verdere actie van u vereist is. Als u dit niet was, negeer dan deze e-mail.
         extra_html: Controleer ook <a href="%{terms_path}">de regels van de server</a> en <a href="%{policy_path}">onze voorwaarden van service</a>.
-        subject: 'Chatterly: bevestigingsinstructies voor %{instance}'
+        subject: "Chatterly: bevestigingsinstructies voor %{instance}"
         title: E-mailadres verifiëren
       email_changed:
-        explanation: 'Het e-mailadres voor uw account wordt gewijzigd in:'
+        explanation: "Het e-mailadres voor uw account wordt gewijzigd in:"
         extra: Als u uw e-mail niet hebt gewijzigd, is het waarschijnlijk dat iemand toegang heeft gekregen tot uw account. Wijzig onmiddellijk uw wachtwoord of neem contact op met de serverbeheerder als u uw account hebt geblokkeerd.
-        subject: 'Chatterly: E-mail gewijzigd'
+        subject: "Chatterly: E-mail gewijzigd"
         title: Nieuw e-mailadres
       password_change:
         explanation: Het wachtwoord voor uw account is gewijzigd.
         extra: Als u uw wachtwoord niet hebt gewijzigd, is het waarschijnlijk dat iemand toegang heeft gekregen tot uw account. Wijzig onmiddellijk uw wachtwoord of neem contact op met de serverbeheerder als u uw account hebt geblokkeerd.
-        subject: 'Chatterly: Wachtwoord gewijzigd'
+        subject: "Chatterly: Wachtwoord gewijzigd"
         title: Wachtwoord gewijzigd
       reconfirmation_instructions:
         explanation: Bevestig het nieuwe adres om uw e-mail te wijzigen.
         extra: Als deze wijziging niet door u is geïnitieerd, kunt u deze e-mail negeren. Het e-mailadres voor de Chatterly-account wordt pas gewijzigd als u de bovenstaande link hebt geopend.
-        subject: 'Chatterly: E-mail bevestigen voor %{instance}'
+        subject: "Chatterly: E-mail bevestigen voor %{instance}"
         title: E-mailadres verifiëren
       reset_password_instructions:
         action: Wachtwoord wijzigen
         explanation: U hebt een nieuw wachtwoord voor uw account aangevraagd.
         extra: Als u dit niet hebt gevraagd, kunt u deze e-mail negeren. Uw wachtwoord zal niet veranderen totdat u de bovenstaande link opent en een nieuwe maakt.
-        subject: 'Chatterly: Wachtwoordeinstructies opnieuw instellen'
+        subject: "Chatterly: Wachtwoordeinstructies opnieuw instellen"
         title: Wachtwoord opnieuw instellen
       two_factor_disabled:
         explanation: Verificatie met twee factoren voor uw account is uitgeschakeld. Aanmelden is nu mogelijk met alleen e-mail adres en wachtwoord.
-        subject: 'Chatterly: verificatie met twee factoren is uitgeschakeld'
+        subject: "Chatterly: verificatie met twee factoren is uitgeschakeld"
         title: 2FA uitgeschakeld
       two_factor_enabled:
         explanation: Verificatie met twee factoren is ingeschakeld voor uw account. Een token gegenereerd door de gepaarde TOTP-app is vereist voor aanmelding.
-        subject: 'Chatterly: verificatie met twee factoren ingeschakeld'
+        subject: "Chatterly: verificatie met twee factoren ingeschakeld"
         title: 2FA ingeschakeld
       two_factor_recovery_codes_changed:
         explanation: De vorige herstelcodes zijn ongeldig gemaakt en er zijn nieuwe codes gegenereerd.
-        subject: 'Chatterly: Er zijn twee-factor herstelcodes opnieuw gegenereerd'
+        subject: "Chatterly: Er zijn twee-factor herstelcodes opnieuw gegenereerd"
         title: 2FA herstelcodes gewijzigd
       unlock_instructions:
-        subject: 'Chatterly: Instructies voor ontgrendelen'
+        subject: "Chatterly: Instructies voor ontgrendelen"
       webauthn_credential:
         added:
           explanation: De volgende beveiligingssleutel is toegevoegd aan uw account
-          subject: 'Chatterly: Nieuwe beveiligingssleutel'
+          subject: "Chatterly: Nieuwe beveiligingssleutel"
           title: Er is een nieuwe beveiligingssleutel toegevoegd
         deleted:
           explanation: De volgende beveiligingssleutel is verwijderd van uw account
-          subject: 'Chatterly: Beveiligingssleutel gewist'
+          subject: "Chatterly: Beveiligingssleutel gewist"
           title: Een van de beveiligingssleutels is gewist
       webauthn_disabled:
         explanation: Verificatie met beveiligingssleutels is uitgeschakeld voor uw account. Aanmelden is nu mogelijk met alleen het token dat is gegenereerd door de gepaarde TOTP-app.
-        subject: 'Chatterly: Verificatie met beveiligingssleutels uitgeschakeld'
+        subject: "Chatterly: Verificatie met beveiligingssleutels uitgeschakeld"
         title: Beveiligingssleutels uitgeschakeld
       webauthn_enabled:
         explanation: Verificatie van beveiligingssleutels is ingeschakeld voor uw account. Uw beveiligingssleutel kan nu worden gebruikt voor aanmelding.
-        subject: 'Chatterly: verificatie met beveiligingssleutel ingeschakeld'
+        subject: "Chatterly: verificatie met beveiligingssleutel ingeschakeld"
         title: Beveiligingssleutels ingeschakeld
     omniauth_callbacks:
       failure: Kon u niet verifiëren van %{kind} omdat "%{reason}".
@@ -110,5 +110,5 @@ nl:
       not_found: niet gevonden
       not_locked: is niet vergrendeld
       not_saved:
-        one: '1 fout verbood deze %{resource} om opgeslagen te worden:'
+        one: "1 fout verbood deze %{resource} om opgeslagen te worden:"
         other: "%{count} fouten verboden om deze %{resource} te worden opgeslagen:"

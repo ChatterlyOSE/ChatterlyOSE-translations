@@ -57,7 +57,7 @@ zh-TW:
         domain: 這可以是在電子郵件位址中顯示的網域名稱，網域解析為的 MX 記錄，或 MX 記錄解析為之伺服器的 IP 。 這些將會在使用者註冊後檢查，而註冊將被拒絕。
         with_dns_records: 嘗試解析給定的網域的 DNS 記錄，而結果也會被封鎖
       featured_tag:
-        name: '您可能想要使用下列其中一項：'
+        name: "您可能想要使用下列其中一項："
       form_challenge:
         current_password: 您正進入一個安全區域
       imports:
@@ -65,7 +65,7 @@ zh-TW:
       invite_request:
         text: 這將協助我們檢閱您的應用程式
       sessions:
-        otp: '輸入您的電話應用程式所產生的兩個因素程式碼，或使用您的其中一個回復碼：'
+        otp: "輸入您的電話應用程式所產生的兩個因素程式碼，或使用您的其中一個回復碼："
         webauthn: 如果它是 USB 金鑰，請務必插入它，必要的話，請點選它。
       tag:
         name: 您只能變更字母的大小寫，例如，讓它更容易閱讀
@@ -183,7 +183,7 @@ zh-TW:
         name: 雜湊標籤
         trendable: 容許此雜湊標籤出現在趨勢下
         usable: 容許 toots 使用此雜湊標籤
-    'no': '沒有'
+    "no": "沒有"
     recommended: 建議的
     required:
       mark: "*"
@@ -191,4 +191,4 @@ zh-TW:
     title:
       sessions:
         webauthn: 使用您的其中一個安全金鑰來登入
-    'yes': '是的'
+    "yes": "是的"

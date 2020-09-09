@@ -24,11 +24,11 @@ es:
         edit: Editar
         submit: Presentar
       confirmations:
-        destroy: '¿Está seguro?'
+        destroy: "¿Está seguro?"
       edit:
         title: Editar aplicación
       form:
-        error: '¡Puta! Compruebe su formulario para detectar posibles errores'
+        error: "¡Puta! Compruebe su formulario para detectar posibles errores"
       help:
         native_redirect_uri: Use %{native_redirect_uri} para pruebas locales
         redirect_uri: Utilizar una línea por URI
@@ -51,7 +51,7 @@ es:
         callback_urls: URL de devolución
         scopes: Ámbitos
         secret: Secreto de cliente
-        title: 'Solicitud: %{name}'
+        title: "Solicitud: %{name}"
     authorizations:
       buttons:
         authorize: Autorizar
@@ -68,7 +68,7 @@ es:
       buttons:
         revoke: Revocación
       confirmations:
-        revoke: '¿Está seguro?'
+        revoke: "¿Está seguro?"
       index:
         application: Solicitud
         created_at: Autorizado

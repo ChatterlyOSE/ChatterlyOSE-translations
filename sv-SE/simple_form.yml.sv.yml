@@ -57,7 +57,7 @@ sv:
         domain: Detta kan vara det domännamn som visas i e-postadressen, den MX-post som domänen tolkas till eller IP-adressen för den server som MX-posten löser till. Dessa kommer att kontrolleras när användaren har påloggningen och påloggningen kommer att avslås.
         with_dns_records: Ett försök att lösa den angivna domänens DNS-poster kommer att utföras, och resultaten kommer också att blockeras
       featured_tag:
-        name: 'Du kanske vill använda något av följande:'
+        name: "Du kanske vill använda något av följande:"
       form_challenge:
         current_password: Du går in i ett säkert område.
       imports:
@@ -65,7 +65,7 @@ sv:
       invite_request:
         text: Detta kommer att hjälpa oss att granska din applikation
       sessions:
-        otp: 'Ange den tvåfaktorskod som genererats av din telefonapp eller använd en av dina återställningskoder:'
+        otp: "Ange den tvåfaktorskod som genererats av din telefonapp eller använd en av dina återställningskoder:"
         webauthn: Om det är en USB-nyckel ska du sätta in den och, om det behövs, knacka på den.
       tag:
         name: Du kan bara ändra bokstäverna, t.ex. för att göra den mer läsbar.
@@ -183,7 +183,7 @@ sv:
         name: Hashtagg
         trendable: Tillåt att den här hashtaggen visas under trender
         usable: Tillåt toots att använda den här hashtaggen
-    'no': 'Nej.'
+    "no": "Nej."
     recommended: Rekommenderas
     required:
       mark: "*"
@@ -191,4 +191,4 @@ sv:
     title:
       sessions:
         webauthn: Använd en av dina säkerhetsnycklar för att logga in
-    'yes': 'Ja, ja.'
+    "yes": "Ja, ja."

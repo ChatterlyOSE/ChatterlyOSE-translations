@@ -1,11 +1,11 @@
 cs:
   about:
-    about_hashtag_html: 'Jedná se o veřejné soubory toots označené s <strong>#%{hashtag}</strong>. Můžete s nimi pracovat, pokud máte účet kdekoli v chatce-verš.'
-    about_mastodon_html: 'Sociální síť budoucnosti: žádný firemní dohled, etický design a decentralizace! Vlastní data s Chatterlym!'
+    about_hashtag_html: "Jedná se o veřejné soubory toots označené s <strong>#%{hashtag}</strong>. Můžete s nimi pracovat, pokud máte účet kdekoli v chatce-verš."
+    about_mastodon_html: "Sociální síť budoucnosti: žádný firemní dohled, etický design a decentralizace! Vlastní data s Chatterlym!"
     about_this: O aplikaci
     active_count_after: aktivní
     active_footnote: Měsíční aktivní uživatelé (MAU)
-    administered_by: 'Administruje:'
+    administered_by: "Administruje:"
     api: API
     apps: Mobilní aplikace
     apps_platforms: Stáhněte si aplikaci Chatterly pro PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ cs:
     learn_more: Další informace
     privacy_policy: Ochrana osobních údajů
     see_whats_happening: Podívej, co se děje.
-    server_stats: 'Statistiky serveru:'
+    server_stats: "Statistiky serveru:"
     source_code: Zdrojový kód
     status_count_after:
       one: stav
@@ -40,11 +40,11 @@ cs:
     unavailable_content_description:
       domain: Server.
       reason: Odůvodnění
-      rejecting_media: 'Soubory médií z těchto serverů nebudou zpracovány ani uloženy a nebudou zobrazeny žádné miniatury, které vyžadují ruční klepnutí na původní soubor:'
+      rejecting_media: "Soubory médií z těchto serverů nebudou zpracovány ani uloženy a nebudou zobrazeny žádné miniatury, které vyžadují ruční klepnutí na původní soubor:"
       rejecting_media_title: Filtrovaná média
-      silenced: 'Příspěvky z těchto serverů budou skryty ve veřejných časových osách a konverzacích a žádná oznámení nebudou generována z interakcí jejich uživatelů, pokud nesledujete tyto servery:'
+      silenced: "Příspěvky z těchto serverů budou skryty ve veřejných časových osách a konverzacích a žádná oznámení nebudou generována z interakcí jejich uživatelů, pokud nesledujete tyto servery:"
       silenced_title: Servery Silenced
-      suspended: 'Žádná data z těchto serverů nebudou zpracována, ukládána ani vyměňována, takže žádné interakce nebo komunikace s uživateli z těchto serverů nebudou možné:'
+      suspended: "Žádná data z těchto serverů nebudou zpracována, ukládána ani vyměňována, takže žádné interakce nebo komunikace s uživateli z těchto serverů nebudou možné:"
       suspended_title: Pozastavené servery
     unavailable_content_html: Chatterly obecně umožňuje prohlížet obsah a pracovat s uživateli z libovolného jiného serveru v různorodé. Jedná se o výjimky, které byly provedeny na tomto konkrétním serveru.
     user_count_after:
@@ -480,7 +480,7 @@ cs:
           few: "%{count} sestav"
           many: "%{count} sestav"
           other: "%{count} sestav"
-      action_taken_by: 'Akce provedená uživatelem:'
+      action_taken_by: "Akce provedená uživatelem:"
       are_you_sure: Jsi si jistý?
       assign_to_self: Přiřadit mně
       assigned: Přiřazení moderátor
@@ -497,7 +497,7 @@ cs:
         delete: Odstranit
         placeholder: Popište, jaké akce byly provedeny, nebo jakékoli jiné související aktualizace ...
       reopen: Znovu otevřít sestavu
-      report: 'Sestava č.%{id}'
+      report: "Sestava č.%{id}"
       reported_account: Ohlášený účet
       reported_by: Hlásil
       resolved: Vyřešený
@@ -646,10 +646,10 @@ cs:
     new_report:
       body: "%{reporter} nahlásil %{target}"
       body_remote: Někdo z %{domain} nahlásil %{target}
-      subject: 'Nová sestava pro %{instance} (#%{id})'
+      subject: "Nová sestava pro %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Značka hashtag #%{name} má trendování dnes, ale dosud nebyla přezkoumána. Nezobrazí se veřejně, pokud to nepovolíte nebo jen uložíte formulář, protože o něm již nikdy neslyšíte.'
-      subject: 'Nová hashtag až pro revizi na %{instance} (#%{name})'
+      body: "Značka hashtag #%{name} má trendování dnes, ale dosud nebyla přezkoumána. Nezobrazí se veřejně, pokud to nepovolíte nebo jen uložíte formulář, protože o něm již nikdy neslyšíte."
+      subject: "Nová hashtag až pro revizi na %{instance} (#%{name})"
   aliases:
     add_new: Vytvořit alias
     created_msg: Nový alias byl úspěšně vytvořen. Nyní můžete zahájit přesun ze starého účtu.
@@ -659,7 +659,7 @@ cs:
     remove: Zrušit odkaz na alias
   appearance:
     advanced_web_interface: Rozšířené webové rozhraní
-    advanced_web_interface_hint: 'Chcete-li využít celou šířku obrazovky, rozšířené webové rozhraní vám umožní konfigurovat mnoho různých sloupců a zobrazit tak informace ve stejnou dobu, jakou chcete: Domů, oznámení, federovaná časová osa, libovolný počet seznamů a značek hashtag.'
+    advanced_web_interface_hint: "Chcete-li využít celou šířku obrazovky, rozšířené webové rozhraní vám umožní konfigurovat mnoho různých sloupců a zobrazit tak informace ve stejnou dobu, jakou chcete: Domů, oznámení, federovaná časová osa, libovolný počet seznamů a značek hashtag."
     animations_and_accessibility: Animace a usnadnění přístupu
     confirmation_dialogs: Kontextová dialogová okna
     discovery: Objevení
@@ -672,8 +672,8 @@ cs:
   application_mailer:
     notification_preferences: Změnit předvolby e-mailu
     salutation: "%{name},"
-    settings: 'Změnit předvolby e-mailu: %{link}'
-    view: 'Zobrazení:'
+    settings: "Změnit předvolby e-mailu: %{link}"
+    view: "Zobrazení:"
     view_profile: Zobrazit profil
     view_status: Zobrazit stav
   applications:
@@ -732,8 +732,8 @@ cs:
     already_requested: Na tento účet jste již odeslali následující požadavek
     error: Bohužel, došlo k chybě při hledání vzdáleného účtu
     follow: Sledovat
-    follow_request: 'Odeslali jste následující požadavek na:'
-    following: 'Úspěch! Nyní sledujete:'
+    follow_request: "Odeslali jste následující požadavek na:"
+    following: "Úspěch! Nyní sledujete:"
     post_follow:
       close: Nebo můžete toto okno zavřít.
       return: Zobrazit profil uživatele
@@ -773,7 +773,7 @@ cs:
     proceed: Odstranit účet
     success_msg: Váš účet byl úspěšně odstraněn
     warning:
-      before: 'Než budete pokračovat, přečtěte si pozorně tyto poznámky:'
+      before: "Než budete pokračovat, přečtěte si pozorně tyto poznámky:"
       caches: Obsah, který byl uložen do mezipaměti jinými servery, může být zachován.
       data_removal: Vaše příspěvky a další data budou trvale odebrána.
       email_change_html: You can <a href="%{path}">change your e-mail address</a> without deleting your account
@@ -790,19 +790,19 @@ cs:
   domain_validator:
     invalid_domain: není platný název domény
   errors:
-    '400': Požadavek, který jste zadali, byl neplatný nebo chybný.
-    '403': Nemáte oprávnění k zobrazení této stránky.
-    '404': Myslím, že jste se spletli, nic tu není.
-    '406': Tato stránka není k dispozici v požadovaném formátu.
-    '410': Máme problém v Houstonu, stránka je pryč.
-    '422':
+    "400": Požadavek, který jste zadali, byl neplatný nebo chybný.
+    "403": Nemáte oprávnění k zobrazení této stránky.
+    "404": Myslím, že jste se spletli, nic tu není.
+    "406": Tato stránka není k dispozici v požadovaném formátu.
+    "410": Máme problém v Houstonu, stránka je pryč.
+    "422":
       content: Ověření zabezpečení se nezdařilo. Blokujete sušenky?
       title: Ověření zabezpečení se nezdařilo
-    '429': Příliš mnoho požadavků
-    '500':
+    "429": Příliš mnoho požadavků
+    "500":
       content: Omlouváme se, ale něco se pokazilo na našem konci. Byli jsme informováni o této chybě a pracujeme na jeho řešení.
       title: Tato stránka není správná
-    '503': Omlouváme se, zdá se, že se setkáváme s vysokým zatížením serveru. Snažíme se to vyřešit co nejdříve.
+    "503": Omlouváme se, zdá se, že se setkáváme s vysokým zatížením serveru. Snažíme se to vyřešit co nejdříve.
     noscript_html: Chcete-li používat funkci Chatterly, povolte JavaScript. Případně zkuste jeden z nativních aplikací <a href="%{apps_path}">pro modul Chatterly Mobile pro vaši platformu:</a>.
   existing_username_validator:
     not_found: lokální uživatel s tímto jménem uživatele nebyl nalezen.
@@ -863,7 +863,7 @@ cs:
       many: Něco ještě není v pořádku! Přezkoumejte, prosím, chyby %{count} níže
       other: Něco ještě není v pořádku! Přezkoumejte, prosím, chyby %{count} níže
   html_validator:
-    invalid_markup: 'obsahuje neplatný markup HTML: %{error}'
+    invalid_markup: "obsahuje neplatný markup HTML: %{error}"
   identity_proofs:
     active: Aktivní.
     authorize: Ano, autorizovat
@@ -878,8 +878,8 @@ cs:
     i_am_html: I am %{username} on %{service}.
     identity: Identita
     inactive: Neaktivní
-    publicize_checkbox: 'A zatoč tohle:'
-    publicize_toot: 'Je to dokázáno! I am %{username} on %{service}: %{url}'
+    publicize_checkbox: "A zatoč tohle:"
+    publicize_toot: "Je to dokázáno! I am %{username} on %{service}: %{url}"
     remove: Odebrat důkaz z účtu
     removed: Důkaz z účtu byl úspěšně odebrán
     status: Stav verifikace
@@ -903,15 +903,15 @@ cs:
     delete: Deaktivace
     expired: Vypršení platnosti
     expires_in:
-      '1800': 30 minut
-      '21600': 6 hodin
-      '3600': 1 hodina
-      '43200': 12 hodin
-      '604800': 1 týden
-      '86400': 1 den
+      "1800": 30 minut
+      "21600": 6 hodin
+      "3600": 1 hodina
+      "43200": 12 hodin
+      "604800": 1 týden
+      "86400": 1 den
     expires_in_prompt: Nikdy
     generate: Generovat odkaz na pozvání
-    invited_by: 'Byli jste pozváni:'
+    invited_by: "Byli jste pozváni:"
     max_uses:
       one: 1 použití
       few: "%{count} používá"
@@ -955,7 +955,7 @@ cs:
     set_redirect: Nastavit přesměrování
     warning:
       backreference_required: Nový účet musí být nejprve nakonfigurován tak, aby se vrátil-odkaz na tento
-      before: 'Než budete pokračovat, přečtěte si pozorně tyto poznámky:'
+      before: "Než budete pokračovat, přečtěte si pozorně tyto poznámky:"
       cooldown: Po přesunu je to cooldown období, během kterého nebudete moci znovu pohybovat
       disabled_account: Váš aktuální účet nebude poté plně použitelný. Budete však mít přístup k exportním datům i k opětovné aktivaci.
       followers: Tato akce přesune všechny sledovatele z aktuálního účtu na nový účet
@@ -967,7 +967,7 @@ cs:
   move_handler:
     carry_blocks_over_text: Tento uživatel se přesunul z %{acct}, které jste blokovali.
     carry_mutes_over_text: Tento uživatel se přesunul z %{acct}, které jste umlčovali.
-    copy_account_note_text: 'Tento uživatel se přesunul z %{acct}, zde byly vaše předchozí poznámky o nich:'
+    copy_account_note_text: "Tento uživatel se přesunul z %{acct}, zde byly vaše předchozí poznámky o nich:"
   notification_mailer:
     digest:
       action: Zobrazit všechna oznámení
@@ -985,7 +985,7 @@ cs:
         other: "%{count} new notifications since your last visit \U0001F418"
       title: V tvé nepřítomnosti ...
     favourite:
-      body: 'Váš stav byl oblíben do %{name}:'
+      body: "Váš stav byl oblíben do %{name}:"
       subject: "%{name} Oblíbený váš stav"
       title: Nová oblíbená
     follow:
@@ -995,20 +995,20 @@ cs:
     follow_request:
       action: Spravovat následné požadavky
       body: "%{name} vás požádal o sledování"
-      subject: 'Počet nevyřízených následovníků: %{name}'
+      subject: "Počet nevyřízených následovníků: %{name}"
       title: Nový následující požadavek
     mention:
       action: Odpovědět
-      body: 'Zmínil jste se o %{name} v:'
+      body: "Zmínil jste se o %{name} v:"
       subject: Zmínil jste se o %{name}
       title: Nová zmínka
     reblog:
-      body: 'Váš stav byl posílen o %{name}:'
+      body: "Váš stav byl posílen o %{name}:"
       subject: "%{name} posílil váš stav"
       title: Nový impuls
   notifications:
     email_events: Události pro e-mailová oznámení
-    email_events_hint: 'Vyberte události, pro které chcete přijímat oznámení:'
+    email_events_hint: "Vyberte události, pro které chcete přijímat oznámení:"
     other_settings: Další nastavení oznámení
   number:
     human:
@@ -1020,13 +1020,13 @@ cs:
           quadrillion: OTÁZKA
           thousand: K
           trillion: Ú
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Zadejte kód generovaný aplikací ověřovatele k potvrzení
     description_html: If you enable <strong>two-factor authentication</strong> using an authenticator app, logging in will require you to be in possession of your phone, which will generate tokens for you to enter.
     enable: Povolit
     instructions_html: "<strong>Naskenujte tento kód QR na Google Authenticator nebo podobnou aplikaci TOTP na telefonu</strong>. Od této chvíle bude aplikace generovat tokeny, které budete muset zadat při přihlášení."
-    manual_instructions: 'Pokud nemůžete skenovat kód QR a musíte jej zadat ručně, zde je tajná tajná otázka:'
+    manual_instructions: "Pokud nemůžete skenovat kód QR a musíte jej zadat ručně, zde je tajná tajná otázka:"
     setup: Nastavit
     wrong_code: Zadaný kód je neplatný! Jsou čas serveru a zařízení správné?
   pagination:
@@ -1075,18 +1075,18 @@ cs:
     missing_resource: Nebyla nalezena požadovaná adresa URL přesměrování pro váš účet
     no_account_html: Nemáte účet? Sem můžete podepsat <a href='%{sign_up_path}' target='_blank'>, zde</a>.
     proceed: Pokračujte následujícím postupem
-    prompt: 'Budete následovat:'
+    prompt: "Budete následovat:"
     reason_html: "<strong>Proč je tento krok nutný?</strong> <code>%{instance}</code> nemusí být server, na kterém jste registrováni, takže je třeba nejprve přesměrovat vás na váš domovský server."
   remote_interaction:
     favourite:
       proceed: Pokračovat k oblíbeným
-      prompt: 'Chceš ho mít ráda.'
+      prompt: "Chceš ho mít ráda."
     reblog:
       proceed: Pokračovat na upřednostnění
-      prompt: 'Chcete zvýšit tuto hodnotu toot:'
+      prompt: "Chcete zvýšit tuto hodnotu toot:"
     reply:
       proceed: Pokračovat k odpovědi
-      prompt: 'Chcete-li odpovědět na tento toot:'
+      prompt: "Chcete-li odpovědět na tento toot:"
   scheduled_statuses:
     over_daily_limit: Překročili jste limit %{limit} plánovaných toots na tento den
     over_total_limit: You have exceeded the limit of %{limit} scheduled toots
@@ -1163,7 +1163,7 @@ cs:
         few: "%{count} audio"
         many: "%{count} audio"
         other: "%{count} audio"
-      description: 'Připojený: %{attached}'
+      description: "Připojený: %{attached}"
       image:
         one: "%{count} obraz"
         few: "%{count} obrázků"
@@ -1175,12 +1175,12 @@ cs:
         many: "%{count} Videa"
         other: "%{count} Videa"
     boosted_from_html: Zaostněné od %{acct_link}
-    content_warning: 'Varování obsahu: %{warning}'
+    content_warning: "Varování obsahu: %{warning}"
     disallowed_hashtags:
-      one: 'obsahovala nepovolenou značku hashtag: %{tags}'
-      few: 'obsahuje nepovolené hašovací značky: %{tags}'
-      many: 'obsahuje nepovolené hašovací značky: %{tags}'
-      other: 'obsahuje nepovolené hašovací značky: %{tags}'
+      one: "obsahovala nepovolenou značku hashtag: %{tags}"
+      few: "obsahuje nepovolené hašovací značky: %{tags}"
+      many: "obsahuje nepovolené hašovací značky: %{tags}"
+      other: "obsahuje nepovolené hašovací značky: %{tags}"
     errors:
       in_reply_not_found: Stav, na který se pokoušíte odpovědět, se nezdá, že by existoval.
     language_detection: Automaticky detekovat jazyk
@@ -1332,9 +1332,9 @@ cs:
       subject: Váš archiv je připraven ke stažení
       title: Zalétnutí archivu
     sign_in_token:
-      details: 'Níže jsou uvedeny podrobnosti o pokusu:'
-      explanation: 'Zjistili jsme pokus o přihlášení k vašemu účtu z nerozpoznané adresy IP. Pokud jste to vy, zadejte prosím níže uvedený bezpečnostní kód na přihlašovací stránce:'
-      further_actions: 'Pokud ano, změňte prosím své heslo a povolte dvoufaktorové ověření na svém účtu. Můžete to udělat zde:'
+      details: "Níže jsou uvedeny podrobnosti o pokusu:"
+      explanation: "Zjistili jsme pokus o přihlášení k vašemu účtu z nerozpoznané adresy IP. Pokud jste to vy, zadejte prosím níže uvedený bezpečnostní kód na přihlašovací stránce:"
+      further_actions: "Pokud ano, změňte prosím své heslo a povolte dvoufaktorové ověření na svém účtu. Můžete to udělat zde:"
       subject: Potvrďte prosím pokus o přihlášení
       title: Pokus o přihlášení
     warning:
@@ -1344,7 +1344,7 @@ cs:
         suspend: Váš účet byl pozastaven a všechny vaše soubory toots a odeslané soubory médií byly nevratně odebrány z tohoto serveru a servery, na kterých jste měli následovníky.
       get_in_touch: Můžete odpovědět na tento e-mail, abyste se mohli dostat do kontaktu s personálem %{instance}.
       review_server_policies: Přehled zásad serveru
-      statuses: 'Konkrétně pro:'
+      statuses: "Konkrétně pro:"
       subject:
         disable: Váš účet %{acct} byl zmrazen
         none: Varování pro %{acct}
@@ -1360,7 +1360,7 @@ cs:
       edit_profile_step: Profil můžete upravit odesláním avatara, záhlaví, změny zobrazovaného názvu a dalších. Pokud chcete přezkoumat nové následovníky dříve, než budou moci sledovat vás, můžete zamknout svůj účet.
       explanation: Zde je několik tipů, jak začít
       final_action: Zahájit odesílání
-      final_step: 'Zahájení vysílání! I bez následovníků mohou vaše veřejné zprávy vidět jiní uživatelé, například na místní časové ose a v hashtacích. Možná se budete chtít seznámit se značkou hashtag #introductions .'
+      final_step: "Zahájení vysílání! I bez následovníků mohou vaše veřejné zprávy vidět jiní uživatelé, například na místní časové ose a v hashtacích. Možná se budete chtít seznámit se značkou hashtag #introductions ."
       full_handle: Váš úplný úchyt
       full_handle_hint: Toto je to, co byste řekli svým přátelům, aby mohli zprávu nebo následujte na jiném serveru.
       review_preferences_action: Změnit předvolby
@@ -1382,7 +1382,7 @@ cs:
     invalid_sign_in_token: Neplatný kód zabezpečení
     otp_lost_help_html: Pokud ztratíte přístup k oběma, můžete se dostat do kontaktu s %{email}
     seamless_external_login: Jste přihlášeni prostřednictvím externí služby, takže heslo a nastavení e-mailu nejsou k dispozici.
-    signed_in_as: 'Podepsáno jako:'
+    signed_in_as: "Podepsáno jako:"
     suspicious_sign_in_confirmation: Zdá se, že jste se nepřihlásili z tohoto zařízení dříve a ještě jste se nepřihlásili, takže vám posíláme bezpečnostní kód na vaši e-mailovou adresu, abyste potvrdili, že jste to vy.
   verification:
     explanation_html: 'Můžete použít <strong>sami sebe jako vlastníka odkazů ve vašem profilu-metadata</strong>. Z toho důvodu musí propojená webová stránka obsahovat odkaz zpět na váš Chatterly profile. Odkaz zpět <strong>musí mít hodnotu</strong> pro atribut <code>rel="me "</code> . Obsah textu odkazu není důležitý. Zde je uveden příklad:'

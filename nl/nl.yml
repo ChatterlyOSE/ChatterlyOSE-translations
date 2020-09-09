@@ -1,11 +1,11 @@
 nl:
   about:
-    about_hashtag_html: 'Dit zijn openbare toots gelabeld met <strong>#%{hashtag}</strong>. U kunt met hen communiceren als u ergens in het chatter-vers een account hebt.'
-    about_mastodon_html: 'Het sociale netwerk van de toekomst: Geen bedrijfsbewaking, ethisch ontwerp en decentralisatie! Bezit uw gegevens met Chatterly!'
+    about_hashtag_html: "Dit zijn openbare toots gelabeld met <strong>#%{hashtag}</strong>. U kunt met hen communiceren als u ergens in het chatter-vers een account hebt."
+    about_mastodon_html: "Het sociale netwerk van de toekomst: Geen bedrijfsbewaking, ethisch ontwerp en decentralisatie! Bezit uw gegevens met Chatterly!"
     about_this: Info
     active_count_after: actief
     active_footnote: Maandelijks actieve gebruikers (MAU)
-    administered_by: 'Toegediend door:'
+    administered_by: "Toegediend door:"
     api: API
     apps: Mobiele apps
     apps_platforms: Download de Chatterly-app voor PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ nl:
     learn_more: Meer informatie
     privacy_policy: Privacybeleid
     see_whats_happening: Kijk wat er gebeurt.
-    server_stats: 'Serverstatistieken:'
+    server_stats: "Serverstatistieken:"
     source_code: Broncode
     status_count_after:
       one: status
@@ -38,11 +38,11 @@ nl:
     unavailable_content_description:
       domain: Server
       reason: Reden
-      rejecting_media: 'Mediabestanden van deze servers worden niet verwerkt of opgeslagen, en er worden geen miniaturen afgebeeld, waarbij handmatig op het oorspronkelijke bestand moet worden geklikt:'
+      rejecting_media: "Mediabestanden van deze servers worden niet verwerkt of opgeslagen, en er worden geen miniaturen afgebeeld, waarbij handmatig op het oorspronkelijke bestand moet worden geklikt:"
       rejecting_media_title: Gefilterde media
-      silenced: 'Berichten van deze servers worden verborgen in openbare tijdlijnen en conversaties, en er worden geen meldingen gegenereerd uit de interacties van hun gebruikers, tenzij u ze volgt:'
+      silenced: "Berichten van deze servers worden verborgen in openbare tijdlijnen en conversaties, en er worden geen meldingen gegenereerd uit de interacties van hun gebruikers, tenzij u ze volgt:"
       silenced_title: Geluiddempservers
-      suspended: 'Geen gegevens van deze servers worden verwerkt, opgeslagen of uitgewisseld, waardoor interactie of communicatie met gebruikers van deze servers onmogelijk wordt:'
+      suspended: "Geen gegevens van deze servers worden verwerkt, opgeslagen of uitgewisseld, waardoor interactie of communicatie met gebruikers van deze servers onmogelijk wordt:"
       suspended_title: Onderbroken servers
     unavailable_content_html: In het algemeen kunt u in het algemeen content bekijken en interactief werken met gebruikers van andere servers in de feVarious. Dit zijn de uitzonderingen die op deze specifieke server zijn gemaakt.
     user_count_after:
@@ -481,7 +481,7 @@ nl:
         delete: Wissen
         placeholder: Beschrijf welke acties zijn ondernomen of andere gerelateerde updates ...
       reopen: Rapport opnieuw openen
-      report: 'Rapport #%{id}'
+      report: "Rapport #%{id}"
       reported_account: Gerapporteerde rekening
       reported_by: Gerapporteerd door
       resolved: Opgelost
@@ -630,10 +630,10 @@ nl:
     new_report:
       body: "%{reporter} heeft gemeld %{target}"
       body_remote: Iemand van %{domain} heeft gemeld %{target}
-      subject: 'Nieuw rapport voor %{instance} (#%{id})'
+      subject: "Nieuw rapport voor %{instance} (#%{id})"
     new_trending_tag:
-      body: 'De hashtag #%{name} is vandaag trending, maar is niet eerder beoordeeld. Het zal niet openbaar worden weergegeven tenzij u het toestaat, of gewoon opslaan van de vorm als het is om nooit meer te horen over het opnieuw.'
-      subject: 'Nieuwe hashtag up voor review op %{instance} (#%{name})'
+      body: "De hashtag #%{name} is vandaag trending, maar is niet eerder beoordeeld. Het zal niet openbaar worden weergegeven tenzij u het toestaat, of gewoon opslaan van de vorm als het is om nooit meer te horen over het opnieuw."
+      subject: "Nieuwe hashtag up voor review op %{instance} (#%{name})"
   aliases:
     add_new: Alias maken
     created_msg: Er is een nieuwe alias gemaakt. U kunt nu de verplaatsing van het oude account starten.
@@ -643,7 +643,7 @@ nl:
     remove: Alias ontkoppelen
   appearance:
     advanced_web_interface: Geavanceerde webinterface
-    advanced_web_interface_hint: 'Als u gebruik wilt maken van uw volledige schermbreedte, kunt u met de geavanceerde webinterface veel verschillende kolommen configureren om zo veel mogelijk informatie te zien op hetzelfde moment als u wilt: Thuis, meldingen, federatieve tijdlijn, aantal lijsten en hashtags.'
+    advanced_web_interface_hint: "Als u gebruik wilt maken van uw volledige schermbreedte, kunt u met de geavanceerde webinterface veel verschillende kolommen configureren om zo veel mogelijk informatie te zien op hetzelfde moment als u wilt: Thuis, meldingen, federatieve tijdlijn, aantal lijsten en hashtags."
     animations_and_accessibility: Animaties en toegankelijkheid
     confirmation_dialogs: Bevestigingsvensters
     discovery: Opsporing
@@ -656,8 +656,8 @@ nl:
   application_mailer:
     notification_preferences: E-mailvoorkeuren wijzigen
     salutation: "%{name},"
-    settings: 'E-mail voorkeuren wijzigen: %{link}'
-    view: 'Bekijken:'
+    settings: "E-mail voorkeuren wijzigen: %{link}"
+    view: "Bekijken:"
     view_profile: Profiel bekijken
     view_status: Status bekijken
   applications:
@@ -716,8 +716,8 @@ nl:
     already_requested: U hebt al een volgaanvraag verzonden naar dat account
     error: Helaas is er een fout opgetreden bij het opzoeken van de account op afstand
     follow: Volgen
-    follow_request: 'U hebt een volgende aanvraag verzonden naar:'
-    following: 'Geslaagd! U volgt nu:'
+    follow_request: "U hebt een volgende aanvraag verzonden naar:"
+    following: "Geslaagd! U volgt nu:"
     post_follow:
       close: U kunt dit venster sluiten.
       return: Het profiel van de gebruiker afbeelden
@@ -757,7 +757,7 @@ nl:
     proceed: Account wissen
     success_msg: Uw account is gewist
     warning:
-      before: 'Voordat u verder gaat, leest u deze aantekeningen zorgvuldig:'
+      before: "Voordat u verder gaat, leest u deze aantekeningen zorgvuldig:"
       caches: Content die door andere servers in de cache is opgeslagen, kan blijven bestaan
       data_removal: Uw berichten en andere gegevens worden permanent verwijderd
       email_change_html: U kunt <a href="%{path}">uw e-mail adres</a> wijzigen zonder uw account te verwijderen
@@ -774,19 +774,19 @@ nl:
   domain_validator:
     invalid_domain: is geen geldige domeinnaam
   errors:
-    '400': De aanvraag die u hebt ingediend, is ongeldig of onjuist geformuleerd.
-    '403': U bent niet gemachtigd om deze pagina te bekijken.
-    '404': Ik denk dat je een verkeerde afslag hebt genomen, er is hier niets.
-    '406': Deze pagina is niet beschikbaar in de aangevraagde indeling.
-    '410': We hebben een probleem Houston, de pagina is weg.
-    '422':
+    "400": De aanvraag die u hebt ingediend, is ongeldig of onjuist geformuleerd.
+    "403": U bent niet gemachtigd om deze pagina te bekijken.
+    "404": Ik denk dat je een verkeerde afslag hebt genomen, er is hier niets.
+    "406": Deze pagina is niet beschikbaar in de aangevraagde indeling.
+    "410": We hebben een probleem Houston, de pagina is weg.
+    "422":
       content: Beveiligingscontrole is mislukt. Blokkerende je koekjes?
       title: Beveiligingscontrole is mislukt
-    '429': Te veel aanvragen
-    '500':
+    "429": Te veel aanvragen
+    "500":
       content: Het spijt ons, maar er is iets mis gegaan. We zijn op de hoogte van deze fout en werken aan het oplossen ervan.
       title: Deze pagina is onjuist
-    '503': Het spijt ons, we hebben last van hoge serverbelasting. We zijn aan het werk om dit zo snel mogelijk op te lossen.
+    "503": Het spijt ons, we hebben last van hoge serverbelasting. We zijn aan het werk om dit zo snel mogelijk op te lossen.
     noscript_html: Als u de optie Chatterly wilt gebruiken, schakelt u JavaScript in. U kunt ook een van de <a href="%{apps_path}">native apps</a> proberen voor Chatterly Mobile voor uw platform.
   existing_username_validator:
     not_found: kan geen lokale gebruiker vinden met die gebruikersnaam
@@ -845,7 +845,7 @@ nl:
       one: Iets is nog niet helemaal goed! Controleer de fout hieronder
       other: Iets is nog niet helemaal goed! Bekijk de %{count} fouten hieronder
   html_validator:
-    invalid_markup: 'Bevat ongeldige HTML-markup: %{error}'
+    invalid_markup: "Bevat ongeldige HTML-markup: %{error}"
   identity_proofs:
     active: Actief
     authorize: Ja, autoriseren
@@ -860,8 +860,8 @@ nl:
     i_am_html: Ik ben %{username} op %{service}.
     identity: Identiteit
     inactive: Inactief
-    publicize_checkbox: 'En dit:'
-    publicize_toot: 'Het is bewezen! Ik ben %{username} op %{service}: %{url}'
+    publicize_checkbox: "En dit:"
+    publicize_toot: "Het is bewezen! Ik ben %{username} op %{service}: %{url}"
     remove: Bewijs van account verwijderen
     removed: Het bewijs van account is verwijderd
     status: Verificatiestatus
@@ -885,15 +885,15 @@ nl:
     delete: Deactiveren
     expired: Vervallen
     expires_in:
-      '1800': 30 minuten
-      '21600': 6 uur
-      '3600': 1 uur
-      '43200': 12 uur
-      '604800': 1 week
-      '86400': 1 dag
+      "1800": 30 minuten
+      "21600": 6 uur
+      "3600": 1 uur
+      "43200": 12 uur
+      "604800": 1 week
+      "86400": 1 dag
     expires_in_prompt: Nooit
     generate: Uitnodiging voor uitnodiging genereren
-    invited_by: 'U werd uitgenodigd door:'
+    invited_by: "U werd uitgenodigd door:"
     max_uses:
       one: 1 gebruik
       other: "%{count} gebruikt"
@@ -935,7 +935,7 @@ nl:
     set_redirect: Omleiding instellen
     warning:
       backreference_required: Het nieuwe account moet eerst worden geconfigureerd om terug te verwijzen naar deze
-      before: 'Voordat u verder gaat, leest u deze aantekeningen zorgvuldig:'
+      before: "Voordat u verder gaat, leest u deze aantekeningen zorgvuldig:"
       cooldown: Na het verplaatsen is er een afkoelingsperiode waarin je niet meer in staat bent om weer te bewegen
       disabled_account: Uw huidige account zal daarna niet volledig bruikbaar zijn. U hebt echter toegang tot de gegevensexexport en de activering van de gegevens.
       followers: Met deze actie worden alle volgers van het huidige account naar de nieuwe account verplaatst.
@@ -947,7 +947,7 @@ nl:
   move_handler:
     carry_blocks_over_text: Deze gebruiker verhuisde van %{acct}, die u had geblokkeerd.
     carry_mutes_over_text: Deze gebruiker verhuisde van %{acct}, die u had gedempen.
-    copy_account_note_text: 'Deze gebruiker verplaatst van %{acct}, hier waren uw eerdere opmerkingen over hen:'
+    copy_account_note_text: "Deze gebruiker verplaatst van %{acct}, hier waren uw eerdere opmerkingen over hen:"
   notification_mailer:
     digest:
       action: Alle meldingen bekijken
@@ -961,7 +961,7 @@ nl:
         other: "%{count} nieuwe meldingen sinds uw laatste bezoek \U0001F418"
       title: In uw afwezigheid ...
     favourite:
-      body: 'Uw status is favoriet bij %{name}:'
+      body: "Uw status is favoriet bij %{name}:"
       subject: "%{name} favoriet uw status"
       title: Nieuwe favoriet
     follow:
@@ -971,20 +971,20 @@ nl:
     follow_request:
       action: Follow-opdrachten beheren
       body: "%{name} heeft verzocht om u te volgen"
-      subject: 'In afwachting van volger: %{name}'
+      subject: "In afwachting van volger: %{name}"
       title: Nieuwe volgaanvraag
     mention:
       action: Beantwoorden
-      body: 'U werd genoemd door %{name} in:'
+      body: "U werd genoemd door %{name} in:"
       subject: U werd genoemd door %{name}
       title: Nieuwe vermelding
     reblog:
-      body: 'Uw status is opgestart door %{name}:'
+      body: "Uw status is opgestart door %{name}:"
       subject: "%{name} versterkt uw status"
       title: Nieuwe boost
   notifications:
     email_events: Events voor e-mailmeldingen
-    email_events_hint: 'Selecteer events waarvoor u meldingen wilt ontvangen:'
+    email_events_hint: "Selecteer events waarvoor u meldingen wilt ontvangen:"
     other_settings: Overige instellingen voor meldingen
   number:
     human:
@@ -996,13 +996,13 @@ nl:
           quadrillion: Q
           thousand: K
           trillion: D
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Voer de code in die door uw authenticator-app wordt gegenereerd om te bevestigen
     description_html: Als u <strong>twee-factor authenticatie</strong> inschakelt met behulp van een authenticator app, moet u zich aanmelden om in het bezit te zijn van uw telefoon, die tokens voor u zal genereren om in te voeren.
     enable: Inschakelen
     instructions_html: "<strong>Scan deze QR-code in Google Authenticator of een similiar TOTP-app op uw telefoon</strong>. Vanaf nu zal die app tokens genereren die u zult moeten invoeren wanneer u zich aanmeldt."
-    manual_instructions: 'Als u de QR-code niet kunt scannen en handmatig moet invoeren, is hier het geheim:'
+    manual_instructions: "Als u de QR-code niet kunt scannen en handmatig moet invoeren, is hier het geheim:"
     setup: Instellen
     wrong_code: De ingevoerde code is ongeldig! Zijn servertijd en apparaattijd correct?
   pagination:
@@ -1051,18 +1051,18 @@ nl:
     missing_resource: De vereiste omleidings-URL voor uw account is niet gevonden
     no_account_html: Heb je geen account? U kunt hier <a href='%{sign_up_path}' target='_blank'>aanmelden</a>
     proceed: Ga verder met volgen
-    prompt: 'U gaat volgen:'
+    prompt: "U gaat volgen:"
     reason_html: "<strong>Waarom is deze stap nodig?</strong> <code>%{instance}</code> is mogelijk niet de server waarop u bent geregistreerd, dus moeten we u eerst naar uw homeserver doorsturen."
   remote_interaction:
     favourite:
       proceed: Doorgaan naar favoriet
-      prompt: 'Je wilt het liefst deze toot:'
+      prompt: "Je wilt het liefst deze toot:"
     reblog:
       proceed: Ga door naar een boost
-      prompt: 'Je wilt deze toot verhogen:'
+      prompt: "Je wilt deze toot verhogen:"
     reply:
       proceed: Doorgaan met antwoord
-      prompt: 'U wilt antwoorden op deze toot:'
+      prompt: "U wilt antwoorden op deze toot:"
   scheduled_statuses:
     over_daily_limit: U hebt de limiet van %{limit} geplande toots voor die dag overschreden
     over_total_limit: U hebt de limiet van %{limit} geplande toots overschreden
@@ -1137,7 +1137,7 @@ nl:
       audio:
         one: "%{count} audio"
         other: "%{count} audio"
-      description: 'Toegevoegd: %{attached}'
+      description: "Toegevoegd: %{attached}"
       image:
         one: "%{count} afbeelding"
         other: "%{count} afbeeldingen"
@@ -1145,10 +1145,10 @@ nl:
         one: "%{count} video"
         other: "%{count} video's"
     boosted_from_html: Gebooste van %{acct_link}
-    content_warning: 'Inhoud waarschuwing: %{warning}'
+    content_warning: "Inhoud waarschuwing: %{warning}"
     disallowed_hashtags:
-      one: 'bevat een distoegestane hashtag: %{tags}'
-      other: 'bevat de toegestane hashtags: %{tags}'
+      one: "bevat een distoegestane hashtag: %{tags}"
+      other: "bevat de toegestane hashtags: %{tags}"
     errors:
       in_reply_not_found: De status die u probeert te beantwoorden, lijkt niet te bestaan.
     language_detection: Automatisch taal detecteren
@@ -1296,9 +1296,9 @@ nl:
       subject: Uw archief is klaar om te downloaden
       title: Afhaalbewerking archiveren
     sign_in_token:
-      details: 'Hier zijn details van de poging:'
-      explanation: 'We hebben een poging gevonden om uw account te ondertekenen vanuit een onbekend IP-adres. Als dit u is, geef dan de beveiligingscode hieronder op het teken op de controlepagina:'
-      further_actions: 'Als u dit niet was, wijzig dan uw wachtwoord en schakel twee-factor authenticatie in op uw account. U kunt dit hier doen:'
+      details: "Hier zijn details van de poging:"
+      explanation: "We hebben een poging gevonden om uw account te ondertekenen vanuit een onbekend IP-adres. Als dit u is, geef dan de beveiligingscode hieronder op het teken op de controlepagina:"
+      further_actions: "Als u dit niet was, wijzig dan uw wachtwoord en schakel twee-factor authenticatie in op uw account. U kunt dit hier doen:"
       subject: Bevestig het poging tot aanmelding bij
       title: Aanmelden bij poging
     warning:
@@ -1308,7 +1308,7 @@ nl:
         suspend: Uw account is opgeschort, en al uw toots en uw geüploade mediabestanden zijn onomkeerbaar verwijderd van deze server, en servers waar u volgers had.
       get_in_touch: U kunt antwoorden op deze e-mail om in contact te komen met het personeel van %{instance}.
       review_server_policies: Serverbeleidsdefinities controleren
-      statuses: 'Meer in het bijzonder:'
+      statuses: "Meer in het bijzonder:"
       subject:
         disable: Uw account %{acct} is bevroren
         none: Waarschuwing voor %{acct}
@@ -1324,7 +1324,7 @@ nl:
       edit_profile_step: U kunt uw profiel aanpassen door het uploaden van een avatar, header, het wijzigen van uw weergavenaam en meer. Als u nieuwe volgers wilt bekijken voordat ze u mogen volgen, kunt u uw account vergrendelen.
       explanation: Hier zijn enkele tips om aan de slag te gaan
       final_action: Posten starten
-      final_step: 'Start het posten! Zelfs zonder volgers kunnen uw openbare berichten worden gezien door anderen, bijvoorbeeld op de lokale tijdlijn en in hashtags. Het is mogelijk dat u uzelf wilt introduceren bij de hashtag #introductions .'
+      final_step: "Start het posten! Zelfs zonder volgers kunnen uw openbare berichten worden gezien door anderen, bijvoorbeeld op de lokale tijdlijn en in hashtags. Het is mogelijk dat u uzelf wilt introduceren bij de hashtag #introductions ."
       full_handle: Uw volledige handvat
       full_handle_hint: Dit is wat je je vrienden zou vertellen zodat ze kunnen berichten of je volgen van een andere server.
       review_preferences_action: Voorkeuren wijzigen
@@ -1346,7 +1346,7 @@ nl:
     invalid_sign_in_token: Ongeldige beveiligingscode
     otp_lost_help_html: Als u de toegang tot beide verloren, kunt u in contact komen met %{email}
     seamless_external_login: U bent aangemeld via een externe service, dus het wachtwoord en de e-mailinstellingen zijn niet beschikbaar.
-    signed_in_as: 'Ondertekend als:'
+    signed_in_as: "Ondertekend als:"
     suspicious_sign_in_confirmation: Je lijkt niet eerder ingelogd te zijn vanaf dit apparaat, en je hebt nog geen tijd ingelogd, dus sturen we een beveiligingscode naar je e-mail adres om te bevestigen dat jij het bent.
   verification:
     explanation_html: 'U kunt <strong>controleren als de eigenaar van de links in uw profiel metadata</strong>. Daarvoor moet de gelinkte website een link terug naar uw Chatterly-profiel bevatten. De koppeling terug <strong>moet</strong> hebben een <code>rel="me "</code> kenmerk. De tekstinhoud van de link is niet van belang. Hier is een voorbeeld:'

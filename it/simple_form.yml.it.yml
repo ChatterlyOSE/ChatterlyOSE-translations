@@ -57,7 +57,7 @@ it:
         domain: Questo può essere il nome di dominio che si mostra nell'indirizzo e-mail, il record MX che il dominio risolve a, o l'IP del server su cui si risolve il record MX. Quelli saranno controllati sull'utente firmatario e la segnalata verrà respinta.
         with_dns_records: Verrà effettuato il tentativo di risolvere i record DNS del dominio dato e i risultati saranno anche bloccati
       featured_tag:
-        name: 'Potresti voler usare uno di questi:'
+        name: "Potresti voler usare uno di questi:"
       form_challenge:
         current_password: Si sta entrando in un'area sicura
       imports:
@@ -65,7 +65,7 @@ it:
       invite_request:
         text: Questo ci aiuterà a rivedere la tua applicazione
       sessions:
-        otp: 'Inserire il codice a due fattori generato dalla propria app telefonica o utilizzare uno dei codici di ripristino:'
+        otp: "Inserire il codice a due fattori generato dalla propria app telefonica o utilizzare uno dei codici di ripristino:"
         webauthn: Se è una chiavetta USB assicurarsi di inserirlo e, se necessario, picchiarlo.
       tag:
         name: È possibile modificare solo l'involucro delle lettere, ad esempio per renderla più leggibile
@@ -183,7 +183,7 @@ it:
         name: Hashtag
         trendable: Consentire a questo hashtag di apparire sotto i trend
         usable: Consenti ai toots di utilizzare questo hashtag
-    'no': 'No'
+    "no": "No"
     recommended: Consigliato
     required:
       mark: "*"
@@ -191,4 +191,4 @@ it:
     title:
       sessions:
         webauthn: Usa uno dei tuoi tasti di sicurezza per firmare
-    'yes': 'Sì'
+    "yes": "Sì"

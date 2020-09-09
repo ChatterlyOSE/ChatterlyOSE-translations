@@ -51,7 +51,7 @@ zh-CN:
         callback_urls: 回调 URL
         scopes: 作用域
         secret: 客户机密钥
-        title: '应用程序: %{name}'
+        title: "应用程序: %{name}"
     authorizations:
       buttons:
         authorize: 授权

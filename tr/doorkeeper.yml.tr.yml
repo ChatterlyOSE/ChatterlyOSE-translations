@@ -51,7 +51,7 @@ tr:
         callback_urls: Geri Arama URL
         scopes: Kapsamlar
         secret: İstemci güvenlik dizgisi
-        title: 'Uygulama: %{name}'
+        title: "Uygulama: %{name}"
     authorizations:
       buttons:
         authorize: Yetki Verme
@@ -128,7 +128,7 @@ tr:
       "read:bookmarks": yer işaretlerinizi görme
       "read:favourites": favorilerinizi görme
       "read:filters": süzgeçlerinizi görün
-      "read:follows": 'aşağıdaki bilgileri görebilirsiniz:'
+      "read:follows": "aşağıdaki bilgileri görebilirsiniz:"
       "read:lists": listelerinizi görme
       "read:mutes": Muad'larınızı görün
       "read:notifications": bildirimlerinizi görün

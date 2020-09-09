@@ -57,7 +57,7 @@ pl:
         domain: Może to być nazwa domeny, która jest wyświetlana w adresie e-mail, rekord MX, do którego rozstrzygana jest domena, lub adres IP serwera, na którym jest rozstrzygany rekord MX. Będą one sprawdzane przy logowaniu użytkownika, a sygnalizacja zostanie odrzucona.
         with_dns_records: Podjęta zostanie próba rozstrzygnięcia rekordów DNS danej domeny, a wyniki zostaną zablokowane.
       featured_tag:
-        name: 'Można użyć jednego z następujących elementów:'
+        name: "Można użyć jednego z następujących elementów:"
       form_challenge:
         current_password: Wkraczasz w bezpieczny obszar
       imports:
@@ -65,7 +65,7 @@ pl:
       invite_request:
         text: Pomoże to nam dokonać przeglądu aplikacji
       sessions:
-        otp: 'Wprowadź kod dwuelementowy wygenerowany przez aplikację telefonu lub użyj jednego z kodów odtwarzania:'
+        otp: "Wprowadź kod dwuelementowy wygenerowany przez aplikację telefonu lub użyj jednego z kodów odtwarzania:"
         webauthn: Jeśli jest to klucz USB, należy go włożyć, a w razie potrzeby dotknąć.
       tag:
         name: Można zmienić tylko obudową liter, na przykład, aby było bardziej czytelne
@@ -183,7 +183,7 @@ pl:
         name: Hashtag
         trendable: Zezwalaj na to, aby ten znacznik hash był wyświetlany w trendach
         usable: Zezwalaj na używanie tego znacznika hash w celu użycia tych znaczników
-    'no': 'Nie'
+    "no": "Nie"
     recommended: Zalecane
     required:
       mark: "*"
@@ -191,4 +191,4 @@ pl:
     title:
       sessions:
         webauthn: Użyj jednego z kluczy zabezpieczeń do wpisania się
-    'yes': 'Tak'
+    "yes": "Tak"

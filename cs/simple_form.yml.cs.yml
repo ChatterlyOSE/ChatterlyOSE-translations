@@ -57,7 +57,7 @@ cs:
         domain: Může se jednat o název domény, který se zobrazí v e-mailové adrese, záznam MX, na který se doména interpretuje, nebo adresu IP serveru, na který se záznam MX interpretuje. Tyto položky budou zkontrolovány při přihlášení uživatele a přihlášení bude odmítnuto.
         with_dns_records: Bude proveden pokus o interpretaci záznamů DNS dané domény a budou také blokovány výsledky.
       featured_tag:
-        name: 'Možná budete chtít použít jednu z následujících možností:'
+        name: "Možná budete chtít použít jednu z následujících možností:"
       form_challenge:
         current_password: Vstupujete do zabezpečené oblasti
       imports:
@@ -65,7 +65,7 @@ cs:
       invite_request:
         text: Pomůže nám to zkontrolovat vaši aplikaci
       sessions:
-        otp: 'Zadejte dvoufaktorové kód generovaný vaší telefonickou aplikací, nebo použijte jeden z vašich kódů nápravy:'
+        otp: "Zadejte dvoufaktorové kód generovaný vaší telefonickou aplikací, nebo použijte jeden z vašich kódů nápravy:"
         webauthn: Pokud je to klíč USB, ujistěte se, že ho vložíte a, je-li to nutné, ťukněte na ni.
       tag:
         name: Můžete změnit pouze velikost písmen písmen, například, aby to bylo více čitelné
@@ -183,7 +183,7 @@ cs:
         name: Hashtag
         trendable: Povolit tuto značku hashtag zobrazovat v rámci trendů
         usable: Povolit použití této značky hashtag toots
-    'no': 'Ne.'
+    "no": "Ne."
     recommended: Doporučeno
     required:
       mark: "*"
@@ -191,4 +191,4 @@ cs:
     title:
       sessions:
         webauthn: K přihlášení použijte jeden z vašich klíčů zabezpečení
-    'yes': 'Ano.'
+    "yes": "Ano."

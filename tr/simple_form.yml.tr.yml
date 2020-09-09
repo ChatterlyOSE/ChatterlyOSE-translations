@@ -57,7 +57,7 @@ tr:
         domain: Bu, e-posta adresinde bulunan etki alanı adı, etki alanının çözdüğü MX kaydı ya da MX kaydının çözümleyeceği sunucunun IP ' i olabilir. Bunlar kullanıcı tarafından oturum açtıklarında kontrol edilir ve oturum açma reddedilir.
         with_dns_records: Belirtilen etki alanının DNS kayıtlarını çözme girişimi yapılacak ve sonuçlar da engellenecek.
       featured_tag:
-        name: 'Aşağıdakilerden birini kullanmak isteyebilirsiniz:'
+        name: "Aşağıdakilerden birini kullanmak isteyebilirsiniz:"
       form_challenge:
         current_password: Güvenli bir alana giriyorsun.
       imports:
@@ -65,7 +65,7 @@ tr:
       invite_request:
         text: Bu, uygulamanızı gözden geçirmemize yardımcı olur
       sessions:
-        otp: 'Telefon uygulamanızın ürettiği iki katsayı kodunu girin ya da kurtarma kodlarınızdan birini kullanın:'
+        otp: "Telefon uygulamanızın ürettiği iki katsayı kodunu girin ya da kurtarma kodlarınızdan birini kullanın:"
         webauthn: USB anahtarı taktığınızdan emin olun ve gerekiyorsa, onu tıklatın.
       tag:
         name: Yalnızca harflerin kovanını, örneğin, daha okunaklı hale getirmek için değiştirebilirsiniz.
@@ -183,7 +183,7 @@ tr:
         name: Etiket
         trendable: Bu etiketin eğilimler altında görünmesine izin ver
         usable: Bu etiketi kullanmalarına izin ver
-    'no': 'Hayır'
+    "no": "Hayır"
     recommended: Önerilen
     required:
       mark: "*"
@@ -191,4 +191,4 @@ tr:
     title:
       sessions:
         webauthn: Oturum açmak için güvenlik anahtarlarınızdan birini kullanın
-    'yes': 'Evet'
+    "yes": "Evet"

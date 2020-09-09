@@ -1,11 +1,11 @@
 sv:
   about:
-    about_hashtag_html: 'These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse.'
-    about_mastodon_html: 'Framtidens sociala nätverk: Ingen företagsövervakning, etisk design och decentralisering! Äg dina data med Chatterly!'
+    about_hashtag_html: "These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the chatter-verse."
+    about_mastodon_html: "Framtidens sociala nätverk: Ingen företagsövervakning, etisk design och decentralisering! Äg dina data med Chatterly!"
     about_this: Om
     active_count_after: aktiv
     active_footnote: Månadsvis aktiva användare (MAU)
-    administered_by: 'Administrerad av:'
+    administered_by: "Administrerad av:"
     api: API
     apps: Mobilappar
     apps_platforms: Hämta Chatterly-appen för PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ sv:
     learn_more: Läs mer
     privacy_policy: Privatpolicy
     see_whats_happening: Se vad som händer.
-    server_stats: 'Serverstatistik:'
+    server_stats: "Serverstatistik:"
     source_code: Källkod
     status_count_after:
       one: status
@@ -38,11 +38,11 @@ sv:
     unavailable_content_description:
       domain: Server
       reason: Orsak
-      rejecting_media: 'Mediefiler från dessa servrar kommer inte att bearbetas eller lagras, och inga miniatyrbilder kommer att visas, som kräver manuell klickning till den ursprungliga filen:'
+      rejecting_media: "Mediefiler från dessa servrar kommer inte att bearbetas eller lagras, och inga miniatyrbilder kommer att visas, som kräver manuell klickning till den ursprungliga filen:"
       rejecting_media_title: Filtrerade medier
-      silenced: 'Poster från dessa servrar kommer att döljas i gemensamma tidslinjer och konversationer, och inga aviseringar kommer att genereras från deras användarinteraktioner, såvida du inte följer dem:'
+      silenced: "Poster från dessa servrar kommer att döljas i gemensamma tidslinjer och konversationer, och inga aviseringar kommer att genereras från deras användarinteraktioner, såvida du inte följer dem:"
       silenced_title: Silerade servrar
-      suspended: 'Inga data från dessa servrar kommer att bearbetas, lagras eller bytas ut, vilket gör att det inte går att interagera eller kommunicera med användare från dessa servrar:'
+      suspended: "Inga data från dessa servrar kommer att bearbetas, lagras eller bytas ut, vilket gör att det inte går att interagera eller kommunicera med användare från dessa servrar:"
       suspended_title: Suspenderade servrar
     unavailable_content_html: Chatterly låter dig i allmänhet se innehåll från och interagera med användare från någon annan server i den fediversifierade. Det här är de undantag som har gjorts på den här servern.
     user_count_after:
@@ -481,7 +481,7 @@ sv:
         delete: Radera
         placeholder: Beskriv vilka åtgärder som har vidtagits eller andra relaterade uppdateringar ...
       reopen: Öppna rapport igen
-      report: 'Rapport nr%{id}'
+      report: "Rapport nr%{id}"
       reported_account: Rapporterat konto
       reported_by: Rapporterat av
       resolved: Lösta
@@ -630,10 +630,10 @@ sv:
     new_report:
       body: "%{reporter} har rapporterat %{target}"
       body_remote: Någon från %{domain} har rapporterat %{target}
-      subject: 'Ny rapport för %{instance} (#%{id})'
+      subject: "Ny rapport för %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Hashtaggen #%{name} trendar i dag, men har inte granskats tidigare. Det kommer inte att visas offentligt om du inte tillåter det, eller bara spara formuläret som det är att aldrig höra om det igen.'
-      subject: 'Ny hashtagg upp för granskning på %{instance} (#%{name})'
+      body: "Hashtaggen #%{name} trendar i dag, men har inte granskats tidigare. Det kommer inte att visas offentligt om du inte tillåter det, eller bara spara formuläret som det är att aldrig höra om det igen."
+      subject: "Ny hashtagg upp för granskning på %{instance} (#%{name})"
   aliases:
     add_new: Skapa alias
     created_msg: Ett nytt alias har skapats. Nu kan du initiera flytten från det gamla kontot.
@@ -643,7 +643,7 @@ sv:
     remove: Länkar alias
   appearance:
     advanced_web_interface: Avancerat webbgränssnitt
-    advanced_web_interface_hint: 'Om du vill använda hela skärmbredden kan du konfigurera många olika kolumner så att du kan se så mycket information samtidigt som du vill: Home, Notifications, förenad tidslinje, valfritt antal listor och hashtaggar.'
+    advanced_web_interface_hint: "Om du vill använda hela skärmbredden kan du konfigurera många olika kolumner så att du kan se så mycket information samtidigt som du vill: Home, Notifications, förenad tidslinje, valfritt antal listor och hashtaggar."
     animations_and_accessibility: Animeringar och tillgänglighet
     confirmation_dialogs: Bekräftelsedialogrutor
     discovery: Upptäckt
@@ -656,8 +656,8 @@ sv:
   application_mailer:
     notification_preferences: Ändra e-postinställningar
     salutation: "%{name},"
-    settings: 'Ändra e-postinställningar: %{link}'
-    view: 'Vy:'
+    settings: "Ändra e-postinställningar: %{link}"
+    view: "Vy:"
     view_profile: Visa profil
     view_status: Vystatus
   applications:
@@ -716,8 +716,8 @@ sv:
     already_requested: Du har redan skickat en uppföljningsbegäran till det kontot
     error: Tyvärr uppstod ett fel när fjärrkontot skulle tas bort
     follow: Följ
-    follow_request: 'Du har skickat en uppföljningsbegäran till:'
-    following: 'Framgång! Du följer nu:'
+    follow_request: "Du har skickat en uppföljningsbegäran till:"
+    following: "Framgång! Du följer nu:"
     post_follow:
       close: Eller så kan du stänga fönstret.
       return: Visa användarens profil
@@ -757,7 +757,7 @@ sv:
     proceed: Ta bort konto
     success_msg: Ditt konto togs bort
     warning:
-      before: 'Läs noga igenom dessa anteckningar innan du fortsätter.'
+      before: "Läs noga igenom dessa anteckningar innan du fortsätter."
       caches: Innehåll som har cachas av andra servrar kan bestå
       data_removal: Dina inlägg och andra data kommer att tas bort permanent
       email_change_html: Du kan <a href="%{path}">ändra din e-postadress</a> utan att ta bort ditt konto
@@ -774,19 +774,19 @@ sv:
   domain_validator:
     invalid_domain: är inte ett giltigt domännamn
   errors:
-    '400': Den begäran som du skickade var ogiltig eller felaktig.
-    '403': Du har inte behörighet att visa den här sidan.
-    '404': Jag tror att du har gått fel, det finns inget här.
-    '406': Den här sidan är inte tillgänglig i det begärda formatet.
-    '410': Vi har ett problem, Houston, sidan är borta.
-    '422':
+    "400": Den begäran som du skickade var ogiltig eller felaktig.
+    "403": Du har inte behörighet att visa den här sidan.
+    "404": Jag tror att du har gått fel, det finns inget här.
+    "406": Den här sidan är inte tillgänglig i det begärda formatet.
+    "410": Vi har ett problem, Houston, sidan är borta.
+    "422":
       content: Behörighetskontroll misslyckades. Blockerar du kakor?
       title: Behörighetskontroll misslyckades
-    '429': För många förfrågningar
-    '500':
+    "429": För många förfrågningar
+    "500":
       content: Vi är ledsna, men något gick snett på vår ände. Vi har fått ett meddelande om detta misstag, och arbetar för att lösa det.
       title: Den här sidan är inte korrekt
-    '503': Vi är ledsna, vi verkar ha hög serverbelastning. Vi försöker lösa det här så fort som möjligt.
+    "503": Vi är ledsna, vi verkar ha hög serverbelastning. Vi försöker lösa det här så fort som möjligt.
     noscript_html: Om du vill använda Chatterly kan du aktivera JavaScript. Alternativt kan du försöka med en av de <a href="%{apps_path}">ursprungliga apparna</a> för Chatterly Mobile för din plattform.
   existing_username_validator:
     not_found: det gick inte att hitta en lokal användare med det användarnamnet
@@ -845,7 +845,7 @@ sv:
       one: Något är inte riktigt rätt än! Granska felet nedan
       other: Något är inte riktigt rätt än! Granska %{count} fel under
   html_validator:
-    invalid_markup: 'innehåller ogiltig HTML-märkkod: %{error}'
+    invalid_markup: "innehåller ogiltig HTML-märkkod: %{error}"
   identity_proofs:
     active: Aktiv
     authorize: Ja, ge behörighet
@@ -860,8 +860,8 @@ sv:
     i_am_html: Jag är %{username} på %{service}.
     identity: Identitet
     inactive: Inaktiv
-    publicize_checkbox: 'Och för det här:'
-    publicize_toot: 'Det är bevisat! Jag är %{username} på %{service}: %{url}'
+    publicize_checkbox: "Och för det här:"
+    publicize_toot: "Det är bevisat! Jag är %{username} på %{service}: %{url}"
     remove: Ta bort bevis från konto
     removed: Bevis från konto har tagits bort
     status: Verifieringsstatus
@@ -885,15 +885,15 @@ sv:
     delete: Avaktivera
     expired: Upprörd
     expires_in:
-      '1800': 30 minuter
-      '21600': 6 timmar
-      '3600': 1 timme
-      '43200': 12 timmar
-      '604800': 1 vecka
-      '86400': 1 dag
+      "1800": 30 minuter
+      "21600": 6 timmar
+      "3600": 1 timme
+      "43200": 12 timmar
+      "604800": 1 vecka
+      "86400": 1 dag
     expires_in_prompt: Aldrig
     generate: Generera inbjudna länk
-    invited_by: 'Du blev inbjuden av:'
+    invited_by: "Du blev inbjuden av:"
     max_uses:
       one: 1 användning
       other: "%{count} användning"
@@ -935,7 +935,7 @@ sv:
     set_redirect: Ange omdirigera
     warning:
       backreference_required: Det nya kontot måste först konfigureras för att backa-referera till den här
-      before: 'Läs noga igenom dessa anteckningar innan du fortsätter.'
+      before: "Läs noga igenom dessa anteckningar innan du fortsätter."
       cooldown: Efter att ha flyttat det finns en avsvalningsperiod under vilken du inte kan flytta igen
       disabled_account: Ditt nuvarande konto kommer inte att kunna användas i efterhand. Du kommer dock att ha tillgång till dataexport och återaktivering.
       followers: Åtgärden kommer att flytta alla följare från det aktuella kontot till det nya kontot
@@ -947,7 +947,7 @@ sv:
   move_handler:
     carry_blocks_over_text: Den här användaren har flyttats från %{acct}, som du har blockerat.
     carry_mutes_over_text: Den här användaren har flyttats från %{acct}, som du har muterat.
-    copy_account_note_text: 'Den här användaren flyttade från %{acct}, här var dina tidigare anteckningar om dem:'
+    copy_account_note_text: "Den här användaren flyttade från %{acct}, här var dina tidigare anteckningar om dem:"
   notification_mailer:
     digest:
       action: Visa alla meddelanden
@@ -961,7 +961,7 @@ sv:
         other: "%{count} nya underrättelser sedan ditt senaste besök \U0001F418"
       title: I din frånvaro ...
     favourite:
-      body: 'Din status var favoriter: %{name}:'
+      body: "Din status var favoriter: %{name}:"
       subject: "%{name} Favoriter status"
       title: Ny favorit
     follow:
@@ -971,20 +971,20 @@ sv:
     follow_request:
       action: Hantera uppföljningsbegäran
       body: "%{name} har begärt att få följa dig"
-      subject: 'Väntande följare: %{name}'
+      subject: "Väntande följare: %{name}"
       title: Ny uppföljningsbegäran
     mention:
       action: Svara
-      body: 'Du har nämnts av %{name} i:'
+      body: "Du har nämnts av %{name} i:"
       subject: Du har nämnts av %{name}
       title: Nyheter
     reblog:
-      body: 'Statusen startades av %{name}:'
+      body: "Statusen startades av %{name}:"
       subject: "%{name} boostrade din status"
       title: Ny knuff
   notifications:
     email_events: Händelser för e-postmeddelanden
-    email_events_hint: 'Välj händelser som du vill ta emot meddelanden för:'
+    email_events_hint: "Välj händelser som du vill ta emot meddelanden för:"
     other_settings: Andra aviseringsinställningar
   number:
     human:
@@ -996,13 +996,13 @@ sv:
           quadrillion: F
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Ange den kod som genererats av din autentiseringsapp för att bekräfta
     description_html: Om du aktiverar <strong>2-faktorsautentisering</strong> med hjälp av en autentiseringsapp, måste du ha din telefon, vilket kommer att generera token för dig att skriva in.
     enable: Aktivera
     instructions_html: "<strong>Avsökning av QR-koden i Google Authenticator eller en liknande TOTP-app på din telefon</strong>. Från och med nu kommer den appen att generera token som du måste ange när du loggar in."
-    manual_instructions: 'Om du inte kan avsöka QR-koden och måste skriva in den manuellt, är det här den enkla texthemligheten:'
+    manual_instructions: "Om du inte kan avsöka QR-koden och måste skriva in den manuellt, är det här den enkla texthemligheten:"
     setup: Konfigurera
     wrong_code: Den angivna koden var ogiltig! Är servertid och enhetstid korrekt?
   pagination:
@@ -1051,18 +1051,18 @@ sv:
     missing_resource: Det gick inte att hitta den nödvändiga omdirigerings-URL för ditt konto
     no_account_html: Har du inget konto? Du kan <a href='%{sign_up_path}' target='_blank'>tecken upp här</a>
     proceed: Fortsätt att följa
-    prompt: 'Du kommer att följa:'
+    prompt: "Du kommer att följa:"
     reason_html: "<strong>Varför är detta steg nödvändigt?</strong> <code>%{instance}</code> kanske inte är den server där du är registrerad, så vi behöver omdirigera dig till din hemserver först."
   remote_interaction:
     favourite:
       proceed: Fortsätt till favorit
-      prompt: 'Vill du favoritera den här toot:'
+      prompt: "Vill du favoritera den här toot:"
     reblog:
       proceed: Fortsätta att öka
-      prompt: 'Du vill öka den här toot:'
+      prompt: "Du vill öka den här toot:"
     reply:
       proceed: Fortsätt att svara
-      prompt: 'Du vill svara på följande toot:'
+      prompt: "Du vill svara på följande toot:"
   scheduled_statuses:
     over_daily_limit: Du har överskridit gränsen på %{limit} schemalagda tackor för den dagen
     over_total_limit: Du har överskridit gränsen %{limit} schemalagda toots
@@ -1137,7 +1137,7 @@ sv:
       audio:
         one: "%{count} ljud"
         other: "%{count} ljud"
-      description: 'Ansluten: %{attached}'
+      description: "Ansluten: %{attached}"
       image:
         one: "%{count} -bild"
         other: "%{count} bilder"
@@ -1145,10 +1145,10 @@ sv:
         one: "%{count} video"
         other: "%{count} videor"
     boosted_from_html: Bosted from %{acct_link}
-    content_warning: 'Innehållsvarning: %{warning}'
+    content_warning: "Innehållsvarning: %{warning}"
     disallowed_hashtags:
-      one: 'innehöll en otillåten hashtagg: %{tags}'
-      other: 'innehöll otillåtna hashtaggar: %{tags}'
+      one: "innehöll en otillåten hashtagg: %{tags}"
+      other: "innehöll otillåtna hashtaggar: %{tags}"
     errors:
       in_reply_not_found: Den status du försöker svara på verkar inte finnas.
     language_detection: Detektera automatiskt språk
@@ -1296,9 +1296,9 @@ sv:
       subject: Arkivet är klart för hämtning
       title: Arkivera hämtmat
     sign_in_token:
-      details: 'Här är detaljer om försöket:'
-      explanation: 'Vi upptäckte ett försök att logga in på ditt konto från en oidentifiterad IP-adress. Om detta är du, ange säkerhetskoden nedan på tecknet i utmaningssidan:'
-      further_actions: 'Om det inte var du, kan du ändra ditt lösenord och aktivera tvåfaktorsautentisering på ditt konto. Du kan göra det här:'
+      details: "Här är detaljer om försöket:"
+      explanation: "Vi upptäckte ett försök att logga in på ditt konto från en oidentifiterad IP-adress. Om detta är du, ange säkerhetskoden nedan på tecknet i utmaningssidan:"
+      further_actions: "Om det inte var du, kan du ändra ditt lösenord och aktivera tvåfaktorsautentisering på ditt konto. Du kan göra det här:"
       subject: Bekräfta försök att logga in
       title: Inloggningsförsök
     warning:
@@ -1308,7 +1308,7 @@ sv:
         suspend: Ditt konto har avstängts, och alla dina totter och dina uppladdade mediefiler har tagits bort från den här servern och servrar där du hade följare.
       get_in_touch: Du kan svara på det här e-postmeddelandet för att komma i kontakt med personalen på %{instance}.
       review_server_policies: Granska serverpolicies
-      statuses: 'Närmare bestämt gäller följande:'
+      statuses: "Närmare bestämt gäller följande:"
       subject:
         disable: Ditt konto %{acct} har frusits
         none: Varning för %{acct}
@@ -1324,7 +1324,7 @@ sv:
       edit_profile_step: Du kan anpassa din profil genom att ladda upp en avatar, sidhuvud, ändra visningsnamnet och mer. Om du vill gå igenom nya följare innan de får följa dig, kan du låsa ditt konto.
       explanation: Här är några tips för att få igång dig
       final_action: Starta posting
-      final_step: 'Börja posta! Även utan följare kan dina allmänna meddelanden ses av andra, till exempel på den lokala tidslinjen och i hashtaggar. Du kanske vill presentera dig för hashtaggen #introductions .'
+      final_step: "Börja posta! Även utan följare kan dina allmänna meddelanden ses av andra, till exempel på den lokala tidslinjen och i hashtaggar. Du kanske vill presentera dig för hashtaggen #introductions ."
       full_handle: Ditt fulla handtag
       full_handle_hint: Det här är vad du skulle säga till dina vänner så att de kan lämna meddelanden eller följa dig från en annan server.
       review_preferences_action: Ändra inställningar
@@ -1346,7 +1346,7 @@ sv:
     invalid_sign_in_token: Ogiltig säkerhetskod
     otp_lost_help_html: Om du har förlorat tillgång till båda, kan du få kontakt med %{email}
     seamless_external_login: Du loggas in via en extern tjänst, så lösenord och e-postinställningar är inte tillgängliga.
-    signed_in_as: 'Inloggad som:'
+    signed_in_as: "Inloggad som:"
     suspicious_sign_in_confirmation: Du verkar inte ha loggat in från den här enheten innan, och du har inte loggat in på ett tag, så vi skickar en säkerhetskod till din e-postadress för att bekräfta att det är du.
   verification:
     explanation_html: 'Du kan <strong>verifiera dig själv som ägare till länkarna i din profilmetadata</strong>. För detta måste den länkade webbplatsen innehålla en länk tillbaka till din Chattalsvisa profil. Länken tillbaka <strong>måste ha</strong> ha en <code>rel="me "</code> -attribut. Textinnehållet i länken spelar ingen roll. Här är ett exempel:'

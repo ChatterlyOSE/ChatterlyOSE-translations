@@ -24,7 +24,7 @@ da:
         edit: Redigér
         submit: Afsend
       confirmations:
-        destroy: '-Er du sikker?'
+        destroy: "-Er du sikker?"
       edit:
         title: Redigér applikation
       form:
@@ -51,7 +51,7 @@ da:
         callback_urls: Callback URL ' er
         scopes: Scopes
         secret: Klienthemmelighed
-        title: 'Program: %{name}'
+        title: "Program: %{name}"
     authorizations:
       buttons:
         authorize: Autorisér
@@ -68,7 +68,7 @@ da:
       buttons:
         revoke: Tilbagekald
       confirmations:
-        revoke: '-Er du sikker?'
+        revoke: "-Er du sikker?"
       index:
         application: Ansøgning
         created_at: Autoriseret

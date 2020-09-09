@@ -51,7 +51,7 @@ nl:
         callback_urls: Callback-URL's
         scopes: Bereiken
         secret: Clientgeheim
-        title: 'Toepassing: %{name}'
+        title: "Toepassing: %{name}"
     authorizations:
       buttons:
         authorize: Autoriseren

@@ -51,7 +51,7 @@ de:
         callback_urls: Callback-URLs
         scopes: Bereiche
         secret: Geheimer Client
-        title: 'Anwendung: %{name}'
+        title: "Anwendung: %{name}"
     authorizations:
       buttons:
         authorize: Autorisieren

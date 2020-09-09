@@ -3,7 +3,7 @@ el:
     attributes:
       poll:
         expires_at: '" Προθεσμία'
-        options: ''' Επιλογές'
+        options: "' Επιλογές"
     errors:
       models:
         account:

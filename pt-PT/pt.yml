@@ -1,11 +1,11 @@
 pt:
   about:
-    about_hashtag_html: 'São toots públicos tagged with <strong>#%{hashtag}</strong>. Você pode interagir com eles se tiver uma conta em qualquer lugar do chat-verso.'
-    about_mastodon_html: 'A rede social do futuro: Nenhuma vigilância corporativa, o design ético e a descentralização! Possuir seus dados com Chatterly!'
+    about_hashtag_html: "São toots públicos tagged with <strong>#%{hashtag}</strong>. Você pode interagir com eles se tiver uma conta em qualquer lugar do chat-verso."
+    about_mastodon_html: "A rede social do futuro: Nenhuma vigilância corporativa, o design ético e a descentralização! Possuir seus dados com Chatterly!"
     about_this: Sobre
     active_count_after: ativo
     active_footnote: Usuários Ativos Mensais (MAU)
-    administered_by: 'Administrado por:'
+    administered_by: "Administrado por:"
     api: API
     apps: Apps móveis
     apps_platforms: Baixe o app Chatterly para PC/Mac/iOS/Android
@@ -26,7 +26,7 @@ pt:
     learn_more: Saiba mais
     privacy_policy: Política de privacidade
     see_whats_happening: Veja o que está acontecendo
-    server_stats: 'Estadas do servidor:'
+    server_stats: "Estadas do servidor:"
     source_code: Código de origem
     status_count_after:
       one: status
@@ -38,11 +38,11 @@ pt:
     unavailable_content_description:
       domain: Servidor
       reason: Razão
-      rejecting_media: 'Os arquivos de mídia desses servidores não serão processados ou armazenados, e nenhuma miniatura será exibida, exigindo click-through manual para o arquivo original:'
+      rejecting_media: "Os arquivos de mídia desses servidores não serão processados ou armazenados, e nenhuma miniatura será exibida, exigindo click-through manual para o arquivo original:"
       rejecting_media_title: Mídia filtrada
-      silenced: 'Os posts desses servidores estarão ocultos em cronologias e conversas públicas, e nenhuma notificação será gerada a partir de suas interações de usuários, a menos que você esteja acompanhá-las:'
+      silenced: "Os posts desses servidores estarão ocultos em cronologias e conversas públicas, e nenhuma notificação será gerada a partir de suas interações de usuários, a menos que você esteja acompanhá-las:"
       silenced_title: Servidores silenciados
-      suspended: 'Nenhum dado desses servidores será processado, armazenado ou trocado, inviabilizada qualquer interação ou comunicação com os usuários desses servidores:'
+      suspended: "Nenhum dado desses servidores será processado, armazenado ou trocado, inviabilizada qualquer interação ou comunicação com os usuários desses servidores:"
       suspended_title: Servidores suspensos
     unavailable_content_html: O chatterly geralmente permite que você visualize conteúdo e interaja com usuários de qualquer outro servidor no fediverso. Estas são as exceções que foram feitas neste servidor específico.
     user_count_after:
@@ -481,7 +481,7 @@ pt:
         delete: Excluir
         placeholder: Descreva quais ações foram tomadas, ou quaisquer outras atualizações relacionadas ...
       reopen: Relatório de reabertura
-      report: 'Relatório #%{id}'
+      report: "Relatório #%{id}"
       reported_account: Conta relatada
       reported_by: Relatado por
       resolved: Resolvido
@@ -630,10 +630,10 @@ pt:
     new_report:
       body: "%{reporter} reportou %{target}"
       body_remote: Alguém de %{domain} relatou %{target}
-      subject: 'Novo relatório para %{instance} (#%{id})'
+      subject: "Novo relatório para %{instance} (#%{id})"
     new_trending_tag:
-      body: 'A hashtag #%{name} é tendência hoje, mas não foi revisada anteriormente. Ele não será exibido publicamente a menos que você permita, ou apenas salve a forma como é para nunca mais ouvir falar sobre isso novamente.'
-      subject: 'Nova hashtag up para revisão em %{instance} (#%{name})'
+      body: "A hashtag #%{name} é tendência hoje, mas não foi revisada anteriormente. Ele não será exibido publicamente a menos que você permita, ou apenas salve a forma como é para nunca mais ouvir falar sobre isso novamente."
+      subject: "Nova hashtag up para revisão em %{instance} (#%{name})"
   aliases:
     add_new: Criar alias
     created_msg: Criou com sucesso um novo alias. Agora é possível iniciar a movimentação a partir da conta antiga.
@@ -643,7 +643,7 @@ pt:
     remove: Alias de Unlink
   appearance:
     advanced_web_interface: Interface web avançada
-    advanced_web_interface_hint: 'Se você deseja fazer uso de toda a sua largura de tela, a interface web avançada permite configurar muitas colunas diferentes para ver tanta informação ao mesmo tempo em que você deseja: Home, notificações, cronograma federado, qualquer número de listas e hashtags.'
+    advanced_web_interface_hint: "Se você deseja fazer uso de toda a sua largura de tela, a interface web avançada permite configurar muitas colunas diferentes para ver tanta informação ao mesmo tempo em que você deseja: Home, notificações, cronograma federado, qualquer número de listas e hashtags."
     animations_and_accessibility: Animações e acessibilidade
     confirmation_dialogs: Diálogos de confirmação
     discovery: Descoberta
@@ -656,8 +656,8 @@ pt:
   application_mailer:
     notification_preferences: Alterar preferências de e-mail
     salutation: "%{name},"
-    settings: 'Alterar preferências de e-mail: %{link}'
-    view: 'Visualização:'
+    settings: "Alterar preferências de e-mail: %{link}"
+    view: "Visualização:"
     view_profile: Perfil da visualização
     view_status: Status da visualização
   applications:
@@ -716,8 +716,8 @@ pt:
     already_requested: Você já enviou um pedido de acompanhamento para essa conta
     error: Infelizmente, houve um erro olhando para cima a conta remota
     follow: Seguir
-    follow_request: 'Você enviou uma solicitação de acompanhamento para:'
-    following: 'Sucesso! Você está agora a seguir:'
+    follow_request: "Você enviou uma solicitação de acompanhamento para:"
+    following: "Sucesso! Você está agora a seguir:"
     post_follow:
       close: Ou, você pode simplesmente fechar esta janela.
       return: Mostrar o perfil do usuário
@@ -757,7 +757,7 @@ pt:
     proceed: Excluir conta
     success_msg: Sua conta foi excluída com sucesso
     warning:
-      before: 'Antes de prosseguir, leia atentamente estas notas:'
+      before: "Antes de prosseguir, leia atentamente estas notas:"
       caches: Conteúdo que foi armazenado em cache por outros servidores pode persistir
       data_removal: Seus posts e outros dados serão removidos permanentemente
       email_change_html: Você pode <a href="%{path}">alterar seu endereço de e-mail</a> sem excluir sua conta
@@ -774,19 +774,19 @@ pt:
   domain_validator:
     invalid_domain: não é um nome de domínio válido
   errors:
-    '400': O pedido que você submeteu foi inválido ou malformado.
-    '403': Você não tem permissão para visualizar esta página.
-    '404': Eu acho que você tomou um rumo errado, não tem nada aqui.
-    '406': Esta página não está disponível no formato solicitado.
-    '410': Nós temos um problema Houston, a página se foi.
-    '422':
+    "400": O pedido que você submeteu foi inválido ou malformado.
+    "403": Você não tem permissão para visualizar esta página.
+    "404": Eu acho que você tomou um rumo errado, não tem nada aqui.
+    "406": Esta página não está disponível no formato solicitado.
+    "410": Nós temos um problema Houston, a página se foi.
+    "422":
       content: A verificação de segurança falhou. Você está bloqueando cookies?
       title: Falha na verificação de segurança
-    '429': Demais pedidos
-    '500':
+    "429": Demais pedidos
+    "500":
       content: Lamentamos, mas algo deu errado em nosso fim. Fomos notificados sobre esse erro, e estamos trabalhando para resolvemos.
       title: Esta página não está correta
-    '503': Sentimos muito, parecemos estar experimentando alta carga de servidor. Estamos trabalhando para resolver isso o mais rápido possível.
+    "503": Sentimos muito, parecemos estar experimentando alta carga de servidor. Estamos trabalhando para resolver isso o mais rápido possível.
     noscript_html: Para usar o Chatterly, por favor, ative o JavaScript. Alternativamente, experimente um dos <a href="%{apps_path}">apps nativos</a> para o Chatterly Mobile para sua plataforma.
   existing_username_validator:
     not_found: não foi possível encontrar um usuário local com esse nome de usuário
@@ -845,7 +845,7 @@ pt:
       one: Algo ainda não está bem certo! Por favor, revise o erro abaixo
       other: Algo ainda não está bem certo! Por favor, revise %{count} erros abaixo
   html_validator:
-    invalid_markup: 'contém marcação HTML inválida: %{error}'
+    invalid_markup: "contém marcação HTML inválida: %{error}"
   identity_proofs:
     active: Ativo
     authorize: Sim, autorizar
@@ -860,8 +860,8 @@ pt:
     i_am_html: Eu sou %{username} em %{service}.
     identity: Identidade
     inactive: Inativo
-    publicize_checkbox: 'E toot isso:'
-    publicize_toot: 'Está provado! Eu sou %{username} em %{service}: %{url}'
+    publicize_checkbox: "E toot isso:"
+    publicize_toot: "Está provado! Eu sou %{username} em %{service}: %{url}"
     remove: Remover prova da conta
     removed: Prova removida com sucesso da conta
     status: Status de verificação
@@ -885,15 +885,15 @@ pt:
     delete: Desativar
     expired: Expirado
     expires_in:
-      '1800': 30 minutes
-      '21600': 6 horas
-      '3600': 1 hora
-      '43200': 12 horas
-      '604800': 1 semana
-      '86400': 1 dia
+      "1800": 30 minutes
+      "21600": 6 horas
+      "3600": 1 hora
+      "43200": 12 horas
+      "604800": 1 semana
+      "86400": 1 dia
     expires_in_prompt: Nunca
     generate: Gerar link de convite
-    invited_by: 'Você foi convidado por:'
+    invited_by: "Você foi convidado por:"
     max_uses:
       one: 1 uso
       other: "%{count} usos"
@@ -935,7 +935,7 @@ pt:
     set_redirect: Configurar redirect
     warning:
       backreference_required: A nova conta deve primeiro ser configurada para voltar-referência esta
-      before: 'Antes de prosseguir, leia atentamente estas notas:'
+      before: "Antes de prosseguir, leia atentamente estas notas:"
       cooldown: Depois de comovê-lo há um período de arrefecimento durante o qual você não poderá se mudar novamente
       disabled_account: Sua conta corrente não será totalmente utilizável posteriormente. No entanto, você terá acesso à exportação de dados, assim como a reativação.
       followers: Esta ação movimentará todos os seguidores da conta corrente para a nova conta
@@ -947,7 +947,7 @@ pt:
   move_handler:
     carry_blocks_over_text: Este usuário passou a partir de %{acct}, o qual você tinha bloqueado.
     carry_mutes_over_text: Este usuário passou a partir de %{acct}, o qual você tinha mutado.
-    copy_account_note_text: 'Este usuário passou a partir de %{acct}, aqui foram suas notas anteriores sobre eles:'
+    copy_account_note_text: "Este usuário passou a partir de %{acct}, aqui foram suas notas anteriores sobre eles:"
   notification_mailer:
     digest:
       action: Visualizar todas as notificações
@@ -961,7 +961,7 @@ pt:
         other: "%{count} novas notificações desde sua última visita \U0001F418"
       title: Em sua ausência ...
     favourite:
-      body: 'Seu status foi favorecido por %{name}:'
+      body: "Seu status foi favorecido por %{name}:"
       subject: "%{name} favoritou seu status"
       title: Novo favorito
     follow:
@@ -971,20 +971,20 @@ pt:
     follow_request:
       action: Gerenciar as solicitações de acompanhamento
       body: "%{name} pediu para seguirá-lo"
-      subject: 'Seguidor pendente: %{name}'
+      subject: "Seguidor pendente: %{name}"
       title: Novo pedido de acompanhamento
     mention:
       action: Resposta
-      body: 'Você foi mencionado por %{name} em:'
+      body: "Você foi mencionado por %{name} em:"
       subject: Você foi mencionado por %{name}
       title: Nova menção
     reblog:
-      body: 'Seu status foi impulsionado por %{name}:'
+      body: "Seu status foi impulsionado por %{name}:"
       subject: "%{name} impulsionou seu status"
       title: Novo impulso
   notifications:
     email_events: Eventos para notificações de e-mail
-    email_events_hint: 'Selecione eventos que deseja receber notificações para:'
+    email_events_hint: "Selecione eventos que deseja receber notificações para:"
     other_settings: Outras configurações de notificações
   number:
     human:
@@ -996,13 +996,13 @@ pt:
           quadrillion: P
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Insira o código gerado pelo app do seu autenticador para confirmar
     description_html: Se você ativar a autenticação <strong>de dois fatores</strong> usando um app autenticador, o login irá exigir que você esteja em posse do seu telefone, o que gerará tokens para você entrar.
     enable: Ativar
     instructions_html: "<strong>Scan este código QR no Google Authenticator ou um app TOTP similiar no seu telefone</strong>. A partir de agora, esse app irá gerar tokens que você terá que entrar ao efetuar o login."
-    manual_instructions: 'Se você não puder escanear o código QR e precisar digitá-lo manualmente, aqui está o segredo do texto à parte:'
+    manual_instructions: "Se você não puder escanear o código QR e precisar digitá-lo manualmente, aqui está o segredo do texto à parte:"
     setup: Configurado em
     wrong_code: O código digitado era inválido! O tempo do servidor e o tempo do dispositivo estão corretos?
   pagination:
@@ -1051,18 +1051,18 @@ pt:
     missing_resource: Não foi possível localizar a URL de redirecionamento necessária para sua conta
     no_account_html: Não tem uma conta? Você pode <a href='%{sign_up_path}' target='_blank'>se inscrever aqui</a>
     proceed: Proceder para seguir
-    prompt: 'Você vai seguir:'
+    prompt: "Você vai seguir:"
     reason_html: "<strong>Por que esse passo é necessário?</strong> <code>%{instance}</code> Pode não ser o servidor onde você está registrado, por isso precisamos redirecioná-lo para o seu servidor inicial primeiro."
   remote_interaction:
     favourite:
       proceed: Proceder ao favorito
-      prompt: 'Você quer preferir este toot:'
+      prompt: "Você quer preferir este toot:"
     reblog:
       proceed: Prossiga para impulsionar
-      prompt: 'Você quer impulsionar este toot:'
+      prompt: "Você quer impulsionar este toot:"
     reply:
       proceed: Proceder para responder
-      prompt: 'Você quer responder a este toot:'
+      prompt: "Você quer responder a este toot:"
   scheduled_statuses:
     over_daily_limit: Você ultrapassou o limite de %{limit} rebocas programadas para esse dia
     over_total_limit: Você ultrapassou o limite de %{limit} totens programados
@@ -1137,7 +1137,7 @@ pt:
       audio:
         one: "%{count} áudio"
         other: "%{count} áudio"
-      description: 'Anexado: %{attached}'
+      description: "Anexado: %{attached}"
       image:
         one: "%{count} imagem"
         other: "%{count} imagens"
@@ -1145,10 +1145,10 @@ pt:
         one: "%{count} vídeo"
         other: "%{count} vídeos"
     boosted_from_html: Impulsionado a partir de %{acct_link}
-    content_warning: 'Aviso de conteúdo: %{warning}'
+    content_warning: "Aviso de conteúdo: %{warning}"
     disallowed_hashtags:
-      one: 'continha uma hashtag despermitida: %{tags}'
-      other: 'continha as hashtags despermitidas: %{tags}'
+      one: "continha uma hashtag despermitida: %{tags}"
+      other: "continha as hashtags despermitidas: %{tags}"
     errors:
       in_reply_not_found: O status que você está tentando responder não parece existir.
     language_detection: Detectar automaticamente a linguagem
@@ -1296,9 +1296,9 @@ pt:
       subject: Seu arquivo está pronto para download
       title: Tomada de arquivamento
     sign_in_token:
-      details: 'Aqui estão detalhes da tentativa:'
-      explanation: 'Detectamos uma tentativa de assinar em sua conta a partir de um endereço IP não reconhecido. Se este for você, por favor digite o código de segurança abaixo no sinal em página de desafio:'
-      further_actions: 'Se este não foi você, por favor, altere sua senha e ative a autenticação de dois fatores em sua conta. Você pode fazer isso aqui:'
+      details: "Aqui estão detalhes da tentativa:"
+      explanation: "Detectamos uma tentativa de assinar em sua conta a partir de um endereço IP não reconhecido. Se este for você, por favor digite o código de segurança abaixo no sinal em página de desafio:"
+      further_actions: "Se este não foi você, por favor, altere sua senha e ative a autenticação de dois fatores em sua conta. Você pode fazer isso aqui:"
       subject: Por favor, confirme tentativa de tentativa
       title: Assinar em tentativa
     warning:
@@ -1308,7 +1308,7 @@ pt:
         suspend: Sua conta foi suspensa, e todos os seus toots e seus arquivos de mídia carregados foram removidos irreversivelmente deste servidor, e servidores onde você tinha seguidores.
       get_in_touch: Você pode responder a este e-mail para entrar em contato com o pessoal de %{instance}.
       review_server_policies: Revisar políticas do servidor
-      statuses: 'Especificamente, para:'
+      statuses: "Especificamente, para:"
       subject:
         disable: Sua conta %{acct} foi congelada
         none: Aviso para %{acct}
@@ -1324,7 +1324,7 @@ pt:
       edit_profile_step: Você pode customizar o seu perfil, fazendo o upload de um avatar, cabeçalho, alterando seu nome de exibição e mais. Se você gostaria de rever novos seguidores antes que eles sejam autorizados a seguirá-lo, você pode bloquear sua conta.
       explanation: Aqui estão algumas dicas para você começar
       final_action: Iniciar postagem
-      final_step: 'Comece a postar! Mesmo sem seguidores suas mensagens públicas podem ser vistas por outros, como por exemplo na linha do tempo local e em hashtags. Você pode querer apresentar-se na hashtag #introductions .'
+      final_step: "Comece a postar! Mesmo sem seguidores suas mensagens públicas podem ser vistas por outros, como por exemplo na linha do tempo local e em hashtags. Você pode querer apresentar-se na hashtag #introductions ."
       full_handle: Sua alça completa
       full_handle_hint: Isto é o que você diria aos seus amigos para que eles possam mensagem ou seguirão-lo de outro servidor.
       review_preferences_action: Preferências de mudança
@@ -1346,7 +1346,7 @@ pt:
     invalid_sign_in_token: Código de segurança inválido
     otp_lost_help_html: Se você perdeu o acesso aos dois, você pode entrar em contato com %{email}
     seamless_external_login: Você está logado por meio de um serviço externo, portanto, senha e configurações de e-mail não estão disponíveis.
-    signed_in_as: 'Assinado em como:'
+    signed_in_as: "Assinado em como:"
     suspicious_sign_in_confirmation: Você parece não ter logado a partir deste dispositivo antes, e você não logou por um tempo, então estamos enviando um código de segurança para o seu endereço de e-mail para confirmar que é você.
   verification:
     explanation_html: 'Você pode <strong>verificar a si mesmo como o proprietário dos links em seus metadados de perfil</strong>. Para isso, o website vinculado deve conter um link de volta para o seu perfil Chatterly. O link de volta <strong>deve</strong> ter um atributo <code>rel="me "</code> . O conteúdo do texto do link não importa. Aqui está um exemplo:'

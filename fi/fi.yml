@@ -1,11 +1,11 @@
 fi:
   about:
     about_hashtag_html: Nämä ovat julkisia mellakoita, joissa on <strong>-%{hashtag}</strong>. Voit olla vuorovaikutuksessa heidän kanssaan, jos sinulla on tili missä tahansa katuojajaossa.
-    about_mastodon_html: 'Tulevaisuuden sosiaalinen verkosto: Ei yritysvalvontaa, eettistä suunnittelua ja hajauttamista! Ota tietosi Chatterlynin kanssa!'
+    about_mastodon_html: "Tulevaisuuden sosiaalinen verkosto: Ei yritysvalvontaa, eettistä suunnittelua ja hajauttamista! Ota tietosi Chatterlynin kanssa!"
     about_this: Tietoja
     active_count_after: Aktiivinen
     active_footnote: Kuukausittaiset käyttäjät (MAU)
-    administered_by: 'Rekisteröity:'
+    administered_by: "Rekisteröity:"
     api: API
     apps: Mobiilisovellukset
     apps_platforms: Lataa Chatterlyn-sovellus PC/Mac/iOS/Android-sovellukselle
@@ -26,7 +26,7 @@ fi:
     learn_more: Lue lisää
     privacy_policy: Yksityisyyden suoja
     see_whats_happening: Katso mitä tapahtuu.
-    server_stats: 'Palvelintilastot:'
+    server_stats: "Palvelintilastot:"
     source_code: Lähdekoodi
     status_count_after:
       one: Tila
@@ -37,12 +37,12 @@ fi:
     unavailable_content: Nykyaikaiset palvelimet
     unavailable_content_description:
       domain: Palvelin
-      reason: 'Syy:'
-      rejecting_media: 'Näiden palvelimien mediatiedostoja ei käsitellä tai tallenneta, eikä pienoiskuvia ole näkyvissä, mikä edellyttää manuaalista napsautumaa alkuperäiseen tiedostoon:'
+      reason: "Syy:"
+      rejecting_media: "Näiden palvelimien mediatiedostoja ei käsitellä tai tallenneta, eikä pienoiskuvia ole näkyvissä, mikä edellyttää manuaalista napsautumaa alkuperäiseen tiedostoon:"
       rejecting_media_title: Suodatettu media
-      silenced: 'Nämä palvelimet on piilotettu julkisiin aikajanoihin ja keskusteluihin, eikä niiden käyttäjien yhteisvaikutuksista synny ilmoituksia, ellet seuraa niitä:'
+      silenced: "Nämä palvelimet on piilotettu julkisiin aikajanoihin ja keskusteluihin, eikä niiden käyttäjien yhteisvaikutuksista synny ilmoituksia, ellet seuraa niitä:"
       silenced_title: Hiljaiset palvelimet
-      suspended: 'Näiden palvelimien tietoja ei käsitellä, tallenneta tai vaihtaa, tehdä yhteisvaikutusta tai viestiä näiden palvelimien käyttäjien kanssa mahdottomaksi:'
+      suspended: "Näiden palvelimien tietoja ei käsitellä, tallenneta tai vaihtaa, tehdä yhteisvaikutusta tai viestiä näiden palvelimien käyttäjien kanssa mahdottomaksi:"
       suspended_title: Suspendoitetut palvelimet
     unavailable_content_html: Chatterlynin avulla voit tarkastella sisältöä ja olla vuorovaikutuksessa kaikkien muiden fediversen palvelimen käyttäjien kanssa. Nämä ovat poikkeuksia, jotka on tehty tällä nimenomaisella palvelimella.
     user_count_after:
@@ -481,7 +481,7 @@ fi:
         delete: Poista
         placeholder: Kuvaile, mitä toimia on toteutettu tai mitkä tahansa muut asiaan liittyvät päivitykset ...
       reopen: Reaktin raportti
-      report: 'Raportti #%{id}'
+      report: "Raportti #%{id}"
       reported_account: Ilmoitettu tili
       reported_by: Ilmoitettu
       resolved: Resolattu
@@ -630,10 +630,10 @@ fi:
     new_report:
       body: "%{reporter} , on ilmoitettu %{target}"
       body_remote: Joku %{domain} on ilmoittanut %{target}.
-      subject: 'Uusi raportti %{instance} (#%{id})'
+      subject: "Uusi raportti %{instance} (#%{id})"
     new_trending_tag:
-      body: 'Hashtag #%{name} on trendi tänään, mutta sitä ei ole aiemmin tarkistettu. Se ei tule näkyviin julkisesti, jos et salli sitä, tai vain tallentaa lomakkeen sellaisena kuin se ei enää koskaan kuule siitä.'
-      subject: 'Uusi hashtag, tarkistettavaksi %{instance} (#%{name})'
+      body: "Hashtag #%{name} on trendi tänään, mutta sitä ei ole aiemmin tarkistettu. Se ei tule näkyviin julkisesti, jos et salli sitä, tai vain tallentaa lomakkeen sellaisena kuin se ei enää koskaan kuule siitä."
+      subject: "Uusi hashtag, tarkistettavaksi %{instance} (#%{name})"
   aliases:
     add_new: Luo uusi nimi
     created_msg: Uusi valenimi on luotu. Voit nyt aloittaa siirron vanhasta tilistä.
@@ -643,7 +643,7 @@ fi:
     remove: Poista valenimi
   appearance:
     advanced_web_interface: Web-liittymä
-    advanced_web_interface_hint: 'Jos haluat käyttää koko näytön leveys, kehittynyt Web-käyttöliittymä antaa sinulle mahdollisuuden määrittää useita eri sarakkeita nähdäksesi yhtä paljon tietoja samaan aikaan kuin haluat: koti, ilmoitukset, hajautettu aikajana, minkä tahansa määrän listoja ja hashtags.'
+    advanced_web_interface_hint: "Jos haluat käyttää koko näytön leveys, kehittynyt Web-käyttöliittymä antaa sinulle mahdollisuuden määrittää useita eri sarakkeita nähdäksesi yhtä paljon tietoja samaan aikaan kuin haluat: koti, ilmoitukset, hajautettu aikajana, minkä tahansa määrän listoja ja hashtags."
     animations_and_accessibility: Animatiot ja saatavuus
     confirmation_dialogs: Vahvistusmurteet
     discovery: Discovery
@@ -656,8 +656,8 @@ fi:
   application_mailer:
     notification_preferences: Muuta sähköpostiasetukset
     salutation: "%{name}."
-    settings: 'Sähköpostin oletusasetukset: %{link}'
-    view: 'Näytä:'
+    settings: "Sähköpostin oletusasetukset: %{link}"
+    view: "Näytä:"
     view_profile: Näytä profiili
     view_status: Näytä tila
   applications:
@@ -680,7 +680,7 @@ fi:
       prefix_sign_up: Ilmoittautukaa Chatterlylle tänään!
       suffix: Tilin avulla voit seurata ihmisiä, lähettää päivityksiä ja vaihtaa viestejä käyttäjien kanssa Chatlyn ja enemmän!
     didnt_get_confirmation: Etkö saanut vahvistusohjeita?
-    dont_have_your_security_key: '-Eikö sinulla ole avainta?'
+    dont_have_your_security_key: "-Eikö sinulla ole avainta?"
     forgot_password: Unohdinko salasanasi?
     invalid_reset_password_token: Salasanan nollausmerkki ei kelpaa tai se on vanhentunut. Pyytäkää uutta.
     link_to_otp: Merkitään kaksi tekijää puhelimesta tai elvytyskoodi
@@ -716,8 +716,8 @@ fi:
     already_requested: Olet jo lähettänyt tätä tiliä koskevan pyynnön
     error: Valitettavasti etätilillä oli virhe.
     follow: Seuraa
-    follow_request: 'Lähetitte seuraavan pyynnön:'
-    following: 'Menestys! Olet nyt seuraava:'
+    follow_request: "Lähetitte seuraavan pyynnön:"
+    following: "Menestys! Olet nyt seuraava:"
     post_follow:
       close: Tai voit sulkea ikkunan.
       return: Näytä käyttäjän profiili
@@ -757,7 +757,7 @@ fi:
     proceed: Poista tili
     success_msg: Tilisi on poistettu
     warning:
-      before: 'Ennen kuin jatkat, lue nämä huomautukset huolellisesti:'
+      before: "Ennen kuin jatkat, lue nämä huomautukset huolellisesti:"
       caches: Sisältö, jota muut palvelimet ovat välimuistissa
       data_removal: Asemasi ja muut tiedot poistetaan pysyvästi
       email_change_html: You can <a href="%{path}">change your e-mail address</a> without deleting your account
@@ -774,19 +774,19 @@ fi:
   domain_validator:
     invalid_domain: Ei ole kelvollinen verkkoalueen nimi
   errors:
-    '400': Esitetty pyyntö on virheellinen tai epämuodostunut.
-    '403': Sinulla ei ole tämän sivun tarkasteluoikeuksia.
-    '404': Käännyit väärään suuntaan. Täällä ei ole mitään.
-    '406': Tämä sivu ei ole käytettävissä pyydetyssä muodossa.
-    '410': Meillä on ongelma Houston, sivu on poissa.
-    '422':
+    "400": Esitetty pyyntö on virheellinen tai epämuodostunut.
+    "403": Sinulla ei ole tämän sivun tarkasteluoikeuksia.
+    "404": Käännyit väärään suuntaan. Täällä ei ole mitään.
+    "406": Tämä sivu ei ole käytettävissä pyydetyssä muodossa.
+    "410": Meillä on ongelma Houston, sivu on poissa.
+    "422":
       content: Suojaustarkistus epäonnistui. Estätkö pipareita?
       title: Turvallisuustarkistus epäonnistui
-    '429': Liian monta pyyntöä
-    '500':
+    "429": Liian monta pyyntöä
+    "500":
       content: Olemme pahoillamme, mutta jokin meni pieleen. Meille on ilmoitettu tästä virheestä ja pyrimme ratkaisemaan sen.
       title: Tämä sivu ei ole oikea
-    '503': Olemme pahoillamme, meillä näyttää olevan suuri palvelinkuorma. Yritämme ratkaista tämän mahdollisimman pian.
+    "503": Olemme pahoillamme, meillä näyttää olevan suuri palvelinkuorma. Yritämme ratkaista tämän mahdollisimman pian.
     noscript_html: Jos haluat käyttää Chatterlyna, ota JavaScript käyttöön. Vaihtoehtoisesti voit yrittää Chatterlyn-mobiilisovelluksen <a href="%{apps_path}">paikallista apps</a>.
   existing_username_validator:
     not_found: Paikallista käyttäjää ei löytynyt.
@@ -845,7 +845,7 @@ fi:
       one: Jokin ei ole vielä kunnossa! Tarkista alla oleva virhe
       other: Jokin ei ole vielä kunnossa! Tarkistetaan %{count} virhettä
   html_validator:
-    invalid_markup: 'Sisältää virheellisen HTML-merkintäkielen: %{error}'
+    invalid_markup: "Sisältää virheellisen HTML-merkintäkielen: %{error}"
   identity_proofs:
     active: Käytössä
     authorize: Kyllä, valtuuta
@@ -860,8 +860,8 @@ fi:
     i_am_html: Olen %{username} , %{service}.
     identity: Identiteetti
     inactive: Inaktiivinen
-    publicize_checkbox: 'Ja tämä:'
-    publicize_toot: 'Se on todistettu! Olen %{username} , %{service}: %{url}'
+    publicize_checkbox: "Ja tämä:"
+    publicize_toot: "Se on todistettu! Olen %{username} , %{service}: %{url}"
     remove: Poista todiste tililtä
     removed: Todisteiden poisto on onnistunut
     status: Todentamistila
@@ -885,15 +885,15 @@ fi:
     delete: Deaktivoi
     expired: Ekspipuni
     expires_in:
-      '1800': 30 minuuttia
-      '21600': 6 tuntia
-      '3600': 1 tunti
-      '43200': 12 tuntia
-      '604800': 1 viikko
-      '86400': 1 päivä
+      "1800": 30 minuuttia
+      "21600": 6 tuntia
+      "3600": 1 tunti
+      "43200": 12 tuntia
+      "604800": 1 viikko
+      "86400": 1 päivä
     expires_in_prompt: Ei koskaan
     generate: Luo kutsu linkki
-    invited_by: 'Sinut on kutsuttu:'
+    invited_by: "Sinut on kutsuttu:"
     max_uses:
       one: 1 käyttö
       other: "%{count} käyttö"
@@ -912,7 +912,7 @@ fi:
       not_ready: Tiedostoja, jotka eivät ole valmiita, ei voi liittää. Yritä uudestaan!
       too_many: Yli 4 tiedostoa ei voi liittää
   migrations:
-    acct: 'Siirretty:'
+    acct: "Siirretty:"
     cancel: Peruuta uudelleenkäyttö
     cancel_explanation: Uudelleensuoran peruutus aktivoi nykyisen tilin uudelleen, mutta se ei tuo takaisin seuraajia, jotka on siirretty tiliin.
     cancelled_msg: Kohteen uudelleensuora peruutus on onnistunut.
@@ -935,7 +935,7 @@ fi:
     set_redirect: Aseta ohjain
     warning:
       backreference_required: Uusi tili on ensin määritettävä viittaamaan tähän.
-      before: 'Ennen kuin jatkat, lue nämä huomautukset huolellisesti:'
+      before: "Ennen kuin jatkat, lue nämä huomautukset huolellisesti:"
       cooldown: Muuton jälkeen on jäähdytysaika, jonka aikana et voi liikkua uudelleen
       disabled_account: Nykyinen tilinumerosi ei ole täysin käyttökelpoinen sen jälkeen. Sinulla on kuitenkin pääsy datavientiin sekä uudelleenaktivointiin.
       followers: Tämä toiminto siirtää kaikki seuraajat nykyisestä tililtä uudelle tilille
@@ -947,7 +947,7 @@ fi:
   move_handler:
     carry_blocks_over_text: Tämä käyttäjä on siirtänyt %{acct}, jonka olet estänyt.
     carry_mutes_over_text: Käyttäjä on siirtänyt käyttäjän %{acct}.
-    copy_account_note_text: 'Tämä käyttäjä on siirtynyt %{acct}, tässä olivat aiemmat muistiinpanot niistä:'
+    copy_account_note_text: "Tämä käyttäjä on siirtynyt %{acct}, tässä olivat aiemmat muistiinpanot niistä:"
   notification_mailer:
     digest:
       action: Näytä kaikki ilmoitukset
@@ -961,7 +961,7 @@ fi:
         other: "%{count} Uudet ilmoitukset viimeisimmän vierailusi jälkeen \U0001F418"
       title: Poissaolosi ...
     favourite:
-      body: 'Tilaa suositeltiin %{name}:'
+      body: "Tilaa suositeltiin %{name}:"
       subject: "%{name} suosittu statukseesi"
       title: Uusi suosikki
     follow:
@@ -971,20 +971,20 @@ fi:
     follow_request:
       action: Manage seuraa pyyntöjä
       body: "%{name} on pyydetty seuraamaan sinua"
-      subject: 'Odottaa seuraajaa: %{name}'
+      subject: "Odottaa seuraajaa: %{name}"
       title: Uusi seurantapyyntö
     mention:
       action: Vastaa
-      body: 'Sinut mainittiin %{name}:'
+      body: "Sinut mainittiin %{name}:"
       subject: Sinut mainittiin %{name}.
       title: Uusi maininta
     reblog:
-      body: 'Tilaa tehostettiin %{name}:'
+      body: "Tilaa tehostettiin %{name}:"
       subject: "%{name} Vahvistettu tila"
       title: Uusi tuki
   notifications:
     email_events: Sähköpostiilmoitusten tapahtumat
-    email_events_hint: 'Valitse tapahtumat, jotka haluat vastaanottaa:'
+    email_events_hint: "Valitse tapahtumat, jotka haluat vastaanottaa:"
     other_settings: Muut ilmoitusasetukset
   number:
     human:
@@ -996,13 +996,13 @@ fi:
           quadrillion: Q
           thousand: K
           trillion: T
-          unit: ''
+          unit: ""
   otp_authentication:
     code_hint: Kirjoita todennussovelluksen luoma koodi
     description_html: Jos otat käyttöön <strong>kahden tekijän todennuksen</strong> todennussovelluksella, kirjaus edellyttää, että sinulla on puhelin, joka tuottaa sinulle rahakkeita.
     enable: Enable
     instructions_html: "<strong>Skannaa tämä QR-koodi Google Authenticatoriin tai similiar TOTP-sovellukseen puhelimessasi</strong>. Tästä lähtien tämä sovellus luo sanakkeet, jotka sinun on annettava, kun kirjaudut sisään."
-    manual_instructions: 'Jos et voi skannata QR-koodia ja antaa sen manuaalisesti, tässä on yksinkertainen salaisuus:'
+    manual_instructions: "Jos et voi skannata QR-koodia ja antaa sen manuaalisesti, tässä on yksinkertainen salaisuus:"
     setup: Aseta
     wrong_code: Annettu koodi ei kelpaa! Onko palvelimen aika-ja laiteaika oikea?
   pagination:
@@ -1051,18 +1051,18 @@ fi:
     missing_resource: Tarvittavaa uudelleensuoraa URL-osoitetta ei löytynyt
     no_account_html: Don't have an account? You can <a href='%{sign_up_path}' target='_blank'>sign up here</a>
     proceed: Jatka seuraamaan
-    prompt: 'Sinä tulet seuraamaan:'
+    prompt: "Sinä tulet seuraamaan:"
     reason_html: "<strong>Why is this step necessary?</strong> <code>%{instance}</code> might not be the server where you are registered, so we need to redirect you to your home server first."
   remote_interaction:
     favourite:
       proceed: Edetkää suosikkimme
-      prompt: 'Haluat suosiota tästä tootista:'
+      prompt: "Haluat suosiota tästä tootista:"
     reblog:
       proceed: Jatka vauhdittamiseen
-      prompt: 'Haluat lisätä tätä:'
+      prompt: "Haluat lisätä tätä:"
     reply:
       proceed: Vastaa kysymykseen
-      prompt: 'Haluatko vastata tähän toot: iin:'
+      prompt: "Haluatko vastata tähän toot: iin:"
   scheduled_statuses:
     over_daily_limit: Olet ylittänyt %{limit} ajoitetun aikataulun tuona päivänä
     over_total_limit: Olet ylittänyt raja-arvon %{limit}.
@@ -1137,7 +1137,7 @@ fi:
       audio:
         one: "%{count}"
         other: "%{count}"
-      description: 'Liitetyt: %{attached}'
+      description: "Liitetyt: %{attached}"
       image:
         one: "%{count}"
         other: "%{count} kuvat"
@@ -1145,15 +1145,15 @@ fi:
         one: "%{count} video"
         other: "%{count} videot"
     boosted_from_html: Boosted from %{acct_link}
-    content_warning: 'Sisältövaroitus: %{warning}'
+    content_warning: "Sisältövaroitus: %{warning}"
     disallowed_hashtags:
-      one: 'Sisältää sallitun hashtagin: %{tags}'
-      other: 'Sisältää kiellettyjä hashtageja: %{tags}'
+      one: "Sisältää sallitun hashtagin: %{tags}"
+      other: "Sisältää kiellettyjä hashtageja: %{tags}"
     errors:
       in_reply_not_found: Tila, johon yrität vastata, ei näytä olevan olemassa.
     language_detection: Havaita kieli automaattisesti
     open_in_web: Avaa verkossa
-    over_character_limit: '%{max} merkin raja ylitetty'
+    over_character_limit: "%{max} merkin raja ylitetty"
     pin_errors:
       limit: Olet jo liittänyt toottien enimmäismäärän
       ownership: Joku muu ei voi olla kiinnitettynä
@@ -1170,7 +1170,7 @@ fi:
     show_more: Näytä lisää
     show_thread: Näytä lanka
     sign_in_to_participate: Ilmoittaudu keskusteluun osallistuaksesi keskusteluun
-    title: '%{name}:%{quote}'
+    title: "%{name}:%{quote}"
     visibilities:
       private: Vain seurantalaitteet
       private_long: Näytä vain seuraajille
@@ -1296,9 +1296,9 @@ fi:
       subject: Arkisto on valmis ladattavaksi
       title: Arkistoota
     sign_in_token:
-      details: 'Tässä on lisätietoja yrityksestä:'
-      explanation: 'Havaitsimme yrityksen kirjautua tilillesi tunnistamattoman IP-osoitteen perusteella. Jos tämä on sinä, anna suojauksen koodi alla olevassa suojauskoodissa:'
-      further_actions: 'Jos et ole, vaihda salasana ja ota huomioon kaksi tekijän todennusta tililläsi. Voit tehdä sen täällä:'
+      details: "Tässä on lisätietoja yrityksestä:"
+      explanation: "Havaitsimme yrityksen kirjautua tilillesi tunnistamattoman IP-osoitteen perusteella. Jos tämä on sinä, anna suojauksen koodi alla olevassa suojauskoodissa:"
+      further_actions: "Jos et ole, vaihda salasana ja ota huomioon kaksi tekijän todennusta tililläsi. Voit tehdä sen täällä:"
       subject: Vahvista, että merkki on
       title: Allekirjoita yritys
     warning:
@@ -1308,14 +1308,14 @@ fi:
         suspend: Tilisi on keskeytetty, ja kaikki tootisi ja palvelimeen siirretyt tiedostot on poistettu pysyvästi palvelimesta ja palvelimista, joissa sinulla oli seuraajia.
       get_in_touch: Voit vastata tähän sähköpostiviestiin, jotta voit ottaa yhteyttä henkilöstön kanssa %{instance}.
       review_server_policies: Tarkista palvelinpolitiikat
-      statuses: 'Tarkemmin sanottuna:'
+      statuses: "Tarkemmin sanottuna:"
       subject:
         disable: Tilisi %{acct} on jäädytetty
-        none: 'Varoitus: %{acct}'
+        none: "Varoitus: %{acct}"
         silence: Tilisi %{acct} on rajoitettu
         suspend: Tilisi %{acct} on keskeytetty
       title:
-        disable: 'Tilinumero:'
+        disable: "Tilinumero:"
         none: Varoitus
         silence: Tilin rajoitettu
         suspend: Tili keskeytetty
@@ -1324,7 +1324,7 @@ fi:
       edit_profile_step: Voit mukauttaa profiiliasi lataamalla avatar, ylätunniste, vaihtamalla näyttönimen ja lisää. Jos haluat tarkistaa uusia seuraajia ennen kuin he saavat seurata sinua, voit lukita tilini.
       explanation: Tässä on vinkkejä, jotta pääset alkuun
       final_action: Aloita lähettäminen
-      final_step: 'Aloita lähettäminen! Jopa ilman seuraajia julkiset viestit voivat nähdä muita, esimerkiksi paikallisen aikajanan ja hashtags. Haluat ehkä esitellä itsesi #introductions hashtagilla.'
+      final_step: "Aloita lähettäminen! Jopa ilman seuraajia julkiset viestit voivat nähdä muita, esimerkiksi paikallisen aikajanan ja hashtags. Haluat ehkä esitellä itsesi #introductions hashtagilla."
       full_handle: Koko kahva
       full_handle_hint: Tämä on mitä kerrot ystävillesi, jotta he voivat viestiä tai seurata sinua toisesta palvelimesta.
       review_preferences_action: Muuta oletusasetuksia
@@ -1346,7 +1346,7 @@ fi:
     invalid_sign_in_token: Virheellinen suojauskoodi
     otp_lost_help_html: Jos menetitte yhteyden molempiin, voitte saada yhteyden %{email}.
     seamless_external_login: Olet kirjautunut sisään ulkoisen palvelun kautta, joten salasana ja sähköpostiasetukset eivät ole käytettävissä.
-    signed_in_as: 'Allekirjoitus:'
+    signed_in_as: "Allekirjoitus:"
     suspicious_sign_in_confirmation: Et ole kirjautunut sisään tästä laitteesta ennen, etkä ole kirjautunut sisään vähään aikaan, joten lähetämme sähköpostiosoitteesi turvakoodin vahvistaaksemme, että se olet sinä.
   verification:
     explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your Chatterly profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'

@@ -51,7 +51,7 @@ zh-TW:
         callback_urls: 回呼 URL
         scopes: 斯科佩斯
         secret: 用戶端密碼
-        title: 'Application： %{name}'
+        title: "Application： %{name}"
     authorizations:
       buttons:
         authorize: 授權

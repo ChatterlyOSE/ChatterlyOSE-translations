@@ -57,7 +57,7 @@ es:
         domain: Este puede ser el nombre de dominio que aparece en la dirección de correo electrónico, el registro MX al que se resuelve el dominio o la IP del servidor al que se resuelve el registro MX. Se comprobará el registro del usuario y se rechazará el registro.
         with_dns_records: Se realizará un intento de resolver los registros DNS del dominio dado y los resultados también se bloquearán.
       featured_tag:
-        name: 'Es posible que desee utilizar uno de estos:'
+        name: "Es posible que desee utilizar uno de estos:"
       form_challenge:
         current_password: Está entrando en un área segura
       imports:
@@ -65,7 +65,7 @@ es:
       invite_request:
         text: Esto nos ayudará a revisar su aplicación
       sessions:
-        otp: 'Especifique el código de dos factores generado por la aplicación de teléfono o utilice uno de los códigos de recuperación:'
+        otp: "Especifique el código de dos factores generado por la aplicación de teléfono o utilice uno de los códigos de recuperación:"
         webauthn: Si es una llave USB asegúrese de insertarla y, si es necesario, golpearla.
       tag:
         name: Sólo puede cambiar la carcasa de las letras, por ejemplo, para que sea más legible
@@ -167,7 +167,7 @@ es:
       invite:
         comment: Comentario
       invite_request:
-        text: '¿Por qué quieres unirte?'
+        text: "¿Por qué quieres unirte?"
       notification_emails:
         digest: Enviar correos electrónicos de resumen
         favourite: Alguien favoreció su estado
@@ -183,7 +183,7 @@ es:
         name: Etiqueta
         trendable: Permitir que esta etiqueta aparezca bajo las tendencias
         usable: Permitir a los toots usar esta etiqueta
-    'no': 'No'
+    "no": "No"
     recommended: Recomendado
     required:
       mark: "*"
@@ -191,4 +191,4 @@ es:
     title:
       sessions:
         webauthn: Utilice una de las claves de seguridad para iniciar la sesión
-    'yes': 'Sí'
+    "yes": "Sí"

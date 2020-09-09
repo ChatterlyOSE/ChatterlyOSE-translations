@@ -57,7 +57,7 @@ nl:
         domain: Dit kan de domeinnaam zijn die wordt weergegeven in het e-mailadres, het MX-record dat domein wordt omgezet in, of IP van de server waarop MX-record wordt omgezet. Deze worden gecontroleerd bij het aanmelden van de gebruiker en de aanmelding wordt afgewezen.
         with_dns_records: Een poging om de DNS-records van het gegeven domein op te lossen wordt gemaakt en de resultaten worden ook geblokkeerd
       featured_tag:
-        name: 'U kunt een van deze items gebruiken:'
+        name: "U kunt een van deze items gebruiken:"
       form_challenge:
         current_password: U gaat een beveiligd gebied binnen
       imports:
@@ -65,7 +65,7 @@ nl:
       invite_request:
         text: Dit zal ons helpen uw applicatie te bekijken
       sessions:
-        otp: 'Voer de twee-factor code in die wordt gegenereerd door uw telefoon-app of gebruik een van uw herstelcodes:'
+        otp: "Voer de twee-factor code in die wordt gegenereerd door uw telefoon-app of gebruik een van uw herstelcodes:"
         webauthn: Als het een USB-sleutel is zeker om het in te voegen en, indien nodig, tik op.
       tag:
         name: U kunt alleen de behuizing van de letters wijzigen, bijvoorbeeld om het leesbaarder te maken
@@ -183,7 +183,7 @@ nl:
         name: Hashtag
         trendable: Deze hashtag laten verschijnen onder trends
         usable: Toestaan om deze hashtag te gebruiken
-    'no': 'Nee'
+    "no": "Nee"
     recommended: Aanbevolen
     required:
       mark: "*"
@@ -191,4 +191,4 @@ nl:
     title:
       sessions:
         webauthn: Gebruik een van uw beveiligingssleutels om u aan te melden
-    'yes': 'Ja'
+    "yes": "Ja"

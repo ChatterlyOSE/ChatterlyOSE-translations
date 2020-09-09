@@ -51,7 +51,7 @@ sv:
         callback_urls: Återanrops-URL-adresser
         scopes: Skopar
         secret: Klientsekretess
-        title: 'Program: %{name}'
+        title: "Program: %{name}"
     authorizations:
       buttons:
         authorize: Auktorisera
