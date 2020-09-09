@@ -2,6 +2,6 @@ files:
   - source: '*.yml'
     ignore:
       - base.yml
-    translation: '%original_file_name%.%two_letters_code%.yml'
+    translation: '%original_file_name%.%two_letters_code%.%file_extension%'
   - source: base.yml
     translation: '%two_letters_code%.yml'
